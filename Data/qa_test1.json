@@ -1,0 +1,4002 @@
+[
+    {
+        "question": "Viêm dạ_dày , rối_loạn thần_kinh thực_vật , gai đôi cột_sống nên sử_dụng thuốc như_thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: Viêm dạ_dày, SYMPTOM_AND_DISEASE: rối_loạn thần_kinh thực_vật, SYMPTOM_AND_DISEASE: gai đôi cột_sống"
+    },
+    {
+        "question": "Trẻ 10 tháng bị nổi hạch sau tai có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: nổi hạch"
+    },
+    {
+        "question": "Xuất_hiện cục thịt lồi và sưng vết khâu tầng sinh môn cần làm gì ?",
+        "response": "SYMPTOM_AND_DISEASE: cục thịt lồi, SYMPTOM_AND_DISEASE: sưng vết khâu"
+    },
+    {
+        "question": "Sắt tự_do trong máu cao cần điều_trị thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: Sắt tự_do trong máu cao"
+    },
+    {
+        "question": "Nên mổ tinh_hoàn ẩn cho bé lúc_nào ?",
+        "response": "medical_procedure: mổ tinh_hoàn ẩn"
+    },
+    {
+        "question": "Uống thuốc sai chỉ_dẫn điều_trị lao_phổi có ảnh_hưởng đến kết_quả kháng_sinh đồ không ?",
+        "response": "SYMPTOM_AND_DISEASE: lao_phổi"
+    },
+    {
+        "question": "Cách phòng_tránh chảy_máu cam",
+        "response": "SYMPTOM_AND_DISEASE: chảy_máu cam"
+    },
+    {
+        "question": "Trẻ bị bệnh tai mũi khi nào cần uống thuốc ?",
+        "response": "SYMPTOM_AND_DISEASE: bệnh tai mũi"
+    },
+    {
+        "question": "Đau vùng ngực nhiều vị_trí khác nhau kéo_dài dai_dẳng là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau vùng ngực"
+    },
+    {
+        "question": "Mang thai bị đau hông , phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Mang thai, SYMPTOM_AND_DISEASE: đau hông"
+    },
+    {
+        "question": "Vết khâu tầng sinh môn sưng đau sau mỗi chu_kỳ kinh có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: Vết khâu tầng sinh môn sưng đau"
+    },
+    {
+        "question": "Các nốt mụn thuỷ_đậu bị sưng và mưng mủ , có đáng lo ?",
+        "response": "SYMPTOM_AND_DISEASE: thuỷ_đậu, SYMPTOM_AND_DISEASE: sưng, SYMPTOM_AND_DISEASE: mưng mủ"
+    },
+    {
+        "question": "Bé lâu ngày mới đại_tiện , phân sệt và hơi cứng có phải bị táo_bón không ?",
+        "response": "SYMPTOM_AND_DISEASE: lâu ngày mới đại_tiện, SYMPTOM_AND_DISEASE: phân sệt, SYMPTOM_AND_DISEASE: hơi cứng, SYMPTOM_AND_DISEASE: táo_bón"
+    },
+    {
+        "question": "Chỉ_số đường HBA1c là 7.1% có bị tiểu_đường không ?",
+        "response": "SYMPTOM_AND_DISEASE: tiểu_đường"
+    },
+    {
+        "question": "Lưỡi xuất_hiện tưa trắng , sưng , loét cảnh_báo bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Lưỡi xuất_hiện tưa trắng, SYMPTOM_AND_DISEASE: sưng, SYMPTOM_AND_DISEASE: loét"
+    },
+    {
+        "question": "Trẻ 15 tháng 15 tiếng chưa đi_tiểu có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: chưa đi_tiểu"
+    },
+    {
+        "question": "Phương_pháp điều_trị dự_phòng hen phế_quản tái_phát hiệu_quả",
+        "response": "SYMPTOM_AND_DISEASE: hen phế_quản"
+    },
+    {
+        "question": "Chỉ_số ALT cao 98 U / L liệu có nguy_hiểm không ?",
+        "response": ""
+    },
+    {
+        "question": "Ưu_điểm khi tán sỏi thận qua da bằng ống soi mềm là gì ?",
+        "response": "medical_procedure: tán, SYMPTOM_AND_DISEASE: sỏi thận, medical_procedure: ống soi mềm"
+    },
+    {
+        "question": "Bầu 28 tuần bị đa ối nên khắc_phục thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: đa ối"
+    },
+    {
+        "question": "Ý_nghĩa của việc xét_nghiệm tổng phân_tích tế_bào máu , và nước_tiểu khi mang thai là gì ?",
+        "response": "medical_procedure: xét_nghiệm tổng phân_tích tế_bào máu , và nước_tiểu, SYMPTOM_AND_DISEASE: mang thai"
+    },
+    {
+        "question": "Tại_sao vết cắt bao quy đầu bị phù_nề khi sử_dụng rượu_bia ?",
+        "response": "SYMPTOM_AND_DISEASE: vết cắt bao quy đầu bị phù_nề"
+    },
+    {
+        "question": "Đầu nóng , cổ_họng sưng , mũi sụt_sịt , ăn_không ngon_miệng là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đầu nóng, SYMPTOM_AND_DISEASE: cổ_họng sưng, SYMPTOM_AND_DISEASE: mũi sụt_sịt, SYMPTOM_AND_DISEASE: ăn_không ngon_miệng"
+    },
+    {
+        "question": "Bé 13 tháng gọi tên không phản_ứng hoặc rất ít có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: gọi tên không phản_ứng"
+    },
+    {
+        "question": "Gần 5 tháng chưa có kinh_nguyệt nguyên_nhân do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: chưa có kinh_nguyệt"
+    },
+    {
+        "question": "Vì sao nên khám sức_khoẻ hàng năm ?",
+        "response": "medical_procedure: khám sức_khoẻ"
+    },
+    {
+        "question": "Bít tắc một bên mũi là dấu_hiệu cảnh_báo bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Bít tắc một bên mũi"
+    },
+    {
+        "question": "Trẻ sơ_sinh hay chảy nước , có rỉ mắt là bị làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: chảy nước, SYMPTOM_AND_DISEASE: rỉ mắt"
+    },
+    {
+        "question": "Sau 5 ngày mổ thai ngoài tử_cung xuất_hiện chảy_máu âm_đạo có nguy_hiểm không ?",
+        "response": "medical_procedure: mổ thai ngoài tử_cung, SYMPTOM_AND_DISEASE: chảy_máu âm_đạo"
+    },
+    {
+        "question": "Thường_xuyên khó tiêu sau khi dùng thực_phẩm từ sữa có nên uống men tiêu_hoá không ?",
+        "response": "SYMPTOM_AND_DISEASE: khó tiêu, drug: men tiêu_hoá"
+    },
+    {
+        "question": "Chụp X-quang có ảnh_hưởng đến sức_khoẻ thai_nhi không ?",
+        "response": "medical_procedure: Chụp X-quang"
+    },
+    {
+        "question": "Tại_sao xét_nghiệm công_thức máu cần phải làm nhiều lần khi mang thai ?",
+        "response": "medical_procedure: xét_nghiệm công_thức máu, SYMPTOM_AND_DISEASE: mang thai"
+    },
+    {
+        "question": "Có nên vỗ rung khi trẻ bị đờm ở họng ?",
+        "response": "medical_procedure: vỗ rung, SYMPTOM_AND_DISEASE: đờm"
+    },
+    {
+        "question": "Khó thở , tức lồng_ngực kèm mệt_mỏi cảnh_báo bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Khó thở, SYMPTOM_AND_DISEASE: tức lồng_ngực, SYMPTOM_AND_DISEASE: mệt_mỏi"
+    },
+    {
+        "question": "Ho nhiều về đêm , mệt khi vận_động là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Ho nhiều, SYMPTOM_AND_DISEASE: mệt"
+    },
+    {
+        "question": "Bé 13 ngày tuổi mắt có màu vàng nhạt , nước_tiểu và phân vàng , ngủ hay giật_mình , vặn người là bị làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: mắt có màu vàng nhạt, SYMPTOM_AND_DISEASE: nước_tiểu và phân vàng, SYMPTOM_AND_DISEASE: ngủ hay giật_mình, SYMPTOM_AND_DISEASE: vặn người"
+    },
+    {
+        "question": "Trẻ 11 tháng tuổi chậm lên_cân có phải suy_dinh_dưỡng ?",
+        "response": "SYMPTOM_AND_DISEASE: chậm lên_cân, SYMPTOM_AND_DISEASE: suy_dinh_dưỡng"
+    },
+    {
+        "question": "Hỏi_đáp : Cách điều_trị viêm quanh khớp vai hiệu_quả nhất là gì ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm quanh khớp vai"
+    },
+    {
+        "question": "Bầu gần 3 tháng nhưng bị nổi mề_đay liệu có cách nào trị hết không ?",
+        "response": "SYMPTOM_AND_DISEASE: nổi mề_đay"
+    },
+    {
+        "question": "Đi_đại_tiện ra máu có nên đi kiểm_tra sức_khoẻ ?",
+        "response": "SYMPTOM_AND_DISEASE: Đi_đại_tiện ra máu"
+    },
+    {
+        "question": "Triệu_chứng đau vùng đỉnh đầu , sau tai , thái_dương kèm sốt cảnh_báo bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: đau vùng đỉnh đầu, SYMPTOM_AND_DISEASE: sốt"
+    },
+    {
+        "question": "Hỏi_đáp : Không tiêm thuốc cản_quang chụp MRI có phát_hiện phình mạch_máu não không ?",
+        "response": "drug: cản_quang, medical_procedure: chụp MRI, SYMPTOM_AND_DISEASE: phình mạch_máu não"
+    },
+    {
+        "question": "Trẻ thường chảy nước_dãi hay lè lưỡi kèm ho và bỏ bú nên làm gì ?",
+        "response": "SYMPTOM_AND_DISEASE: chảy nước_dãi, SYMPTOM_AND_DISEASE: lè lưỡi, SYMPTOM_AND_DISEASE: ho, SYMPTOM_AND_DISEASE: bỏ bú"
+    },
+    {
+        "question": "Nên làm gì khi bị ong đốt gây sưng và ngứa ?",
+        "response": "SYMPTOM_AND_DISEASE: sưng, SYMPTOM_AND_DISEASE: ngứa"
+    },
+    {
+        "question": "Ra máu sau mổ thai ngoài tử_cung có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: Ra máu, medical_procedure: mổ thai ngoài tử_cung"
+    },
+    {
+        "question": "Đau mắt đỏ lặp lại mỗi năm có phải biểu_hiện của bệnh_lý nào không ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau mắt đỏ"
+    },
+    {
+        "question": "Đau zona thần_kinh điều_trị thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau zona thần_kinh"
+    },
+    {
+        "question": "Đi_tiểu nhiều lần , kèm theo xuất_tinh có mùi hôi_tanh là triệu_chứng của bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đi_tiểu nhiều lần, SYMPTOM_AND_DISEASE: xuất_tinh có mùi hôi_tanh"
+    },
+    {
+        "question": "Nang cấu_trúc trống âm , vỏ mỏng đều , kích_thước 44x46mm ở buồng_trứng trái có nên mổ không ?",
+        "response": "SYMPTOM_AND_DISEASE: Nang cấu_trúc trống âm, medical_procedure: mổ"
+    },
+    {
+        "question": "Hậu_môn nhân_tạo to phình lên và cứng có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: Hậu_môn nhân_tạo to phình, SYMPTOM_AND_DISEASE: cứng"
+    },
+    {
+        "question": "Hỏi_đáp : Đau 2 bên hàm dưới có phải bị bệnh quai_bị không ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau 2 bên hàm dưới, SYMPTOM_AND_DISEASE: quai_bị"
+    },
+    {
+        "question": "Đau ngứa họng nghẹt mũi và nổi hạch ở cổ là dấu_hiệu của bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau ngứa họng, SYMPTOM_AND_DISEASE: nghẹt mũi, SYMPTOM_AND_DISEASE: nổi hạch"
+    },
+    {
+        "question": "Có_thể tán sỏi hay phải mổ lấy sỏi khi sỏi thận và sỏi niệu_quản biến_chứng giãn bể thận và niệu_quản ?",
+        "response": "medical_procedure: tán sỏi, medical_procedure: mổ lấy sỏi, SYMPTOM_AND_DISEASE: sỏi thận, SYMPTOM_AND_DISEASE: sỏi niệu_quản, SYMPTOM_AND_DISEASE: giãn bể thận, SYMPTOM_AND_DISEASE: niệu_quản"
+    },
+    {
+        "question": "Chu_kỳ kinh_nguyệt ngắn 14 ngày có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: Chu_kỳ kinh_nguyệt ngắn"
+    },
+    {
+        "question": "Bệnh_nhân suy thận mạn giai_đoạn cuối đang chạy thận có uống được sữa Alpha_Lipid không ?",
+        "response": "SYMPTOM_AND_DISEASE: suy thận mạn, medical_procedure: chạy thận"
+    },
+    {
+        "question": "Nên điều_trị HP dạ_dày ở trẻ_em như_thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: HP dạ_dày"
+    },
+    {
+        "question": "Trẻ bị tiêu_chảy cấp có được tiêm_chủng không ?",
+        "response": "SYMPTOM_AND_DISEASE: tiêu_chảy cấp, medical_procedure: tiêm_chủng"
+    },
+    {
+        "question": "Trẻ 12 tuần 1 ngày nên nhỏ rota loại nào ?",
+        "response": "drug: rota"
+    },
+    {
+        "question": "Bé uống sữa mẹ trữ đông đi_ngoài phân lỏng có phải bị tiêu_chảy không ?",
+        "response": "SYMPTOM_AND_DISEASE: đi_ngoài phân lỏng, SYMPTOM_AND_DISEASE: tiêu_chảy"
+    },
+    {
+        "question": "Thường_xuyên ợ chua , nôn sau khi ăn no có phải biểu_hiện bệnh trào ngược dạ_dày ?",
+        "response": "SYMPTOM_AND_DISEASE: ợ chua, SYMPTOM_AND_DISEASE: nôn, SYMPTOM_AND_DISEASE: trào ngược dạ_dày"
+    },
+    {
+        "question": "Trẻ thường nôn trớ khi ăn có đáng lo_ngại hay không ?",
+        "response": "SYMPTOM_AND_DISEASE: nôn"
+    },
+    {
+        "question": "Trẻ không chịu ăn dặm nguyên_nhân do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: không chịu ăn"
+    },
+    {
+        "question": "Trẻ bị viêm kết_mạc mắt nhỏ thuốc không khỏi nên làm gì ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm kết_mạc mắt"
+    },
+    {
+        "question": "Bé 5 tuổi nói ngọng , hay nóng_giận là bị sao ?",
+        "response": "SYMPTOM_AND_DISEASE: nói ngọng, SYMPTOM_AND_DISEASE: nóng_giận"
+    },
+    {
+        "question": "Bị trĩ sau sinh nên ăn_uống thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: Bị trĩ"
+    },
+    {
+        "question": "Hỏi_đáp : Người tiểu_đường bị tiểu chảy , phải làm gì ?",
+        "response": "SYMPTOM_AND_DISEASE: tiểu_đường, SYMPTOM_AND_DISEASE: tiểu chảy"
+    },
+    {
+        "question": "Hạn_chế triệu_chứng rối_loạn tiêu_hoá bằng cách nào ?",
+        "response": "SYMPTOM_AND_DISEASE: rối_loạn tiêu_hoá"
+    },
+    {
+        "question": "Trẻ sơ_sinh bị giật tay_chân , chậm tăng cân có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: giật tay_chân, SYMPTOM_AND_DISEASE: chậm tăng cân"
+    },
+    {
+        "question": "Mắc tiểu nhưng không tiểu được là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: không tiểu được"
+    },
+    {
+        "question": "Nhận_biết bệnh tan máu bẩm_sinh như nào ?",
+        "response": "SYMPTOM_AND_DISEASE: tan máu bẩm_sinh"
+    },
+    {
+        "question": "Kết_quả xét_nghiệm HBeAg positive 59,27 có nguy_hiểm không ?",
+        "response": "medical_procedure: xét_nghiệm HBeAg positive"
+    },
+    {
+        "question": "Suy thận mạn kèm loét dạ_dày , huyết_áp_cao và tiểu_đường phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Suy thận mạn, SYMPTOM_AND_DISEASE: loét dạ_dày, SYMPTOM_AND_DISEASE: huyết_áp_cao, SYMPTOM_AND_DISEASE: tiểu_đường"
+    },
+    {
+        "question": "Phải làm gì khi bị nghẽn động_mạch ?",
+        "response": "SYMPTOM_AND_DISEASE: nghẽn động_mạch"
+    },
+    {
+        "question": "Ù tai bên trái có phải là bệnh ung_thư vòm họng không ?",
+        "response": "SYMPTOM_AND_DISEASE: Ù tai bên trái, SYMPTOM_AND_DISEASE: ung_thư vòm họng"
+    },
+    {
+        "question": "Hội_chứng crouzon có ảnh_hưởng đến sự phát_triển của trẻ không ?",
+        "response": "SYMPTOM_AND_DISEASE: Hội_chứng crouzon"
+    },
+    {
+        "question": "Đau_nhức vú trái , nổi u cục có phải dấu_hiệu ung_thư vú ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau_nhức vú trái, SYMPTOM_AND_DISEASE: nổi u cục, SYMPTOM_AND_DISEASE: ung_thư vú"
+    },
+    {
+        "question": "Xuất_tinh sớm có phải là yếu sinh_lý hay không ?",
+        "response": "SYMPTOM_AND_DISEASE: Xuất_tinh sớm, SYMPTOM_AND_DISEASE: yếu sinh_lý"
+    },
+    {
+        "question": "Sờ tay vào cô bé có_thai được không ?",
+        "response": "SYMPTOM_AND_DISEASE: có_thai"
+    },
+    {
+        "question": "Phát_hiện bị viêm amidan khi đang điều_trị bệnh lao thì phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm amidan, SYMPTOM_AND_DISEASE: lao"
+    },
+    {
+        "question": "Bị viêm gan siêu_vi C , quan_hệ tình_dục có truyền bệnh cho vợ không ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm gan siêu_vi C"
+    },
+    {
+        "question": "Hắt_hơi sổ_mũi , đau_nhức hai bên thái_dương và trên đỉnh đầu , người mệt_mỏi là triệu_chứng bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Hắt_hơi, SYMPTOM_AND_DISEASE: sổ_mũi, SYMPTOM_AND_DISEASE: đau_nhức hai bên thái_dương và trên đỉnh đầu, SYMPTOM_AND_DISEASE: mệt_mỏi"
+    },
+    {
+        "question": "Trẻ 20 ngày tuổi khò_khè kèm theo sổ_mũi là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: khò_khè, SYMPTOM_AND_DISEASE: sổ_mũi"
+    },
+    {
+        "question": "Làm_sao để phụ_nữ sau sinh ngủ ngon ?",
+        "response": ""
+    },
+    {
+        "question": "Trẻ uống sữa công_thức đi_ngoài phân_xanh có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: đi_ngoài phân_xanh"
+    },
+    {
+        "question": "Trẻ đại_tiện có máu : Mẹ nên làm gì ?",
+        "response": "SYMPTOM_AND_DISEASE: đại_tiện có máu"
+    },
+    {
+        "question": "Có nên ngừng thuốc điều_trị viêm amidan khi trẻ có dấu_hiệu khỏi bệnh ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm amidan"
+    },
+    {
+        "question": "Nguyên_nhân nào khiến IVF thất_bại ?",
+        "response": "medical_procedure: IVF"
+    },
+    {
+        "question": "Khắc_phục tình_trạng rò hậu_môn - âm_đạo ở trẻ sơ_sinh như_thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: rò hậu_môn - âm_đạo"
+    },
+    {
+        "question": "Triệu_chứng nghẹn ở cổ gây đau khi cử_động là bệnh gì ạ ?",
+        "response": "SYMPTOM_AND_DISEASE: nghẹn ở cổ, SYMPTOM_AND_DISEASE: đau"
+    },
+    {
+        "question": "Đã điều trị viêm phổi nhưng chưa hết khó thở : Nguyên nhân do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm phổi, SYMPTOM_AND_DISEASE: khó thở"
+    },
+    {
+        "question": "Trẻ có dấu_hiệu bị vàng da và mắt kèm đi_ngoài phân_xanh là bị làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: vàng da và mắt, SYMPTOM_AND_DISEASE: đi_ngoài phân_xanh"
+    },
+    {
+        "question": "Trẻ sơ_sinh nổi mụn đỏ trên má nên bôi thuốc gì ?",
+        "response": "SYMPTOM_AND_DISEASE: nổi mụn đỏ trên má"
+    },
+    {
+        "question": "Đã tiêm phòng liệu có lây bệnh nếu quan_hệ với người bị viêm gan B không ?",
+        "response": "medical_procedure: tiêm phòng, SYMPTOM_AND_DISEASE: viêm gan B"
+    },
+    {
+        "question": "Phì đại tiền_liệt_tuyến kích_thước 40gr , PSA 4.9 mol / l có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: Phì đại tiền_liệt_tuyến"
+    },
+    {
+        "question": "Ngứa , sưng mi mắt là bị làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Ngứa, SYMPTOM_AND_DISEASE: sưng mi mắt"
+    },
+    {
+        "question": "Đánh_giá kết_quả xét_nghiệm miễn_dịch tự_động HbsAg kết_quả 0.5 âm_tính",
+        "response": "medical_procedure: xét_nghiệm miễn_dịch tự_động HbsAg"
+    },
+    {
+        "question": "Nổi hạch vùng góc hàm , dưới cằm , nuốt nghẹn và chóng_mặt là vì sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Nổi hạch vùng góc hàm, SYMPTOM_AND_DISEASE: nuốt nghẹn, SYMPTOM_AND_DISEASE: chóng_mặt"
+    },
+    {
+        "question": "Ngoài chọc ối nên dùng cách nào trong xét_nghiệm di_truyền thai_nhi ?",
+        "response": "medical_procedure: chọc ối, medical_procedure: xét_nghiệm di_truyền thai_nhi"
+    },
+    {
+        "question": "Sau điều_trị 10 ngày vết_thương ở tay bị hoại_tử nên chăm_sóc và ăn_uống thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: vết_thương ở tay bị hoại_tử"
+    },
+    {
+        "question": "Dấu_hiệu nhận_biết áp xe vùng miệng là gì ?",
+        "response": "SYMPTOM_AND_DISEASE: áp xe vùng miệng"
+    },
+    {
+        "question": "Người không vững , nói_lắp , khô miệng là biểu_hiện rối_loạn thần_kinh thực_vật hay rối_loạn tiền_đình ?",
+        "response": "SYMPTOM_AND_DISEASE: Người không vững, SYMPTOM_AND_DISEASE: nói_lắp, SYMPTOM_AND_DISEASE: khô miệng, SYMPTOM_AND_DISEASE: rối_loạn thần_kinh thực_vật, SYMPTOM_AND_DISEASE: rối_loạn tiền_đình"
+    },
+    {
+        "question": "Bé bị táo_bón kéo_dài , hậu_môn có hột lõm ra liệu phải bị trĩ không ?",
+        "response": "SYMPTOM_AND_DISEASE: táo_bón kéo_dài, SYMPTOM_AND_DISEASE: hậu_môn có hột lõm ra, SYMPTOM_AND_DISEASE: trĩ"
+    },
+    {
+        "question": "No chướng ngực kèm khó thở là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: No chướng ngực, SYMPTOM_AND_DISEASE: khó thở"
+    },
+    {
+        "question": "Độ_PH trong tinh_dịch là 7 có cần điều_trị hay không ?",
+        "response": ""
+    },
+    {
+        "question": "Viêm họng mãn_tính chữa mãi không khỏi , tái đi tái lại phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Viêm họng mãn_tính"
+    },
+    {
+        "question": "Ớn lạnh , không ngủ được sau hậu_phẫu cắt túi_mật có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: Ớn lạnh, SYMPTOM_AND_DISEASE: không ngủ được, medical_procedure: hậu_phẫu cắt túi_mật"
+    },
+    {
+        "question": "Dùng thuốc bôi trị ngứa khi đang cho con bú được không ?",
+        "response": "SYMPTOM_AND_DISEASE: ngứa"
+    },
+    {
+        "question": "Cách điều_trị chứng trầm_cảm ở người trẻ tuổi",
+        "response": "SYMPTOM_AND_DISEASE: trầm_cảm"
+    },
+    {
+        "question": "Mổ bướu_cổ sau sinh mổ có ảnh_hưởng đến sức_khoẻ không ?",
+        "response": "medical_procedure: Mổ bướu_cổ, medical_procedure: sinh mổ"
+    },
+    {
+        "question": "Sau nạo hút 6 ngày có uống thuốc tránh thai và bị ra máu , phải làm_sao ?",
+        "response": "medical_procedure: nạo hút, drug: thuốc tránh thai, SYMPTOM_AND_DISEASE: ra máu"
+    },
+    {
+        "question": "Đọc kết_quả xét_nghiệm nồng_độ HCG trong máu",
+        "response": "medical_procedure: xét_nghiệm nồng_độ HCG"
+    },
+    {
+        "question": "Đau ngực giữa , rát cổ_họng xuống mỏ_ác là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau ngực giữa, SYMPTOM_AND_DISEASE: rát cổ_họng xuống mỏ_ác"
+    },
+    {
+        "question": "Dương_vật đau , nổi mụn hạt ở rãnh bao quy đầu cảnh_báo bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Dương_vật đau, SYMPTOM_AND_DISEASE: nổi mụn hạt"
+    },
+    {
+        "question": "Ho liên_tục vào sáng và tối là dấu_hiệu của bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Ho liên_tục"
+    },
+    {
+        "question": "Răng còn nguyên_vẹn sau gãy liệu có_thể cấy vào vị_trí cũ được không ?",
+        "response": "medical_procedure: cấy"
+    },
+    {
+        "question": "Thay_thế thuốc Amlove_DHA bằng loại khác trong điều_trị động_kinh cho bé được không ?",
+        "response": "drug: thuốc Amlove_DHA, SYMPTOM_AND_DISEASE: động_kinh"
+    },
+    {
+        "question": "Nguyên_nhân không thụ_thai được có phải do thuốc tránh thai khẩn_cấp ?",
+        "response": "SYMPTOM_AND_DISEASE: không thụ_thai, drug: thuốc tránh thai"
+    },
+    {
+        "question": "Tình_trạng trẻ uống sữa công_thức ít đi_ngoài kéo_dài bao_lâu ?",
+        "response": "SYMPTOM_AND_DISEASE: ít đi_ngoài"
+    },
+    {
+        "question": "Cộm và nhìn thấy khoé mắt có bóng dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Cộm, SYMPTOM_AND_DISEASE: nhìn thấy khoé mắt có bóng"
+    },
+    {
+        "question": "Thai_phụ có vách ngăn buồng tử_cung liệu có cần đặt_vòng nâng ?",
+        "response": "medical_procedure: đặt_vòng nâng"
+    },
+    {
+        "question": "Ho dai_dẳng không khỏi kèm ngạt_mũi là bị làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Ho dai_dẳng, SYMPTOM_AND_DISEASE: ngạt_mũi"
+    },
+    {
+        "question": "Điều_trị viêm bể thận như_thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm bể thận"
+    },
+    {
+        "question": "Người bị cao huyết_áp và tiền_sử đột_quỵ có_thể uống thuốc Celecoxib không ?",
+        "response": "SYMPTOM_AND_DISEASE: cao huyết_áp, SYMPTOM_AND_DISEASE: đột_quỵ, drug: thuốc Celecoxib"
+    },
+    {
+        "question": "Trẻ 5 tuổi thường_xuyên đái_dầm có phải thận kém không ?",
+        "response": "SYMPTOM_AND_DISEASE: đái_dầm, SYMPTOM_AND_DISEASE: thận kém"
+    },
+    {
+        "question": "Bao_lâu sau nhổ răng_khôn có_thể ăn được ?",
+        "response": "medical_procedure: nhổ răng_khôn"
+    },
+    {
+        "question": "Điều_trị choáng và khó thở bằng thuốc hoạt_huyết dưỡng não và sắt không đỡ phải làm_sao",
+        "response": "SYMPTOM_AND_DISEASE: choáng, SYMPTOM_AND_DISEASE: khó thở, drug: thuốc hoạt_huyết dưỡng não và sắt"
+    },
+    {
+        "question": "Trẻ mấy tuổi có_thể phẫu_thuật rò luân nhĩ ?",
+        "response": "medical_procedure: phẫu_thuật rò luân nhĩ"
+    },
+    {
+        "question": "Phẫu_thuật mang thai ngoài tử_cung trong thời_gian bao_lâu có_thể mang thai lại ?",
+        "response": "medical_procedure: Phẫu_thuật mang thai ngoài tử_cung trong, SYMPTOM_AND_DISEASE: mang thai"
+    },
+    {
+        "question": "Bị đau_đầu vú khi cho trẻ bú nên dùng thuốc gì ?",
+        "response": "SYMPTOM_AND_DISEASE: đau_đầu vú"
+    },
+    {
+        "question": "Đại_tiện phân lỏng , không thành khuôn phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: phân lỏng, SYMPTOM_AND_DISEASE: không thành khuôn"
+    },
+    {
+        "question": "Mẹ bầu tháng thứ 7 bị tăng huyết_áp phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: tăng huyết_áp"
+    },
+    {
+        "question": "Hay suy_nghĩ , cáu_gắt , căng_thẳng , lo_sợ cảnh_báo bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Hay suy_nghĩ, SYMPTOM_AND_DISEASE: cáu_gắt, SYMPTOM_AND_DISEASE: căng_thẳng, SYMPTOM_AND_DISEASE: lo_sợ"
+    },
+    {
+        "question": "Trán nóng , kẹp nhiệt_kế dưới 37 độ C có được coi là sốt không ?",
+        "response": "SYMPTOM_AND_DISEASE: Trán nóng, medical_procedure: kẹp nhiệt_kế, SYMPTOM_AND_DISEASE: sốt"
+    },
+    {
+        "question": "Hỏi_đáp : Nổi hạch cứng ở 2 nách có mủ trắng và hơi đau có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: Nổi hạch cứng ở 2 nách có mủ trắng, SYMPTOM_AND_DISEASE: hơi đau"
+    },
+    {
+        "question": "Trẻ thường chảy_máu cam liệu có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: chảy_máu cam"
+    },
+    {
+        "question": "Bị stress , căng_thẳng uống thuốc có phục_hồi lại thần_kinh não bộ không ?",
+        "response": "SYMPTOM_AND_DISEASE: Bị stress, SYMPTOM_AND_DISEASE: căng_thẳng"
+    },
+    {
+        "question": "Có cảm_giác lạnh vùng ngực trái là do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: lạnh vùng ngực trái"
+    },
+    {
+        "question": "Bị mất_ngủ có nên dùng Vitamin B6 không ?",
+        "response": "SYMPTOM_AND_DISEASE: mất_ngủ, drug: Vitamin B6"
+    },
+    {
+        "question": "Đau tức ngực , khó thở nên sử_dụng biện_pháp nào giúp cải_thiện ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau tức ngực, SYMPTOM_AND_DISEASE: khó thở"
+    },
+    {
+        "question": "Ho có đờm , đau vùng lưng sau có phải là dấu_hiệu ung_thư phổi không ?",
+        "response": "SYMPTOM_AND_DISEASE: Ho có đờm, SYMPTOM_AND_DISEASE: đau vùng lưng sau, SYMPTOM_AND_DISEASE: ung_thư phổi"
+    },
+    {
+        "question": "Thường phải hít hơi sâu , khó thở , đau bụng biểu_hiện bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: khó thở, SYMPTOM_AND_DISEASE: đau bụng"
+    },
+    {
+        "question": "Trẻ thường nôn , buồn_nôn là dấu_hiệu bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: nôn, SYMPTOM_AND_DISEASE: buồn_nôn"
+    },
+    {
+        "question": "Đau dạ_dày sau phẫu_thuật có nguyên_nhân do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau dạ_dày, medical_procedure: phẫu_thuật"
+    },
+    {
+        "question": "Nằm sấp bị tức bụng , buồn_nôn và trễ kinh sau uống thuốc tránh thai liệu có phải mang bầu không ?",
+        "response": "SYMPTOM_AND_DISEASE: tức bụng, SYMPTOM_AND_DISEASE: buồn_nôn, SYMPTOM_AND_DISEASE: trễ kinh, drug: thuốc tránh thai, SYMPTOM_AND_DISEASE: mang bầu"
+    },
+    {
+        "question": "Bà bầu 4 tháng bị sỏi thận 6mm liệu có ảnh_hưởng đến thai_nhi không ?",
+        "response": "SYMPTOM_AND_DISEASE: sỏi thận"
+    },
+    {
+        "question": "Nên làm gì khi đã cắt hạch giao_cảm nhưng mồ_hôi lưng , ngực và chân vẫn nhiều ?",
+        "response": "medical_procedure: cắt hạch giao_cảm, SYMPTOM_AND_DISEASE: mồ_hôi lưng"
+    },
+    {
+        "question": "Sau mổ dạ_dày người_bệnh mắc táo_bón nên làm gì ?",
+        "response": "medical_procedure: mổ dạ_dày, SYMPTOM_AND_DISEASE: táo_bón"
+    },
+    {
+        "question": "Phần thóp sau của bé có 2 rãnh , xương chẩm hơi lồi ra phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Phần thóp sau của bé có 2 rãnh , xương chẩm hơi lồi"
+    },
+    {
+        "question": "Tinh_dịch bị vón cục là do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: Tinh_dịch bị vón cục"
+    },
+    {
+        "question": "Nên cắt dính thắng lưỡi cho trẻ ở độ tuổi nào ?",
+        "response": "medical_procedure: cắt dính thắng lưỡi"
+    },
+    {
+        "question": "Bệnh cúm thường kéo_dài bao_lâu ?",
+        "response": "SYMPTOM_AND_DISEASE: Bệnh cúm"
+    },
+    {
+        "question": "Phụ_nữ mang thai sử_dụng thuốc Augmentin 625mg có ảnh_hưởng đến thai_nhi không ?",
+        "response": "SYMPTOM_AND_DISEASE: mang thai, drug: thuốc Augmentin 625mg"
+    },
+    {
+        "question": "Chóng_mặt kéo_dài sau khi đi tàu là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Chóng_mặt"
+    },
+    {
+        "question": "Làm thế_nào để khỏi bệnh thuỷ_đậu nhanh_chóng ?",
+        "response": "SYMPTOM_AND_DISEASE: thuỷ_đậu"
+    },
+    {
+        "question": "Bé uống thuốc điều_trị viêm hạch mạc treo nhưng không cải_thiện , phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm hạch mạc treo"
+    },
+    {
+        "question": "Buồn_nôn khi đói có phải là dấu_hiệu bệnh trào ngược dạ_dày - thực_quản ?",
+        "response": "SYMPTOM_AND_DISEASE: Buồn_nôn, SYMPTOM_AND_DISEASE: trào ngược dạ_dày - thực_quản"
+    },
+    {
+        "question": "Phương_pháp giảm khó_chịu và ngứa rát trĩ độ 4",
+        "response": "SYMPTOM_AND_DISEASE: khó_chịu, SYMPTOM_AND_DISEASE: ngứa rát, SYMPTOM_AND_DISEASE: trĩ độ 4"
+    },
+    {
+        "question": "Trẻ sơ_sinh khụt_khịt mũi , đi_ngoài hoa_cà_hoa_cải liệu có đáng lo ?",
+        "response": "SYMPTOM_AND_DISEASE: khụt_khịt mũi, SYMPTOM_AND_DISEASE: đi_ngoài hoa_cà_hoa_cải"
+    },
+    {
+        "question": "Ớn lạnh , chóng_mặt uống thuốc không đỡ phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Ớn lạnh, SYMPTOM_AND_DISEASE: chóng_mặt"
+    },
+    {
+        "question": "Bướu huyết_thanh ở trẻ sơ_sinh có_thể tan hết không ?",
+        "response": "SYMPTOM_AND_DISEASE: Bướu huyết_thanh ở trẻ sơ_sinh"
+    },
+    {
+        "question": "Khó thở có phải do bệnh_lý tại phổi ?",
+        "response": "SYMPTOM_AND_DISEASE: Khó thở, SYMPTOM_AND_DISEASE: bệnh_lý tại phổi"
+    },
+    {
+        "question": "Bé 10 ngày tuổi thở khò_khè thì phải làm thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: thở khò_khè"
+    },
+    {
+        "question": "Vàng da cơ_thể mệt_mỏi dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Vàng da, SYMPTOM_AND_DISEASE: cơ_thể mệt_mỏi"
+    },
+    {
+        "question": "Mắc ngoại tâm thu thất kèm mệt_mỏi , khó thở có phải bệnh tim đang nặng hơn ?",
+        "response": "SYMPTOM_AND_DISEASE: ngoại tâm thu thất, SYMPTOM_AND_DISEASE: mệt_mỏi, SYMPTOM_AND_DISEASE: khó thở, SYMPTOM_AND_DISEASE: bệnh tim"
+    },
+    {
+        "question": "Cách phục_hồi chức_năng vận_động sau chấn_thương gãy chân ?",
+        "response": "SYMPTOM_AND_DISEASE: chấn_thương gãy chân"
+    },
+    {
+        "question": "Có_thể thay_đổi lịch tiêm vắc-xin viêm màng não mủ được không ?",
+        "response": "medical_procedure: tiêm vắc-xin, SYMPTOM_AND_DISEASE: viêm màng não mủ"
+    },
+    {
+        "question": "Kiểm_soát cân nặng sau khi phẫu_thuật tim",
+        "response": "medical_procedure: phẫu_thuật tim"
+    },
+    {
+        "question": "Dùng thuốc tránh thai khẩn_cấp trong thời_gian nuôi con bú có ảnh_hưởng không ?",
+        "response": "drug: thuốc tránh thai"
+    },
+    {
+        "question": "Vì sao vết tiêm vẫn sưng đỏ sau 1 tuần ?",
+        "response": "SYMPTOM_AND_DISEASE: sưng đỏ"
+    },
+    {
+        "question": "Trẻ nhỏ bị mòn răng_hàm phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: mòn răng_hàm"
+    },
+    {
+        "question": "Thuốc Curam và Domperidon có ảnh_hưởng đến kết_quả xét_nghiệm HP không ?",
+        "response": "drug: Thuốc Curam, drug: Domperidon, medical_procedure: xét_nghiệm HP"
+    },
+    {
+        "question": "Làm thế_nào để bé hết ọc sữa và khàn giọng ?",
+        "response": "SYMPTOM_AND_DISEASE: ọc sữa, SYMPTOM_AND_DISEASE: khàn giọng"
+    },
+    {
+        "question": "Viêm kết_mạc dị_ứng uống thuốc nhưng không khỏi phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Viêm kết_mạc dị_ứng"
+    },
+    {
+        "question": "Bé đi vệ_sinh và xì hơi hay quấy khóc , rặn có vấn_đề gì không ?",
+        "response": "SYMPTOM_AND_DISEASE: xì hơi, SYMPTOM_AND_DISEASE: quấy khóc, SYMPTOM_AND_DISEASE: rặn"
+    },
+    {
+        "question": "Dùng chất kích_thích có ảnh_hưởng đến thai_nhi không ?",
+        "response": "drug: chất kích_thích"
+    },
+    {
+        "question": "Giãn phế_nang và giãn phế_quản là 2 bệnh khác nhau phải không ?",
+        "response": "SYMPTOM_AND_DISEASE: Giãn phế_nang, SYMPTOM_AND_DISEASE: giãn phế_quản"
+    },
+    {
+        "question": "Trẻ 8 tháng bị sốt , quấy khóc , biếng ăn có đáng lo ?",
+        "response": "SYMPTOM_AND_DISEASE: sốt, SYMPTOM_AND_DISEASE: quấy khóc, SYMPTOM_AND_DISEASE: biếng ăn"
+    },
+    {
+        "question": "Vùng bắt ốc vít sưng , đau , há miệng khó sau phẫu_thuật gãy xương quai_hàm phải làm thế_nào ?",
+        "response": "medical_procedure: sưng, SYMPTOM_AND_DISEASE: đau, SYMPTOM_AND_DISEASE: há miệng khó, medical_procedure: phẫu_thuật gãy xương quai_hàm"
+    },
+    {
+        "question": "Mang bầu có được uống thuốc điều_trị viêm gan B ?",
+        "response": "SYMPTOM_AND_DISEASE: Mang bầu, SYMPTOM_AND_DISEASE: viêm gan B"
+    },
+    {
+        "question": "Thường_xuyên bị ngứa vùng kín có ảnh_hưởng đến khả_năng sinh_sản ?",
+        "response": "SYMPTOM_AND_DISEASE: ngứa vùng kín"
+    },
+    {
+        "question": "Có cần uống thuốc tránh thai khi dương_vật mới đưa vào âm_đạo rồi rút ra ?",
+        "response": "drug: thuốc tránh thai"
+    },
+    {
+        "question": "Chậm kinh một ngày có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: Chậm kinh"
+    },
+    {
+        "question": "Thuốc tê có gây hại cho thai_nhi không ?",
+        "response": "drug: Thuốc tê"
+    },
+    {
+        "question": "Bị sỏi niệu_quản nên uống thuốc chờ tán sỏi hay dùng phương_pháp điều_trị nào khác ?",
+        "response": "SYMPTOM_AND_DISEASE: sỏi niệu_quản, medical_procedure: tán sỏi"
+    },
+    {
+        "question": "Bị ép_bụng mỗi khi hồi hộp là dấu_hiệu bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: ép_bụng"
+    },
+    {
+        "question": "Buồn_nôn , ợ hơi , chướng bụng có phải trào ngược dạ_dày không ?",
+        "response": "SYMPTOM_AND_DISEASE: Buồn_nôn, SYMPTOM_AND_DISEASE: ợ hơi, SYMPTOM_AND_DISEASE: chướng bụng, SYMPTOM_AND_DISEASE: trào ngược dạ_dày"
+    },
+    {
+        "question": "Lượng đường trong máu trước khi ăn là 100 md / dl có đáng lo_ngại ?",
+        "response": ""
+    },
+    {
+        "question": "Cổ_họng xuất_hiện hạt li_ti có mùi hôi là triệu_chứng của bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Cổ_họng xuất_hiện hạt li_ti, SYMPTOM_AND_DISEASE: mùi hôi"
+    },
+    {
+        "question": "Trẻ sơ_sinh 8 tháng tuổi không chịu đứng có bình_thường không ?",
+        "response": "SYMPTOM_AND_DISEASE: không chịu đứng"
+    },
+    {
+        "question": "Trẻ sơ_sinh hay nghiến răng có cách nào để khắc_phục không ?",
+        "response": "SYMPTOM_AND_DISEASE: hay nghiến răng"
+    },
+    {
+        "question": "Làm gì khi thường_xuyên bị đau ngực , khó thở , đổ mồ_hôi ?",
+        "response": "SYMPTOM_AND_DISEASE: đau ngực, SYMPTOM_AND_DISEASE: khó thở, SYMPTOM_AND_DISEASE: đổ mồ_hôi"
+    },
+    {
+        "question": "Điều_trị viêm niệu_đạo nhiều lần không khỏi dứt_điểm nguyên_nhân do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm niệu_đạo"
+    },
+    {
+        "question": "Điều_trị sưng lợi khi mang thai 37 tuần như_thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: sưng lợi, SYMPTOM_AND_DISEASE: mang thai"
+    },
+    {
+        "question": "Sinh mổ lần 3 và kết_hợp treo_cổ tử_cung được không ?",
+        "response": "medical_procedure: Sinh mổ, medical_procedure: treo_cổ tử_cung"
+    },
+    {
+        "question": "Có_thể phẫu_thuật gắp sỏi mà không mất túi_mật không ?",
+        "response": "medical_procedure: phẫu_thuật gắp sỏi"
+    },
+    {
+        "question": "Kết_quả xét_nghiệm HIV tuần thứ 18 có chính_xác không ?",
+        "response": "medical_procedure: xét_nghiệm HIV"
+    },
+    {
+        "question": "Đau khớp khi gập , duỗi chân có phải trật khớp không ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau khớp, SYMPTOM_AND_DISEASE: trật khớp"
+    },
+    {
+        "question": "Bị ra máu sau khi đặt_vòng tránh thai có nên đi tháo vòng không ?",
+        "response": "SYMPTOM_AND_DISEASE: ra máu, medical_procedure: đặt_vòng tránh thai, medical_procedure: tháo vòng"
+    },
+    {
+        "question": "Trẻ 17 tháng bị nôn khi ăn_uống cần làm gì ?",
+        "response": "SYMPTOM_AND_DISEASE: nôn"
+    },
+    {
+        "question": "Da khô và có nhiều mụn ẩn nên dùng thuốc trị mụn nào ?",
+        "response": "SYMPTOM_AND_DISEASE: Da khô, SYMPTOM_AND_DISEASE: nhiều mụn ẩn"
+    },
+    {
+        "question": "Người bị u tuyến_giáp đa thuỳ có mang thai được không ?",
+        "response": "SYMPTOM_AND_DISEASE: u tuyến_giáp đa thuỳ, SYMPTOM_AND_DISEASE: mang thai"
+    },
+    {
+        "question": "Có nên tiếp_tục bổ_sung vitamin D cho bé 3 tháng không ?",
+        "response": "drug: vitamin D"
+    },
+    {
+        "question": "Xem kết_quả sàng_lọc máu sau sinh đánh_giá tình_trạng sức_khoẻ",
+        "response": "medical_procedure: sàng_lọc máu"
+    },
+    {
+        "question": "Chỉ_số đường_huyết thường_xuyên thay_đổi trong ngày có làm_sao không ?",
+        "response": ""
+    },
+    {
+        "question": "Hỏi_đáp : Thuốc_bổ gan nào tốt cho người bị áp xe gan ?",
+        "response": "drug: Thuốc_bổ gan, SYMPTOM_AND_DISEASE: áp xe gan"
+    },
+    {
+        "question": "Bị vàng mắt có ảnh_hưởng đến sức_khoẻ không ?",
+        "response": "SYMPTOM_AND_DISEASE: vàng mắt"
+    },
+    {
+        "question": "Gắn răng implant có khắc_phục được tình_trạng má bị hóp không ?",
+        "response": "medical_procedure: Gắn răng implant, SYMPTOM_AND_DISEASE: má bị hóp"
+    },
+    {
+        "question": "Trẻ đi_ngoài nhiều lần trong ngày có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: đi_ngoài nhiều lần"
+    },
+    {
+        "question": "Nổi hạch ở cổ sau khi sốt phát_ban có nguy_hiểm ?",
+        "response": "SYMPTOM_AND_DISEASE: Nổi hạch ở cổ sau khi, SYMPTOM_AND_DISEASE: sốt phát_ban"
+    },
+    {
+        "question": "Thai_phụ tuần 28 , tim đập nhanh , khó thở và mệt_mỏi có phải bị bệnh tim ?",
+        "response": "SYMPTOM_AND_DISEASE: tim đập nhanh, SYMPTOM_AND_DISEASE: khó thở, SYMPTOM_AND_DISEASE: mệt_mỏi, SYMPTOM_AND_DISEASE: bệnh tim"
+    },
+    {
+        "question": "Nam_giới đau_nhói ở vùng bụng_dưới là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: đau_nhói ở vùng bụng_dưới"
+    },
+    {
+        "question": "Trẻ uống liền 11 ống Enterogermina có sao không ?",
+        "response": "drug: Enterogermina"
+    },
+    {
+        "question": "Cách khắc_phục chứng đi_tiểu khó",
+        "response": "SYMPTOM_AND_DISEASE: đi_tiểu khó"
+    },
+    {
+        "question": "Đờm có máu , đau rát họng là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đờm có máu ,, SYMPTOM_AND_DISEASE: đau rát họng"
+    },
+    {
+        "question": "Phương_pháp điều_trị suy_nhược cơ_thể do thiếu máu hiệu_quả là gì ?",
+        "response": "SYMPTOM_AND_DISEASE: suy_nhược cơ_thể, SYMPTOM_AND_DISEASE: thiếu máu"
+    },
+    {
+        "question": "Da mặt bị viêm da_dầu kèm trầy , ngứa , và xuất_hiện mụn cảnh_báo bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm da_dầu, SYMPTOM_AND_DISEASE: trầy, SYMPTOM_AND_DISEASE: ngứa, SYMPTOM_AND_DISEASE: xuất_hiện mụn"
+    },
+    {
+        "question": "Bệnh giãn ống tinh_hoàn phải điều_trị như_thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: Bệnh giãn ống tinh_hoàn"
+    },
+    {
+        "question": "Tỷ_lệ lây_nhiễm khi quan_hệ tình_dục với người bị viêm gan B ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm gan B"
+    },
+    {
+        "question": "Bao quy đầu trẻ bị hẹp kèm sưng phần trên điều_trị thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: Bao quy đầu trẻ bị hẹp, SYMPTOM_AND_DISEASE: sưng"
+    },
+    {
+        "question": "Đau vùng ngực và vai bên phải là triệu_chứng của bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau vùng ngực và vai bên phải"
+    },
+    {
+        "question": "Có nguy_cơ lây_nhiễm HIV từ vết_thương hở dính máu không ?",
+        "response": "SYMPTOM_AND_DISEASE: HIV"
+    },
+    {
+        "question": "Cắt amidan bao_nhiêu ngày được xuất_viện ?",
+        "response": "medical_procedure: Cắt amidan"
+    },
+    {
+        "question": "Bé gái 15 tháng tuổi có chu_vi vòng đầu bao_nhiêu là đúng tiêu_chuẩn ?",
+        "response": ""
+    },
+    {
+        "question": "Bé 13 ngày tuổi chưa rụng rốn , chảy nước có làm_sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: chưa rụng rốn, SYMPTOM_AND_DISEASE: chảy nước"
+    },
+    {
+        "question": "Lao hạch dưới hàm phát_triển có gây ra ho_khan không ?",
+        "response": "SYMPTOM_AND_DISEASE: ho_khan"
+    },
+    {
+        "question": "Hỏi_đáp : Trẻ sơ_sinh viêm màng não và rối_loạn chuyển_hoá có cơ_hội chữa khỏi không ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm màng não, SYMPTOM_AND_DISEASE: rối_loạn chuyển_hoá"
+    },
+    {
+        "question": "Nốt ban thuỷ_đậu to , nổi nhiều , vỡ ra có ảnh_hưởng gì không ?",
+        "response": "SYMPTOM_AND_DISEASE: Nốt ban thuỷ_đậu to, SYMPTOM_AND_DISEASE: nổi nhiều, SYMPTOM_AND_DISEASE: vỡ ra"
+    },
+    {
+        "question": "Vitamin D3 Lux_Kids có uống chung với Roto_Kids không ?",
+        "response": "drug: Vitamin D3 Lux_Kids, drug: Roto_Kids"
+    },
+    {
+        "question": "Khó_chịu , đau và tức ngực giữa có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: Khó_chịu, SYMPTOM_AND_DISEASE: đau, SYMPTOM_AND_DISEASE: tức ngực giữa"
+    },
+    {
+        "question": "Nên làm gì khi trẻ hơn 1 tuổi chảy_máu mũi thường_xuyên ?",
+        "response": "SYMPTOM_AND_DISEASE: chảy_máu mũi"
+    },
+    {
+        "question": "Đau nhẹ vùng hông sau đi_tiểu có bị bệnh gì không ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau nhẹ vùng hông"
+    },
+    {
+        "question": "Bé uống thuốc hạ sốt trong nhiều ngày liền có ảnh_hưởng gì không ?",
+        "response": "drug: thuốc hạ sốt"
+    },
+    {
+        "question": "Trẻ sơ_sinh 2 tuổi nổi rôm vùng trán và cổ , ngứa_ngáy khắp cơ_thể thì nên làm gì ?",
+        "response": "SYMPTOM_AND_DISEASE: nổi rôm vùng trán và cổ, SYMPTOM_AND_DISEASE: ngứa_ngáy"
+    },
+    {
+        "question": "Trẻ 10 tuổi xuất_hiện kinh_nguyệt sớm hơn hàng tháng 15 ngày là do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: kinh_nguyệt sớm"
+    },
+    {
+        "question": "Gan nhiễm mỡ nhiều , xơ_gan_hoá F1 cần phải làm gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Gan nhiễm mỡ nhiều, SYMPTOM_AND_DISEASE: xơ_gan_hoá F1"
+    },
+    {
+        "question": "20 tuổi bị thừa ngón chân có phẫu_thuật cắt bỏ ngón thừa được không ?",
+        "response": "SYMPTOM_AND_DISEASE: thừa ngón chân, medical_procedure: phẫu_thuật cắt bỏ ngón thừa"
+    },
+    {
+        "question": "Có_thể mua các gói thai_sản tại Vinmec trước bao_lâu ?",
+        "response": "medical_procedure: gói thai_sản"
+    },
+    {
+        "question": "Tinh_hoàn trẻ bên trái to hơn bên phải nhưng không bị đau là bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Tinh_hoàn trẻ bên trái to hơn bên phải, SYMPTOM_AND_DISEASE: không bị đau"
+    },
+    {
+        "question": "Trẻ sốt cao , đau_đầu , viêm họng cấp nhưng không đau họng là bị làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: sốt cao, SYMPTOM_AND_DISEASE: đau_đầu, SYMPTOM_AND_DISEASE: viêm họng cấp, SYMPTOM_AND_DISEASE: không đau họng"
+    },
+    {
+        "question": "Cơ_thể ra ít mồ_hôi kể_cả khi vận_động mạnh là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: ra ít mồ_hôi"
+    },
+    {
+        "question": "Tim đập nhanh kéo_dài sau khi ngủ dậy có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: Tim đập nhanh"
+    },
+    {
+        "question": "Trẻ uống thuốc_tẩy giun quá liều có nguy_hiểm không ?",
+        "response": "drug: thuốc_tẩy giun"
+    },
+    {
+        "question": "Có_thể chữa khỏi u đại_tràng ác_tính không ?",
+        "response": "SYMPTOM_AND_DISEASE: u đại_tràng ác_tính"
+    },
+    {
+        "question": "Nguyên_nhân khiến da trẻ sơ_sinh bị nổi các hột đỏ và cách khắc_phục",
+        "response": "SYMPTOM_AND_DISEASE: nổi các hột đỏ"
+    },
+    {
+        "question": "Sau khi bị gãy khớp khuỷu tay co duỗi tay bị đau liệu có đáng lo ?",
+        "response": "SYMPTOM_AND_DISEASE: gãy khớp, SYMPTOM_AND_DISEASE: khuỷu tay co duỗi tay bị đau liệu"
+    },
+    {
+        "question": "Thường_xuyên bị tiêu_chảy và đau quặn bụng vào buổi sáng là dấu_hiệu của bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: tiêu_chảy, SYMPTOM_AND_DISEASE: đau quặn bụng"
+    },
+    {
+        "question": "Trẻ sơ_sinh xuất_huyết não sốt 38,5 độ liệu có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: xuất_huyết não, SYMPTOM_AND_DISEASE: sốt"
+    },
+    {
+        "question": "Thường_xuyên ợ hơi sau khi ăn là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: ợ hơi"
+    },
+    {
+        "question": "Nên bắt_đầu uống thuốc tránh thai hàng ngày từ ngày nào để đạt được hiệu_quả cao ?",
+        "response": "drug: thuốc tránh thai"
+    },
+    {
+        "question": "Hiện_nay đã tiến_hành phương_pháp sửa Gen cho bệnh_nhân Thalassemia chưa ?",
+        "response": "medical_procedure: sửa Gen, SYMPTOM_AND_DISEASE: Thalassemia"
+    },
+    {
+        "question": "Đau bụng_dưới bên trái là dấu_hiệu của bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau bụng_dưới bên trái"
+    },
+    {
+        "question": "Chạm và tác_động vào ngực thường bị nhức nguyên_nhân do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: ngực thường bị nhức"
+    },
+    {
+        "question": "Đi_ngoài ra máu có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: Đi_ngoài ra máu"
+    },
+    {
+        "question": "Trẻ sơ_sinh viêm đường hô_hấp có_thể ngủ phòng máy_lạnh không ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm đường hô_hấp"
+    },
+    {
+        "question": "Ù tai , mất_ngủ sau điều_trị tai_biến mạch_máu não phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Ù tai, SYMPTOM_AND_DISEASE: mất_ngủ, SYMPTOM_AND_DISEASE: tai_biến mạch_máu não"
+    },
+    {
+        "question": "Đau bụng kèm sốt , mệt_mỏi , chán ăn là bị sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau bụng, SYMPTOM_AND_DISEASE: sốt, SYMPTOM_AND_DISEASE: mệt_mỏi, SYMPTOM_AND_DISEASE: chán ăn"
+    },
+    {
+        "question": "Khó kiểm_soát cơn tức_giận , tay_chân co_quắp là dấu_hiệu bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Khó kiểm_soát cơn tức_giận, SYMPTOM_AND_DISEASE: tay_chân co_quắp"
+    },
+    {
+        "question": "Cẩn_trọng khi Lupus ban đỏ biến_chứng viêm cầu thận",
+        "response": "SYMPTOM_AND_DISEASE: Lupus ban đỏ, SYMPTOM_AND_DISEASE: viêm cầu thận"
+    },
+    {
+        "question": "Nên tiêm phế cầu sau mũi đầu hay mũi thứ 2 của vắc-xin 6 trong 1 ?",
+        "response": "medical_procedure: tiêm phế cầu, drug: vắc-xin 6 trong 1"
+    },
+    {
+        "question": "Trẻ 2 tuổi nôn liên_tục kèm theo đi_ngoài phân lỏng là bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: nôn liên_tục, SYMPTOM_AND_DISEASE: đi_ngoài phân lỏng"
+    },
+    {
+        "question": "Siêu_âm độ mờ da gáy 2.6 mm có sao không ?",
+        "response": "medical_procedure: Siêu_âm"
+    },
+    {
+        "question": "Chậm kinh có khả_năng mang thai không ?",
+        "response": "SYMPTOM_AND_DISEASE: Chậm kinh, SYMPTOM_AND_DISEASE: mang thai"
+    },
+    {
+        "question": "Cổ dưới hàm bị sưng mỗi khi ăn đồ chua_cay là bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Cổ dưới hàm bị sưng"
+    },
+    {
+        "question": "Chửa_trứng có chữa được không ?",
+        "response": "SYMPTOM_AND_DISEASE: Chửa_trứng"
+    },
+    {
+        "question": "Vôi_hoá tuyến_giáp điều_trị thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: Vôi_hoá tuyến_giáp"
+    },
+    {
+        "question": "Bé gái đi_tiểu nhiều lần liên_tục là triệu_chứng của bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: đi_tiểu nhiều lần liên_tục"
+    },
+    {
+        "question": "Có mang thai không khi ra máu nâu và chậm kinh sau khi dùng thuốc tránh thai khẩn_cấp ?",
+        "response": "SYMPTOM_AND_DISEASE: mang thai, SYMPTOM_AND_DISEASE: ra máu nâu, SYMPTOM_AND_DISEASE: chậm kinh, drug: thuốc tránh thai"
+    },
+    {
+        "question": "Uống thuốc trị mụn trứng_cá trước lúc mang bầu có ảnh_hưởng đến thai_nhi không ?",
+        "response": "drug: thuốc trị mụn trứng_cá, SYMPTOM_AND_DISEASE: mang bầu"
+    },
+    {
+        "question": "Phương_pháp kích trứng IVF được làm trong thời_gian nào của chu_kỳ kinh ?",
+        "response": "medical_procedure: kích trứng IVF"
+    },
+    {
+        "question": "Có_thể tự phân_biệt đau mắt đỏ do vi_khuẩn và do virus không ?",
+        "response": "SYMPTOM_AND_DISEASE: đau mắt đỏ"
+    },
+    {
+        "question": "Ưu_điểm và nhược_điểm của que cấy tránh thai là gì ?",
+        "response": "medical_procedure: que cấy tránh thai"
+    },
+    {
+        "question": "Bệnh alpha thalassemia có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: Bệnh alpha thalassemia"
+    },
+    {
+        "question": "Đang uống thuốc Berlthyrox có hiến máu nhân_đạo được không ?",
+        "response": "drug: thuốc Berlthyrox"
+    },
+    {
+        "question": "Mang thai 6 tháng xuất_hiện triệu_chứng mệt_mỏi , chóng_mặt có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: Mang thai, SYMPTOM_AND_DISEASE: mệt_mỏi, SYMPTOM_AND_DISEASE: chóng_mặt"
+    },
+    {
+        "question": "Khó ngủ kèm nhức đầu chóng_mặt là biểu_hiện bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Khó ngủ, SYMPTOM_AND_DISEASE: nhức đầu, SYMPTOM_AND_DISEASE: chóng_mặt là"
+    },
+    {
+        "question": "Đau_đầu khi nghe tiếng còi xe , hay quên là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau_đầu, SYMPTOM_AND_DISEASE: hay quên"
+    },
+    {
+        "question": "Có_thể sử_dụng các loại thuốc nào để giảm đau nửa đầu ?",
+        "response": "SYMPTOM_AND_DISEASE: đau nửa đầu"
+    },
+    {
+        "question": "Bị ngứa do biến_chứng bệnh tiểu_đường thì phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: ngứa, SYMPTOM_AND_DISEASE: tiểu_đường"
+    },
+    {
+        "question": "Hay bị sưng mắt_cá và bàn_chân có phải là suy thận không ?",
+        "response": "SYMPTOM_AND_DISEASE: sưng mắt_cá và bàn_chân, SYMPTOM_AND_DISEASE: suy thận"
+    },
+    {
+        "question": "Bệnh mụn rộp sinh_dục do virus Herpes ( HSV ) có lây qua đường_máu không ?",
+        "response": "SYMPTOM_AND_DISEASE: Bệnh mụn rộp sinh_dục"
+    },
+    {
+        "question": "Men ’ s defence có phải là thuốc tốt nhất chữa bệnh phì đại tuyến_tiền_liệt không ?",
+        "response": "drug: Men ’ s defence, SYMPTOM_AND_DISEASE: bệnh phì đại tuyến_tiền_liệt"
+    },
+    {
+        "question": "Tác_dụng phụ của thuốc điều_trị lạc nội mạc tử_cung",
+        "response": "drug: thuốc điều_trị lạc nội mạc tử_cung"
+    },
+    {
+        "question": "Có nên xét_nghiệm giang_mai khi cơ_thể không có triệu_chứng ?",
+        "response": "medical_procedure: xét_nghiệm giang_mai"
+    },
+    {
+        "question": "Bé trai đau và nổi cục vùng ngực là biểu_hiện của dậy_thì hay bệnh_lý khác ?",
+        "response": "SYMPTOM_AND_DISEASE: đau, SYMPTOM_AND_DISEASE: nổi cục vùng ngực, SYMPTOM_AND_DISEASE: dậy_thì"
+    },
+    {
+        "question": "Mắc bệnh vảy_nến có_thể mang thai được không ?",
+        "response": "SYMPTOM_AND_DISEASE: bệnh vảy_nến, SYMPTOM_AND_DISEASE: mang thai"
+    },
+    {
+        "question": "Hạch vùng bẹn sưng đau khi điều_trị Zona có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: Hạch vùng bẹn sưng đau, SYMPTOM_AND_DISEASE: Zona"
+    },
+    {
+        "question": "Sau khi phẫu_thuật u tuyến_giáp có những ảnh_hưởng gì ?",
+        "response": "medical_procedure: phẫu_thuật u tuyến_giáp"
+    },
+    {
+        "question": "Chắp mi mắt ở trẻ phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Chắp mi mắt"
+    },
+    {
+        "question": "Bé không tăng cân , ăn_uống kém , đề_kháng giảm có nên bổ_sung D3 không ?",
+        "response": "SYMPTOM_AND_DISEASE: không tăng cân, SYMPTOM_AND_DISEASE: ăn_uống kém, SYMPTOM_AND_DISEASE: đề_kháng giảm, drug: D3"
+    },
+    {
+        "question": "Sau sinh 6 ngày , mẹ mắc bệnh thuỷ_đậu có nguy_cơ lây sang con không ?",
+        "response": "SYMPTOM_AND_DISEASE: bệnh thuỷ_đậu"
+    },
+    {
+        "question": "Trẻ bị kiết_lỵ có_thể điều_trị tại nhà hay không ?",
+        "response": "SYMPTOM_AND_DISEASE: kiết_lỵ"
+    },
+    {
+        "question": "Van 2 lá , van 3 lá 1.45 , có_điều trị được không ?",
+        "response": "SYMPTOM_AND_DISEASE: Van 2 lá, SYMPTOM_AND_DISEASE: van 3 lá 1.45"
+    },
+    {
+        "question": "Tiêm phòng vắc-xin thuỷ_đậu cách mũi sởi kép bao_lâu ?",
+        "response": "medical_procedure: Tiêm phòng vắc-xin thuỷ_đậu, medical_procedure: mũi sởi kép"
+    },
+    {
+        "question": "Đau , nóng vùng thượng_vị kèm đi_ngoài là dấu_hiệu của bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau, SYMPTOM_AND_DISEASE: nóng vùng thượng_vị, SYMPTOM_AND_DISEASE: đi_ngoài"
+    },
+    {
+        "question": "Hỏi_đáp : Vì sao uống thuốc Lamivudin điều_trị viêm gan B bị giảm tiểu_cầu ?",
+        "response": "drug: thuốc Lamivudin, SYMPTOM_AND_DISEASE: viêm gan B, SYMPTOM_AND_DISEASE: giảm tiểu_cầu"
+    },
+    {
+        "question": "Trẻ có_thể tiêm phòng vắc-xin MMR vào thời_điểm nào ?",
+        "response": "medical_procedure: tiêm phòng vắc-xin MMR"
+    },
+    {
+        "question": "Đau vùng mỏ_ác , có cảm_giác khó nuốt , thỉnh_thoảng lại bị hụt hơi khi nói , ho_khan đó là triệu_chứng gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau vùng mỏ_ác, SYMPTOM_AND_DISEASE: cảm_giác khó nuốt, SYMPTOM_AND_DISEASE: hụt hơi, SYMPTOM_AND_DISEASE: ho_khan"
+    },
+    {
+        "question": "Mang thai 3 tháng có_thể sử_dụng thuốc gì khi bị viêm phế_quản ?",
+        "response": "SYMPTOM_AND_DISEASE: Mang thai, SYMPTOM_AND_DISEASE: viêm phế_quản"
+    },
+    {
+        "question": "Rối_loạn cương dương , testosterone thấp có_thể chữa khỏi không ?",
+        "response": "SYMPTOM_AND_DISEASE: Rối_loạn cương dương, SYMPTOM_AND_DISEASE: testosterone thấp"
+    },
+    {
+        "question": "Kết_quả xét_nghiệm chỉ_số TSH và FT4 cảnh_báo bệnh gì ?",
+        "response": "medical_procedure: xét_nghiệm"
+    },
+    {
+        "question": "Có nguy_hiểm không khi thóp trước trẻ sơ_sinh xuất_hiện lượng dịch kích_thước 4mm ?",
+        "response": "SYMPTOM_AND_DISEASE: thóp trước trẻ sơ_sinh xuất_hiện lượng dịch kích_thước 4mm"
+    },
+    {
+        "question": "Thuỳ phải có nhân giáp 11mm nên uống thuốc hay để theo_dõi ?",
+        "response": "SYMPTOM_AND_DISEASE: Thuỳ phải có nhân giáp"
+    },
+    {
+        "question": "Trẻ sơ_sinh đi_ngoài phân nặng_mùi nhiều lần trong ngày là dấu_hiệu của bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: đi_ngoài phân nặng_mùi"
+    },
+    {
+        "question": "Điều_trị u xương hàm dưới như_thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: u xương hàm dưới"
+    },
+    {
+        "question": "Đau khớp hàm bên trái kèm theo triệu_chứng sốt là bị làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau khớp hàm bên trái, SYMPTOM_AND_DISEASE: sốt"
+    },
+    {
+        "question": "Người có tiền_sử viêm gan C nước_tiểu màu nâu nhạt cảnh_báo bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm gan C, SYMPTOM_AND_DISEASE: nước_tiểu màu nâu nhạt"
+    },
+    {
+        "question": "Trẻ 7 ngày tuổi đi_ngoài phân vàng , có bọt , ngày hơn 10 lần là tiêu_chảy ?",
+        "response": "SYMPTOM_AND_DISEASE: đi_ngoài phân vàng, SYMPTOM_AND_DISEASE: có bọt, SYMPTOM_AND_DISEASE: tiêu_chảy"
+    },
+    {
+        "question": "Dương_vật cong xuống bên trái có ảnh_hưởng gì về sau không ?",
+        "response": "SYMPTOM_AND_DISEASE: Dương_vật cong xuống bên trái"
+    },
+    {
+        "question": "Có nên uống vitamin E hàng ngày không ?",
+        "response": "drug: vitamin E"
+    },
+    {
+        "question": "Sau khi tiêm phòng ung_thư cổ tử_cung có_thể mang thai ngay được không ?",
+        "response": "medical_procedure: tiêm phòng ung_thư cổ tử_cung, SYMPTOM_AND_DISEASE: mang thai"
+    },
+    {
+        "question": "Trẻ sơ_sinh ngủ hay giật_mình , run_sợ , khóc thét có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: ngủ hay giật_mình, SYMPTOM_AND_DISEASE: run_sợ, SYMPTOM_AND_DISEASE: khóc thét"
+    },
+    {
+        "question": "Mọc mụn gần họng có màu trắng đục kiểu viêm họng hạt là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Mọc mụn gần họng có màu trắng đục, SYMPTOM_AND_DISEASE: viêm họng hạt"
+    },
+    {
+        "question": "Trẻ 8 tuần ho nhiều , tím_tái , không sốt là bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: ho nhiều, SYMPTOM_AND_DISEASE: tím_tái, SYMPTOM_AND_DISEASE: không sốt"
+    },
+    {
+        "question": "Phụ_nữ bị buồng_trứng đa nang có_thể có con hay không ?",
+        "response": "SYMPTOM_AND_DISEASE: buồng_trứng đa nang"
+    },
+    {
+        "question": "Trước khi mang thai lần 2 có cần tiêm lại_mũi vắc-xin sởi - quai_bị ?",
+        "response": "SYMPTOM_AND_DISEASE: mang thai, SYMPTOM_AND_DISEASE: tiêm lại_mũi vắc-xin sởi - quai_bị"
+    },
+    {
+        "question": "Phương_pháp nào giúp phục_hồi hoạt_động của dây_thần_kinh thị_giác ?",
+        "response": ""
+    },
+    {
+        "question": "Bị nổi mụn bên dưới lưỡi là bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: nổi mụn bên dưới lưỡi"
+    },
+    {
+        "question": "Trẻ 4 tháng tuổi nặng 5,3 kg có phải suy_dinh_dưỡng không ?",
+        "response": "SYMPTOM_AND_DISEASE: suy_dinh_dưỡng"
+    },
+    {
+        "question": "Khi nhai thức_ăn hoặc há miệng to , mắt bị co_giật là do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: mắt bị co_giật"
+    },
+    {
+        "question": "Huyết_áp lên_xuống thất_thường có uống thuốc huyết_áp được không ?",
+        "response": "SYMPTOM_AND_DISEASE: Huyết_áp lên_xuống thất_thường, drug: thuốc huyết_áp"
+    },
+    {
+        "question": "Người trưởng_thành ngủ nhiều có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: ngủ nhiều"
+    },
+    {
+        "question": "Thường khó thở , khó_chịu giữa 2 xương ngực biểu_hiện bệnh gì và điều_trị thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: khó thở, SYMPTOM_AND_DISEASE: khó_chịu giữa 2 xương ngực"
+    },
+    {
+        "question": "Polyp mũi có làm mũi to ra không ?",
+        "response": "medical_procedure: Polyp mũi"
+    },
+    {
+        "question": "Nên làm gì khi trẻ sơ_sinh bị táo_bón và khó ngủ ?",
+        "response": "SYMPTOM_AND_DISEASE: táo_bón, SYMPTOM_AND_DISEASE: khó ngủ"
+    },
+    {
+        "question": "Sau cắt bao quy đầu cảm_thấy giảm khoái_cảm , khó xuất_tinh nên khám ở đâu và điều_trị thế_nào ?",
+        "response": "medical_procedure: cắt bao quy đầu, SYMPTOM_AND_DISEASE: giảm khoái_cảm, SYMPTOM_AND_DISEASE: khó xuất_tinh"
+    },
+    {
+        "question": "Định_lượng nồng_độ cortisol 7,5 mmol / l AM : 101.2-535.7 có phải bị suy tuyến_thượng_thận không ?",
+        "response": "medical_procedure: Định_lượng nồng_độ cortisol 7,5 mmol / l AM, SYMPTOM_AND_DISEASE: suy tuyến_thượng_thận"
+    },
+    {
+        "question": "Trẻ ăn_không tiêu_hoá được có phải đi_ngoài phân sống và nên làm gì ?",
+        "response": "SYMPTOM_AND_DISEASE: ăn_không tiêu_hoá được, SYMPTOM_AND_DISEASE: đi_ngoài phân sống"
+    },
+    {
+        "question": "Hỏi_đáp : Bệnh_nhân u phổi có nên ăn táo hay cam không ?",
+        "response": "SYMPTOM_AND_DISEASE: u phổi"
+    },
+    {
+        "question": "Thường đau tức bụng , khó thở là dấu_hiệu của bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: đau tức bụng, SYMPTOM_AND_DISEASE: khó thở"
+    },
+    {
+        "question": "Mất trí_nhớ tạm_thời sau chấn_thương nhẹ ở đầu có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: Mất trí_nhớ tạm_thời, SYMPTOM_AND_DISEASE: chấn_thương nhẹ ở đầu"
+    },
+    {
+        "question": "Có cảm_giác đầy bụng , bụng căng cứng có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: đầy bụng, SYMPTOM_AND_DISEASE: bụng căng cứng"
+    },
+    {
+        "question": "Làm_sao để biết nước_tiểu màu đỏ đậm do thuốc hay do nguyên_nhân khác ?",
+        "response": "SYMPTOM_AND_DISEASE: nước_tiểu màu đỏ đậm"
+    },
+    {
+        "question": "Trẻ nôn , mệt_mỏi , chán ăn có nguyên_nhân do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: nôn, SYMPTOM_AND_DISEASE: mệt_mỏi, SYMPTOM_AND_DISEASE: chán ăn"
+    },
+    {
+        "question": "Mất_ngủ , da xanh_xao là bị sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Mất_ngủ, SYMPTOM_AND_DISEASE: da xanh_xao"
+    },
+    {
+        "question": "Nên làm gì khi trẻ 1 tuổi liên_tục khóc , ngủ vặn mình ?",
+        "response": "SYMPTOM_AND_DISEASE: liên_tục khóc, SYMPTOM_AND_DISEASE: ngủ vặn mình"
+    },
+    {
+        "question": "Nhìn đèn tia_sáng giống cầu_vồng khi nheo mắt có phải là dấu_hiệu bệnh về mắt ?",
+        "response": "SYMPTOM_AND_DISEASE: Nhìn đèn tia_sáng giống cầu_vồng khi nheo mắt, SYMPTOM_AND_DISEASE: bệnh về mắt"
+    },
+    {
+        "question": "Viêm da cơ_địa tái_phát nhiều lần có_thể sử_dụng thuốc nào kéo_dài không gây tác_dụng phụ ?",
+        "response": "SYMPTOM_AND_DISEASE: Viêm da cơ_địa tái_phát"
+    },
+    {
+        "question": "Bạch_cầu tăng khi bé bị viêm họng và kiết_lỵ liệu có nguy_cơ bị bệnh_bạch_cầu cao hay không ?",
+        "response": "SYMPTOM_AND_DISEASE: Bạch_cầu tăng, SYMPTOM_AND_DISEASE: viêm họng, SYMPTOM_AND_DISEASE: kiết_lỵ, SYMPTOM_AND_DISEASE: bệnh_bạch_cầu"
+    },
+    {
+        "question": "Người_bệnh bị tiểu_đường type 2 đang dùng thuốc_tiêm bị sốt có_thể truyền thêm nước hay không ?",
+        "response": "SYMPTOM_AND_DISEASE: tiểu_đường type 2, medical_procedure: thuốc_tiêm, SYMPTOM_AND_DISEASE: sốt, medical_procedure: truyền thêm nước"
+    },
+    {
+        "question": "Đau_nhói bên bụng phải có nguy_cơ mắc bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau_nhói bên bụng phải"
+    },
+    {
+        "question": "6 tháng tuổi nặng 6kg có phải suy_dinh_dưỡng không ?",
+        "response": "SYMPTOM_AND_DISEASE: suy_dinh_dưỡng"
+    },
+    {
+        "question": "Viêm đại_tràng và hậu_môn kéo_dài nên dùng thuốc gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Viêm đại_tràng, SYMPTOM_AND_DISEASE: hậu_môn kéo_dài"
+    },
+    {
+        "question": "Triệu_chứng lạnh cóng về đêm là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: lạnh cóng về đêm"
+    },
+    {
+        "question": "Bé 3,5 tháng tuổi bị nhiễm_khuẩn đường ruột có nên cho uống kháng_sinh không ?",
+        "response": "SYMPTOM_AND_DISEASE: nhiễm_khuẩn đường ruột, drug: kháng_sinh"
+    },
+    {
+        "question": "Ra máu sau quan_hệ có phải máu báo thai không ?",
+        "response": "SYMPTOM_AND_DISEASE: Ra máu sau quan_hệ"
+    },
+    {
+        "question": "Quên uống thuốc tránh thai hàng ngày phải làm_sao ?",
+        "response": "drug: thuốc tránh thai"
+    },
+    {
+        "question": "Trẻ đang ngủ tự_dưng tỉnh là bị làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: ngủ tự_dưng tỉnh"
+    },
+    {
+        "question": "Bìu đựng tinh_hoàn săn và nhỏ , dương_vật ngắn sau mổ tinh_hoàn lạc chỗ liệu có bình_thường và ảnh_hưởng đến sinh_sản sau_này không ?",
+        "response": "SYMPTOM_AND_DISEASE: Bìu đựng tinh_hoàn săn và nhỏ, SYMPTOM_AND_DISEASE: dương_vật ngắn, medical_procedure: mổ tinh_hoàn"
+    },
+    {
+        "question": "Kinh‌ ‌nguyệt‌ ‌kéo‌ ‌dài‌ ‌8 ‌ngày‌ ‌trong‌ ‌chu‌ ‌kỳ‌ ‌đầu‌ ‌tiên‌ ‌có‌ ‌sao‌ không ?",
+        "response": "SYMPTOM_AND_DISEASE: Kinh‌ ‌nguyệt‌ ‌kéo‌ ‌dài‌ ‌8 ‌ngày‌ ‌trong‌ ‌chu‌ ‌kỳ‌ ‌đầu‌ ‌tiên‌"
+    },
+    {
+        "question": "Hỏi_đáp : Trẻ sơ_sinh thường_xuyên sôi bụng liệu có ảnh_hưởng đến tiêu_hoá ?",
+        "response": "SYMPTOM_AND_DISEASE: sôi bụng"
+    },
+    {
+        "question": "Trẻ gần 2 tuổi mới mọc 4 răng_cửa , ngủ hay quấy khóc phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: ngủ hay quấy khóc"
+    },
+    {
+        "question": "Đánh_giá bệnh_lý cường_giáp và suy giáp thông_qua kết_quả xét_nghiệm",
+        "response": "SYMPTOM_AND_DISEASE: bệnh_lý cường_giáp, SYMPTOM_AND_DISEASE: suy giáp, medical_procedure: xét_nghiệm"
+    },
+    {
+        "question": "Nên làm gì để giảm kháng_thể khi ghép thận ?",
+        "response": "medical_procedure: ghép thận"
+    },
+    {
+        "question": "Vết rạch tầng sinh môn được hơn 6 tháng bị sưng lên có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: sưng"
+    },
+    {
+        "question": "Chỉ_số huyết_áp lên_xuống thất_thường nguyên_nhân do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: huyết_áp lên_xuống thất_thường"
+    },
+    {
+        "question": "Trẻ sơ_sinh 11 ngày tuổi xuất_hiện khoảng lõm trên đầu có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: khoảng lõm trên đầu"
+    },
+    {
+        "question": "Thuốc Brochon_Vaxom chữa bệnh gì ?",
+        "response": "drug: Thuốc Brochon_Vaxom"
+    },
+    {
+        "question": "Viêm kết_mạc uống thuốc gì cho nhanh khỏi ?",
+        "response": "SYMPTOM_AND_DISEASE: Viêm kết_mạc"
+    },
+    {
+        "question": "Cần xét_nghiệm lại những gì khi được chẩn_đoán hạch viêm lao ?",
+        "response": "medical_procedure: xét_nghiệm, SYMPTOM_AND_DISEASE: hạch viêm lao"
+    },
+    {
+        "question": "Thai_nhi 22 tuần giãn đài bể thận liệu có đáng lo_ngại ?",
+        "response": "SYMPTOM_AND_DISEASE: giãn đài bể thận"
+    },
+    {
+        "question": "Cổ_họng vướng khi nuốt , người mệt_mỏi kèm nóng trong là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Cổ_họng vướng khi nuốt, SYMPTOM_AND_DISEASE: mệt_mỏi, SYMPTOM_AND_DISEASE: nóng"
+    },
+    {
+        "question": "Khó duy_trì cương cứng khi quan_hệ là do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: Khó duy_trì cương cứng"
+    },
+    {
+        "question": "Trẻ sơ_sinh xuất_hiện 2 cơn gồng cứng người kèm theo mắt lạc đi là dấu_hiệu của bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: 2 cơn gồng cứng người, SYMPTOM_AND_DISEASE: mắt lạc đi"
+    },
+    {
+        "question": "Kết_quả xét_nghiệm máu ở nữ_giới thế_nào là bình_thường ?",
+        "response": "medical_procedure: xét_nghiệm máu"
+    },
+    {
+        "question": "Hay hồi_hộp , khó thở , đánh_trống_ngực là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: hồi_hộp, SYMPTOM_AND_DISEASE: khó thở, SYMPTOM_AND_DISEASE: đánh_trống_ngực"
+    },
+    {
+        "question": "Có những cách nào điều_trị sỏi thận ?",
+        "response": "SYMPTOM_AND_DISEASE: sỏi thận"
+    },
+    {
+        "question": "Phương_pháp chữa_trị nám má cho trẻ 10 tuổi",
+        "response": "SYMPTOM_AND_DISEASE: nám má"
+    },
+    {
+        "question": "Ra dịch màu vàng khi bị viêm âm_đạo có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: Ra dịch màu vàng, SYMPTOM_AND_DISEASE: viêm âm_đạo"
+    },
+    {
+        "question": "Gây_mê khi phẫu_thuật sa sinh_dục liệu có nguy_hiểm không ?",
+        "response": "medical_procedure: Gây_mê, medical_procedure: phẫu_thuật sa sinh_dục"
+    },
+    {
+        "question": "Sau phẫu_thuật gãy xương , bàn_chân không co gập được là do đâu ?",
+        "response": "medical_procedure: phẫu_thuật gãy xương, SYMPTOM_AND_DISEASE: bàn_chân không co gập"
+    },
+    {
+        "question": "Có thuốc phòng lao cho những người tiếp_xúc gần bệnh_nhân không ?",
+        "response": "drug: thuốc phòng lao"
+    },
+    {
+        "question": "Tỷ_lệ_phần_trăm bạch_cầu lympho tăng có cần lưu_ý gì không ?",
+        "response": "SYMPTOM_AND_DISEASE: bạch_cầu lympho tăng"
+    },
+    {
+        "question": "Tiêu_chảy trong lúc mắc thuỷ_đậu có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: Tiêu_chảy trong lúc mắc thuỷ_đậu"
+    },
+    {
+        "question": "Cổ_họng khó_chịu , khò_khè là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Cổ_họng khó_chịu, SYMPTOM_AND_DISEASE: khò_khè"
+    },
+    {
+        "question": "Nhịp tim thai 113 nhịp / phút ở tuần thứ 6 có ở mức an_toàn không ?",
+        "response": ""
+    },
+    {
+        "question": "Chụp X-quang và chụp CT nhiều lần mà gần nhau có nguy_hiểm không ?",
+        "response": "medical_procedure: Chụp X-quang, medical_procedure: chụp CT"
+    },
+    {
+        "question": "Tinh_hoàn không sưng đỏ nhưng bị đau là triệu_chứng bệnh gì và nên làm thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: Tinh_hoàn không sưng đỏ, SYMPTOM_AND_DISEASE: bị đau"
+    },
+    {
+        "question": "Nhân tuyến_giáp Tirads 3 uống thuốc có khỏi hẳn không hay phải mổ mới hết ?",
+        "response": "SYMPTOM_AND_DISEASE: Nhân tuyến_giáp Tirads 3, medical_procedure: mổ"
+    },
+    {
+        "question": "Hơn 3 ngày bé mới đại_tiện , phân sệt có phải bị táo_bón không ?",
+        "response": "SYMPTOM_AND_DISEASE: Hơn 3 ngày bé mới đại_tiện, SYMPTOM_AND_DISEASE: phân sệt, SYMPTOM_AND_DISEASE: táo_bón"
+    },
+    {
+        "question": "Trẻ sốt cao , bú kém , đã uống thuốc hạ sốt nhưng không đỡ phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: sốt cao, SYMPTOM_AND_DISEASE: bú kém, drug: thuốc hạ sốt"
+    },
+    {
+        "question": "Thai_nhi bị nang bạch_huyết phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: nang bạch_huyết"
+    },
+    {
+        "question": "Trẻ 2 tuổi uống nhầm 1/2 paracetamol 500mg có sao không ?",
+        "response": "drug: paracetamol"
+    },
+    {
+        "question": "Bệnh tăng sắc_tố da có chữa được không ?",
+        "response": "SYMPTOM_AND_DISEASE: Bệnh tăng sắc_tố da"
+    },
+    {
+        "question": "Polyp túi_mật 6,5 mm có phải mổ không ?",
+        "response": "SYMPTOM_AND_DISEASE: Polyp túi_mật, medical_procedure: mổ"
+    },
+    {
+        "question": "Cận 5 độ có nên tháo kính ra khi không làm_việc và nên làm gì để giảm cận_thị ?",
+        "response": "SYMPTOM_AND_DISEASE: Cận 5 độ, SYMPTOM_AND_DISEASE: cận_thị"
+    },
+    {
+        "question": "Chóng_mặt sau chấn_thương vùng đầu thì phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Chóng_mặt, SYMPTOM_AND_DISEASE: chấn_thương vùng đầu"
+    },
+    {
+        "question": "Trẻ 9 tháng mắc chứng táo_bón từ khi ăn dặm có chữa được không ?",
+        "response": "SYMPTOM_AND_DISEASE: táo_bón"
+    },
+    {
+        "question": "Bé nổi hạch ở hai hàm bên dưới có bị làm_sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: nổi hạch ở hai hàm bên dưới"
+    },
+    {
+        "question": "Liều_lượng dùng enterogermina cho trẻ bị táo_bón như_thế_nào ?",
+        "response": "drug: enterogermina, SYMPTOM_AND_DISEASE: táo_bón"
+    },
+    {
+        "question": "Đau bụng kèm cảm_giác tức ngực cảnh_báo bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau bụng, SYMPTOM_AND_DISEASE: tức ngực"
+    },
+    {
+        "question": "Bé 1 tháng tuổi thường_xuyên bị sặc và ọc sữa nguyên_nhân do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: bị sặc, SYMPTOM_AND_DISEASE: ọc sữa"
+    },
+    {
+        "question": "Bệnh_nhân trĩ đi_ngoài ra máu điều_trị như_thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: trĩ, SYMPTOM_AND_DISEASE: đi_ngoài ra máu"
+    },
+    {
+        "question": "Hỏi_đáp : 17 tuổi nhưng ngực không phát_triển nhiều là do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: ngực không phát_triển nhiều"
+    },
+    {
+        "question": "Uống thuốc tránh thai khẩn_cấp xuất_hiện cảm_giác ngứa âm_đạo có sao không ?",
+        "response": "drug: thuốc tránh thai, SYMPTOM_AND_DISEASE: ngứa âm_đạo"
+    },
+    {
+        "question": "Kết_quả bilirubin TT 14.2 , TP 193.8 ở trẻ sơ_sinh có nguy_hiểm không ?",
+        "response": ""
+    },
+    {
+        "question": "Bé bị suyễn , tức ngực , mặt xanh liệu có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: bị suyễn, SYMPTOM_AND_DISEASE: tức ngực, SYMPTOM_AND_DISEASE: mặt xanh"
+    },
+    {
+        "question": "Trẻ 4 tuổi bị đỏ và hôi “ vùng kín ” là do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: bị đỏ, SYMPTOM_AND_DISEASE: hôi “ vùng kín ”"
+    },
+    {
+        "question": "Thai_nhi 34 tuần xuất_hiện giãn bể lớn hố sau nên làm gì ?",
+        "response": "SYMPTOM_AND_DISEASE: giãn bể lớn hố sau"
+    },
+    {
+        "question": "Có phương_pháp điều_trị triệt_để bệnh đa nang vú không ?",
+        "response": "SYMPTOM_AND_DISEASE: bệnh đa nang vú"
+    },
+    {
+        "question": "Trẻ 6 tuổi đổ mồ_hôi nhiều cả ngày là bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: đổ mồ_hôi"
+    },
+    {
+        "question": "Trẻ ăn thường nôn trớ phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: nôn trớ"
+    },
+    {
+        "question": "Tư_vấn kết_quả xét_nghiệm khi đo HBV - DNA",
+        "response": "medical_procedure: xét_nghiệm khi đo HBV - DNA"
+    },
+    {
+        "question": "Đau bụng trên rốn thường xuất_hiện buổi sáng có nguy_cơ mắc bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau bụng trên rốn"
+    },
+    {
+        "question": "Hỏi_đáp : Mắt bị lác sang trái nguyên_nhân do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: Mắt bị lác sang trái"
+    },
+    {
+        "question": "Tiểu buốt , đau mỏi lưng do nhiễm_trùng tiết_niệu liệu có nguy_hiểm ?",
+        "response": "SYMPTOM_AND_DISEASE: Tiểu buốt, SYMPTOM_AND_DISEASE: đau mỏi lưng, SYMPTOM_AND_DISEASE: nhiễm_trùng tiết_niệu"
+    },
+    {
+        "question": "Triệu_chứng tiểu són ở trẻ 4 tuổi là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: tiểu són"
+    },
+    {
+        "question": "Trứng rụng sau khi quan_hệ mấy phút liệu có khả_năng gì không ?",
+        "response": "SYMPTOM_AND_DISEASE: Trứng rụng sau khi quan_hệ"
+    },
+    {
+        "question": "Dấu_hiệu nhận_biết dậy_thì sớm ở bé trai là gì ?",
+        "response": "SYMPTOM_AND_DISEASE: dậy_thì sớm"
+    },
+    {
+        "question": "Hay đau bụng , ăn nhanh no và nhanh đói là dấu_hiệu của bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: đau bụng, SYMPTOM_AND_DISEASE: ăn nhanh no, SYMPTOM_AND_DISEASE: nhanh đói"
+    },
+    {
+        "question": "Nấm lưỡi bản_đồ ở trẻ có thuốc nào chữa khỏi không ?",
+        "response": "SYMPTOM_AND_DISEASE: Nấm lưỡi bản_đồ"
+    },
+    {
+        "question": "Hỏi_đáp : Nguyên_nhân gây xơ đỉnh phổi ở người có tiền_sử viêm amidan là gì ?",
+        "response": "SYMPTOM_AND_DISEASE: xơ đỉnh phổi, SYMPTOM_AND_DISEASE: viêm amidan"
+    },
+    {
+        "question": "Bé bú mẹ không tăng cân là do sữa nóng , không đủ chất cho bé hay do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: không tăng cân"
+    },
+    {
+        "question": "Người cao_tuổi men gan cao có_thể phẫu_thuật điều_trị thoái_hoá khớp không ?",
+        "response": "SYMPTOM_AND_DISEASE: men gan cao, medical_procedure: phẫu_thuật điều_trị thoái_hoá khớp"
+    },
+    {
+        "question": "Nên cho trẻ sinh non ăn dặm theo 6 tháng hiệu_chỉnh hay không ?",
+        "response": ""
+    },
+    {
+        "question": "Niêm_mạc tử_cung mỏng nên điều_trị như_thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: Niêm_mạc tử_cung mỏng"
+    },
+    {
+        "question": "Bệnh xẹp màng_nhĩ kèm ù tai 1 năm có_thể làm phẫu_thuật không ?",
+        "response": "SYMPTOM_AND_DISEASE: Bệnh xẹp màng_nhĩ, SYMPTOM_AND_DISEASE: ù tai, medical_procedure: phẫu_thuật"
+    },
+    {
+        "question": "Xuất_tinh ngoài khi sử_dụng thuốc tránh thai hàng ngày liệu có_thể mang thai không ?",
+        "response": "drug: thuốc tránh thai, SYMPTOM_AND_DISEASE: mang thai"
+    },
+    {
+        "question": "Người bị viêm gan A có những triệu_chứng nào ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm gan A"
+    },
+    {
+        "question": "Đau âm_ỉ ngực trái là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau âm_ỉ ngực trái"
+    },
+    {
+        "question": "Viêm amidan uống kháng_sinh và thuốc chống viêm có khỏi được không ?",
+        "response": "SYMPTOM_AND_DISEASE: Viêm amidan, drug: kháng_sinh, drug: thuốc chống viêm"
+    },
+    {
+        "question": "Đi_tiểu nhiều lần trong ngày kèm đau tức bụng_dưới có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: Đi_tiểu nhiều lần, SYMPTOM_AND_DISEASE: đau tức bụng_dưới"
+    },
+    {
+        "question": "Khó_chịu từ vùng cổ đến vùng ức là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Khó_chịu từ vùng cổ đến vùng ức"
+    },
+    {
+        "question": "Trầm_cảm học_đường có những biểu_hiện như_thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: Trầm_cảm học_đường"
+    },
+    {
+        "question": "Xuất_hiện triệu_chứng sùi mào_gà phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: sùi mào_gà"
+    },
+    {
+        "question": "Thường_xuyên mẩn ngứa vùng bụng là bị sao ?",
+        "response": "SYMPTOM_AND_DISEASE: mẩn ngứa vùng bụng"
+    },
+    {
+        "question": "Bị bệnh tiểu_đường có dùng vitamin C được không ?",
+        "response": "SYMPTOM_AND_DISEASE: bệnh tiểu_đường, drug: vitamin C"
+    },
+    {
+        "question": "Quan_hệ không an_toàn với người bị viêm gan B có tiêm phòng được nữa không ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm gan B, medical_procedure: tiêm phòng"
+    },
+    {
+        "question": "Cận_thị có_điều trị dứt_điểm được không ?",
+        "response": "SYMPTOM_AND_DISEASE: Cận_thị"
+    },
+    {
+        "question": "Đọc kết_quả xét_nghiệm viêm gan B",
+        "response": "medical_procedure: xét_nghiệm, SYMPTOM_AND_DISEASE: viêm gan B"
+    },
+    {
+        "question": "Trẻ đang mắc bệnh chân_tay miệng sau 2 tuần có tiêm được vắc-xin thuỷ_đậu không ?",
+        "response": "SYMPTOM_AND_DISEASE: bệnh chân_tay miệng, medical_procedure: tiêm được vắc-xin thuỷ_đậu"
+    },
+    {
+        "question": "Đau bụng âm_ỉ kèm rối_loạn đi_tiêu , đầy hơi chướng bụng có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau bụng âm_ỉ, SYMPTOM_AND_DISEASE: rối_loạn đi_tiêu, SYMPTOM_AND_DISEASE: đầy hơi"
+    },
+    {
+        "question": "Xuất_tinh sớm có phải yếu sinh_lý và do thủ_dâm không ?",
+        "response": "SYMPTOM_AND_DISEASE: Xuất_tinh sớm, SYMPTOM_AND_DISEASE: yếu sinh_lý"
+    },
+    {
+        "question": "Cổ_họng khó nuốt kèm tức ngực bên trái là biểu_hiện bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Cổ_họng khó nuốt, SYMPTOM_AND_DISEASE: tức ngực bên trái"
+    },
+    {
+        "question": "Đang cho con bú có nên uống canxi và vitamin tổng_hợp không ?",
+        "response": "drug: canxi, drug: vitamin tổng_hợp"
+    },
+    {
+        "question": "Nổi hạch 2 bên hàm cảnh_báo bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Nổi hạch 2 bên hàm"
+    },
+    {
+        "question": "Nguyên_nhân ngứa kèm nổi mẩn đỏ do nhiễm ấu_trùng sán lợn và giun_đũa chó ?",
+        "response": "SYMPTOM_AND_DISEASE: ngứa, SYMPTOM_AND_DISEASE: nổi mẩn đỏ, SYMPTOM_AND_DISEASE: nhiễm ấu_trùng sán lợn và giun_đũa chó"
+    },
+    {
+        "question": "Người nhiễm virus HP có uống được nước dừa và nghệ tươi không ?",
+        "response": "SYMPTOM_AND_DISEASE: virus HP"
+    },
+    {
+        "question": "Người bị thiếu máu nhược sắc có cần uống Tardyferon B9 không ?",
+        "response": "SYMPTOM_AND_DISEASE: bị thiếu máu nhược sắc, drug: Tardyferon B9"
+    },
+    {
+        "question": "Uống rượu_bia trước khi nhổ răng số 8 có được không ?",
+        "response": "medical_procedure: nhổ răng"
+    },
+    {
+        "question": "Sau sinh 11 tháng chưa có kinh_nguyệt là do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: chưa có kinh_nguyệt"
+    },
+    {
+        "question": "Nên dùng thuốc Hydrochlorothiazide hay Furosemide hoặc thuốc nào khác cho người_bệnh phù chân do suy thận , liều_lượng như nào ?",
+        "response": "drug: thuốc Hydrochlorothiazide, drug: Furosemide, SYMPTOM_AND_DISEASE: phù chân, SYMPTOM_AND_DISEASE: suy thận"
+    },
+    {
+        "question": "Tăng huyết_áp 115-167 có nguy_hiểm đến tính_mạng không ?",
+        "response": "SYMPTOM_AND_DISEASE: Tăng huyết_áp"
+    },
+    {
+        "question": "Làm xét_nghiệm HIV 3 lần có chính_xác không ?",
+        "response": "medical_procedure: xét_nghiệm HIV"
+    },
+    {
+        "question": "Điều_trị dứt_điểm tình_trạng ngứa vùng bẹn như_thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: ngứa vùng bẹn"
+    },
+    {
+        "question": "Môi dưới tiếp_xúc với răng lợi lúc có cảm_giác nóng rát , khó_chịu là bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: nóng rát, SYMPTOM_AND_DISEASE: khó_chịu"
+    },
+    {
+        "question": "Vì sao tập thở bằng cơ_hoành lại có cảm_giác tê ở phía trước mặt ?",
+        "response": "medical_procedure: thở bằng cơ_hoành, SYMPTOM_AND_DISEASE: tê"
+    },
+    {
+        "question": "Dương_vật khi “ mềm ” chỉ như trẻ 4 tuổi , lúc cương cứng như đàn_ông trưởng_thành có bình_thường ?",
+        "response": "SYMPTOM_AND_DISEASE: Dương_vật khi “ mềm ”, SYMPTOM_AND_DISEASE: lúc cương cứng như đàn_ông trưởng_thành"
+    },
+    {
+        "question": "Chỉ_số bạch_cầu WBC : 3.9 x 10.9 / l có ảnh_hưởng gì không ?",
+        "response": ""
+    },
+    {
+        "question": "Có nên tiêm thuốc tránh thai tại trạm y_tế không ?",
+        "response": "medical_procedure: tiêm thuốc tránh thai"
+    },
+    {
+        "question": "Trẻ bị tay_chân miệng sốt cao có nên đi viện không ?",
+        "response": "SYMPTOM_AND_DISEASE: tay_chân miệng, SYMPTOM_AND_DISEASE: sốt cao"
+    },
+    {
+        "question": "Sỏi túi_mật 15mm nên cắt không hay có_thể dùng thuốc tan sỏi ?",
+        "response": "SYMPTOM_AND_DISEASE: Sỏi túi_mật, medical_procedure: cắt, drug: thuốc tan sỏi"
+    },
+    {
+        "question": "Bị hoa mắt khi bật đèn và sau khi tắm có đáng lo ?",
+        "response": "SYMPTOM_AND_DISEASE: Bị hoa mắt"
+    },
+    {
+        "question": "Thai_phụ bị nhau tiền_đạo nên mổ chủ_động ở tuần thai 37 không ?",
+        "response": "SYMPTOM_AND_DISEASE: bị nhau tiền_đạo, medical_procedure: mổ"
+    },
+    {
+        "question": "Điều_trị tăng huyết_áp , liệt nửa người như_thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: tăng huyết_áp, SYMPTOM_AND_DISEASE: liệt nửa người"
+    },
+    {
+        "question": "Uống_Newitacid điều_trị viêm da dị_ứng bị mẩn đỏ kèm ngứa có phải tác_dụng phụ của thuốc ?",
+        "response": "drug: Uống_Newitacid, SYMPTOM_AND_DISEASE: viêm da dị_ứng, SYMPTOM_AND_DISEASE: bị mẩn đỏ, SYMPTOM_AND_DISEASE: ngứa"
+    },
+    {
+        "question": "Phương_pháp sàng_lọc và bơm tinh_trùng cho tỷ_lệ thụ_thai cao không ?",
+        "response": "medical_procedure: Phương_pháp sàng_lọc, medical_procedure: bơm tinh_trùng"
+    },
+    {
+        "question": "Đau_đầu kèm nhức mắt là triệu_chứng của bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau_đầu, SYMPTOM_AND_DISEASE: nhức mắt"
+    },
+    {
+        "question": "Đại_tiện đau rát hậu_môn có phải do polyp trực_tràng không ?",
+        "response": "SYMPTOM_AND_DISEASE: Đại_tiện đau rát hậu_môn, SYMPTOM_AND_DISEASE: polyp trực_tràng"
+    },
+    {
+        "question": "Tiêm thuốc tránh thai có tác_dụng an_toàn tuyệt_đối không ?",
+        "response": "medical_procedure: Tiêm thuốc tránh thai"
+    },
+    {
+        "question": "Bé đại_tiện có máu cần bổ_sung men hay phải đi khám ?",
+        "response": "SYMPTOM_AND_DISEASE: đại_tiện có máu, drug: men"
+    },
+    {
+        "question": "Trẻ đi_ngoài phân màu xanh có bất_thường không ?",
+        "response": "SYMPTOM_AND_DISEASE: đi_ngoài phân màu xanh"
+    },
+    {
+        "question": "Gãy cổ xương đùi ở người cao_tuổi can_thiệp thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: Gãy cổ xương đùi"
+    },
+    {
+        "question": "Bé bị lao cấp_tính có chữa khỏi được không ?",
+        "response": "SYMPTOM_AND_DISEASE: bị lao cấp_tính"
+    },
+    {
+        "question": "Làm_sao để kiểm_tra thắt hay cắt ống dẫn trứng ?",
+        "response": "medical_procedure: thắt, medical_procedure: cắt ống dẫn trứng"
+    },
+    {
+        "question": "Mục trắng nhỏ ở trong bụng mắt là bị làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Mục trắng nhỏ ở trong bụng mắt"
+    },
+    {
+        "question": "Ra máu và đau rát sau quan_hệ tình_dục trong thai kỳ liệu có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: Ra máu, SYMPTOM_AND_DISEASE: đau rát"
+    },
+    {
+        "question": "Người mệt_mỏi kèm huyết_áp thường_xuyên thay_đổi có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: mệt_mỏi, SYMPTOM_AND_DISEASE: huyết_áp thường_xuyên thay_đổi"
+    },
+    {
+        "question": "Nhau tiền_đạo có gây nguy_hiểm đến thai kỳ không ?",
+        "response": "SYMPTOM_AND_DISEASE: Nhau tiền_đạo"
+    },
+    {
+        "question": "Trẻ sơ_sinh co_giật tay khi bú là dấu_hiệu bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: co_giật tay"
+    },
+    {
+        "question": "Mắt sưng sau khi ngủ dậy , ăn nhiều có cảm_giác buồn_nôn có phải dấu_hiệu hội_chứng thận hư tái_phát ?",
+        "response": "SYMPTOM_AND_DISEASE: Mắt sưng, SYMPTOM_AND_DISEASE: ăn nhiều có cảm_giác buồn_nôn, SYMPTOM_AND_DISEASE: hội_chứng thận hư"
+    },
+    {
+        "question": "Thai đạp ít và đau bụng phía bên trái khi mang thai ở tuần thứ 39 có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: đau bụng phía bên trái, SYMPTOM_AND_DISEASE: mang thai"
+    },
+    {
+        "question": "Điểm khác nhau khi phòng_bệnh giun_đũa , giun_móc , giun_kim , giun_tóc là gì ?",
+        "response": "SYMPTOM_AND_DISEASE: giun_đũa, SYMPTOM_AND_DISEASE: giun_móc, SYMPTOM_AND_DISEASE: giun_kim, SYMPTOM_AND_DISEASE: giun_tóc"
+    },
+    {
+        "question": "Dấu_hiệu đau mỏi lưng , đầu , miệng đắng , sốt từng cơn , phát_ban khắp cơ_thể cảnh_báo bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: đau mỏi lưng, SYMPTOM_AND_DISEASE: miệng đắng, SYMPTOM_AND_DISEASE: sốt từng cơn, SYMPTOM_AND_DISEASE: phát_ban khắp cơ_thể"
+    },
+    {
+        "question": "X-quang ngực thường được dùng trong trường_hợp nào ?",
+        "response": "medical_procedure: X-quang ngực"
+    },
+    {
+        "question": "Trẻ sơ_sinh bị vàng da , gồng mình thở nhanh có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: vàng da, SYMPTOM_AND_DISEASE: gồng mình thở nhanh"
+    },
+    {
+        "question": "Đánh_giá tình_trạng viêm gan B mạn qua kết_quả xét_nghiệm",
+        "response": "SYMPTOM_AND_DISEASE: viêm gan B mạn, medical_procedure: xét_nghiệm"
+    },
+    {
+        "question": "Uống thuốc điều_trị trào ngược dạ_dày thực_quản không khỏi phải làm_sao ?",
+        "response": "drug: thuốc điều_trị trào ngược dạ_dày thực_quản"
+    },
+    {
+        "question": "Đã điều_trị Amidan hốc mủ bằng thuốc nhưng vẫn tái_phát nhiều lần nên làm gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Amidan hốc mủ"
+    },
+    {
+        "question": "Trẻ 6 tháng đang điều_trị nhiễm_trùng đường ruột có_thể ăn dặm không ?",
+        "response": "SYMPTOM_AND_DISEASE: nhiễm_trùng đường ruột"
+    },
+    {
+        "question": "Thỉnh_thoảng đau_nhói ngực trái là bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: đau_nhói ngực trái"
+    },
+    {
+        "question": "Xuất_hiện cục cứng ở ngực là bị làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: cục cứng ở ngực"
+    },
+    {
+        "question": "Nổi hạch bên phải dưới hàm gây sưng đau là bị bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Nổi hạch bên phải dưới hàm, SYMPTOM_AND_DISEASE: sưng đau"
+    },
+    {
+        "question": "Chỉ_số T4 tăng khi bị bệnh suy giáp có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: bệnh suy giáp"
+    },
+    {
+        "question": "Đầu bé bẹp và nghiêng một bên , phải làm_sao để cải_thiện ?",
+        "response": "SYMPTOM_AND_DISEASE: Đầu bé bẹp, SYMPTOM_AND_DISEASE: nghiêng một bên"
+    },
+    {
+        "question": "Trẻ 11 tháng mới mọc 2 răng có làm_sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: mọc 2 răng"
+    },
+    {
+        "question": "Có khối_u ở chân răng vừa trám là do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: khối_u ở chân răng, medical_procedure: trám"
+    },
+    {
+        "question": "Nôn ói , khó nuốt , ăn không ngon , đau tức ngực , ù tai sau khi uống thuốc là dấu_hiệu của bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Nôn ói, SYMPTOM_AND_DISEASE: khó nuốt, SYMPTOM_AND_DISEASE: ăn không ngon, SYMPTOM_AND_DISEASE: đau tức ngực, SYMPTOM_AND_DISEASE: ù tai"
+    },
+    {
+        "question": "Tiểu_đường tuýp 1 nên uống thuốc gì để hạn_chế sản_sinh insulin ?",
+        "response": "SYMPTOM_AND_DISEASE: Tiểu_đường tuýp 1, SYMPTOM_AND_DISEASE: sản_sinh insulin"
+    },
+    {
+        "question": "Đau nửa đầu bên phải sau đó lan xuống mắt sau khi điều_trị huyết khối tĩnh_mạch não là bị làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau nửa đầu bên phải, SYMPTOM_AND_DISEASE: huyết khối tĩnh_mạch não"
+    },
+    {
+        "question": "Mang thai 5 tháng không thấy bé cử_động liệu có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: Mang thai, SYMPTOM_AND_DISEASE: không thấy bé cử_động"
+    },
+    {
+        "question": "Tại_sao khi khóc lại bị khó thở , co_quắp , lạnh người , ngất đi ?",
+        "response": "SYMPTOM_AND_DISEASE: khó thở, SYMPTOM_AND_DISEASE: co_quắp, SYMPTOM_AND_DISEASE: lạnh người, SYMPTOM_AND_DISEASE: ngất đi"
+    },
+    {
+        "question": "Nguyên_nhân và cách chữa_trị chứng khó thở ở ngực",
+        "response": "SYMPTOM_AND_DISEASE: chứng khó thở ở ngực"
+    },
+    {
+        "question": "Sau khi ghép thận có cần tiêm thuốc chống thải ghép nữa không ?",
+        "response": "medical_procedure: ghép thận, medical_procedure: tiêm thuốc chống thải ghép"
+    },
+    {
+        "question": "Trẻ 6 tháng tuổi vẫn chưa cứng_cổ có phải dấu_hiệu chậm phát_triển ?",
+        "response": "SYMPTOM_AND_DISEASE: cứng_cổ, SYMPTOM_AND_DISEASE: chậm phát_triển"
+    },
+    {
+        "question": "Tiểu buốt , tiểu nhiều lần kèm máu nâu quan_hệ trong ngày rụng trứng có ảnh_hưởng gì không ?",
+        "response": "SYMPTOM_AND_DISEASE: Tiểu buốt, SYMPTOM_AND_DISEASE: tiểu nhiều lần, SYMPTOM_AND_DISEASE: máu nâu"
+    },
+    {
+        "question": "Gây_mê toàn_thân là gì ?",
+        "response": "medical_procedure: Gây_mê toàn_thân"
+    },
+    {
+        "question": "Có thuốc kìm_hãm sự phát_triển của polyp túi_mật không ?",
+        "response": "SYMPTOM_AND_DISEASE: polyp túi_mật"
+    },
+    {
+        "question": "Xét_nghiệm TSH chỉ_số hơi cao nên uống thuốc hay làm gì ?",
+        "response": "medical_procedure: Xét_nghiệm TSH"
+    },
+    {
+        "question": "Đau bụng có nguy_cơ bị ung_thư dạ_dày không ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau bụng, SYMPTOM_AND_DISEASE: ung_thư dạ_dày"
+    },
+    {
+        "question": "Bé 4 tháng tuổi lười bú sữa kèm theo chậm tăng cân là bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: lười bú sữa, SYMPTOM_AND_DISEASE: chậm tăng cân"
+    },
+    {
+        "question": "Đau bụng_dưới kèm đi_tiểu nhiều lần trước khi ngủ biểu_hiện của bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau bụng_dưới, SYMPTOM_AND_DISEASE: đi_tiểu nhiều lần"
+    },
+    {
+        "question": "Trẻ bị rốn lồi có ảnh_hưởng gì không ?",
+        "response": "SYMPTOM_AND_DISEASE: bị rốn lồi"
+    },
+    {
+        "question": "Bổ_sung vitamin C và Collagen như_thế_nào cho hợp_lý ?",
+        "response": "drug: vitamin C, drug: Collagen"
+    },
+    {
+        "question": "Phương_pháp điều_trị viêm nang lông",
+        "response": "SYMPTOM_AND_DISEASE: viêm nang lông"
+    },
+    {
+        "question": "Nếu phẫu_thuật teo đường mật thành_công trẻ sẽ sống được bao_lâu ?",
+        "response": "medical_procedure: phẫu_thuật teo đường mật"
+    },
+    {
+        "question": "Bị buồng_trứng đa nang nên bổ_sung dưỡng_chất nào ?",
+        "response": "SYMPTOM_AND_DISEASE: buồng_trứng đa nang"
+    },
+    {
+        "question": "Trẻ bị vàng da ở mặt có phải dấu_hiệu bệnh_lý không ?",
+        "response": "SYMPTOM_AND_DISEASE: vàng da ở mặt"
+    },
+    {
+        "question": "Loét xung_quanh vết dán túi hậu_môn nhân_tạo phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Loét xung_quanh vết dán túi hậu_môn nhân_tạo"
+    },
+    {
+        "question": "Mụn nước để lại thâm có phải dấu_hiệu bệnh ghẻ ở trẻ sơ_sinh ?",
+        "response": "SYMPTOM_AND_DISEASE: Mụn nước để lại thâm, SYMPTOM_AND_DISEASE: bệnh ghẻ"
+    },
+    {
+        "question": "Kết_quả chẩn_đoán ung_thư đại_tràng",
+        "response": "SYMPTOM_AND_DISEASE: ung_thư đại_tràng"
+    },
+    {
+        "question": "Sau sinh 1 năm , vết tiêm gây_tê còn đau_nhức có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: vết tiêm gây_tê còn đau_nhức"
+    },
+    {
+        "question": "Trẻ uống vắc-xin rota bị tiêu_chảy : Khi nào nên cho đi khám ?",
+        "response": "drug: vắc-xin rota, SYMPTOM_AND_DISEASE: tiêu_chảy"
+    },
+    {
+        "question": "Huyết_áp_cao liên_tục uống thuốc không giảm có nguy_hiểm gì không ?",
+        "response": "SYMPTOM_AND_DISEASE: Huyết_áp_cao liên_tục"
+    },
+    {
+        "question": "Điều_trị dứt_điểm bệnh mề_đay thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: bệnh mề_đay"
+    },
+    {
+        "question": "Thuốc gây_tê có ảnh_hưởng đến thai_nhi tuần 30 không ?",
+        "response": "drug: Thuốc gây_tê"
+    },
+    {
+        "question": "Phương_pháp phục_hồi ở bệnh_nhân bị tràn khí màng phổi như_thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: tràn khí màng phổi"
+    },
+    {
+        "question": "Bầu tháng thứ 5 có nên tăng_cường đồng_thời sắt và canxi không ?",
+        "response": "drug: tăng_cường đồng_thời sắt, drug: canxi"
+    },
+    {
+        "question": "Bị xuất_huyết thân não có cấy tế_bào gốc được không ?",
+        "response": "SYMPTOM_AND_DISEASE: xuất_huyết thân não, medical_procedure: cấy tế_bào gốc"
+    },
+    {
+        "question": "Đau thần_kinh sau Zona ở người cao_tuổi điều_trị thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau thần_kinh sau Zona"
+    },
+    {
+        "question": "Virus viêm gan B có lây_truyền từ mẹ sang con khi bé bú đầu ti mẹ bị nứt chảy_máu không ?",
+        "response": "SYMPTOM_AND_DISEASE: Virus viêm gan B, SYMPTOM_AND_DISEASE: nứt chảy_máu"
+    },
+    {
+        "question": "Vết mổ đẻ lộ chỉ liệu có đáng lo_ngại không ?",
+        "response": "SYMPTOM_AND_DISEASE: Vết mổ đẻ lộ chỉ"
+    },
+    {
+        "question": "Mang thai sau khi tiêm phòng Sởi - Rubella liệu có nguy_hiểm ?",
+        "response": "SYMPTOM_AND_DISEASE: Mang thai, medical_procedure: tiêm phòng Sởi - Rubella"
+    },
+    {
+        "question": "Hỏi_đáp : Có_thể tầm soát được nguy_cơ mắc chứng tự kỷ ở trẻ nhỏ không ?",
+        "response": "SYMPTOM_AND_DISEASE: chứng tự kỷ"
+    },
+    {
+        "question": "Que tránh thai phát_huy tác_dụng bao_lâu sau khi cấy ?",
+        "response": "medical_procedure: Que tránh thai, medical_procedure: cấy"
+    },
+    {
+        "question": "Bệnh_nhân bị bướu_cổ có nên sử_dụng muối Iod không ?",
+        "response": "SYMPTOM_AND_DISEASE: bướu_cổ"
+    },
+    {
+        "question": "Cần làm gì khi xét_nghiệm dương_tính virus viêm gan B ?",
+        "response": "medical_procedure: xét_nghiệm, SYMPTOM_AND_DISEASE: dương_tính virus viêm gan B"
+    },
+    {
+        "question": "Trẻ 4 tuổi thường_xuyên chảy_máu cam liệu có đáng lo_ngại ?",
+        "response": "SYMPTOM_AND_DISEASE: chảy_máu cam"
+    },
+    {
+        "question": "Hỏi_đáp : Vết tiêm phòng lao sưng phù liệu có đáng lo ?",
+        "response": "SYMPTOM_AND_DISEASE: Vết tiêm phòng lao sưng phù liệu"
+    },
+    {
+        "question": "Trẻ 7 tuổi vẫn còn đái_dầm liệu có bị bệnh gì không ?",
+        "response": "SYMPTOM_AND_DISEASE: đái_dầm"
+    },
+    {
+        "question": "Da vùng lưng nổi mẩn và rát là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Da vùng lưng nổi mẩn, SYMPTOM_AND_DISEASE: rát"
+    },
+    {
+        "question": "Gãy xương kín và bị phù_nề có_thể phẫu_thuật ngay không ?",
+        "response": "SYMPTOM_AND_DISEASE: Gãy xương kín, SYMPTOM_AND_DISEASE: phù_nề, medical_procedure: phẫu_thuật"
+    },
+    {
+        "question": "Trẻ nhỏ sốt kèm nổi mẩn , quấy khóc về đêm là biểu_hiện của bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: sốt, SYMPTOM_AND_DISEASE: nổi mẩn, SYMPTOM_AND_DISEASE: quấy khóc"
+    },
+    {
+        "question": "Xuất_hiện nốt bạch_biến có trị được không ?",
+        "response": "SYMPTOM_AND_DISEASE: nốt bạch_biến"
+    },
+    {
+        "question": "Bé 5 tháng sốt cao 38 độ C có bị gì không ?",
+        "response": "SYMPTOM_AND_DISEASE: sốt cao"
+    },
+    {
+        "question": "Thai ngoài tử_cung có sinh được không ?",
+        "response": "SYMPTOM_AND_DISEASE: Thai ngoài tử_cung"
+    },
+    {
+        "question": "Nên làm gì khi bị tắc tia sữa , có cục cứng ở ngực , không đau , không sốt ?",
+        "response": "SYMPTOM_AND_DISEASE: tắc tia sữa, SYMPTOM_AND_DISEASE: cục cứng ở ngực, SYMPTOM_AND_DISEASE: không đau, SYMPTOM_AND_DISEASE: không sốt"
+    },
+    {
+        "question": "Mắt trẻ sơ_sinh có nhiều gỉ kèm theo chảy nước vàng có làm_sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: nhiều gỉ, SYMPTOM_AND_DISEASE: chảy nước vàng"
+    },
+    {
+        "question": "Biểu_hiện hoa mắt , chóng_mặt , nặng đầu về phần sau gáy có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: hoa mắt, SYMPTOM_AND_DISEASE: chóng_mặt, SYMPTOM_AND_DISEASE: nặng đầu"
+    },
+    {
+        "question": "Trẻ bị táo_bón có dùng được thuốc đặt hậu_môn ?",
+        "response": "SYMPTOM_AND_DISEASE: táo_bón, drug: thuốc đặt hậu_môn"
+    },
+    {
+        "question": "Máu đông có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: Máu đông"
+    },
+    {
+        "question": "Mang thai 28 tuần thường đau vùng thượng_vị , ợ hơi là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Mang thai, SYMPTOM_AND_DISEASE: đau vùng thượng_vị, SYMPTOM_AND_DISEASE: ợ hơi"
+    },
+    {
+        "question": "Rối_loạn dung_nạp có phải là tiểu_đường thai kỳ ?",
+        "response": "SYMPTOM_AND_DISEASE: Rối_loạn dung_nạp, SYMPTOM_AND_DISEASE: tiểu_đường thai kỳ"
+    },
+    {
+        "question": "Điều_trị sâu_răng chỉ còn chân răng như_thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: sâu_răng"
+    },
+    {
+        "question": "Điều_trị viêm loét dạ_dày bằng thuốc sau bao_lâu là khỏi ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm loét dạ_dày"
+    },
+    {
+        "question": "Bổ_sung vitamin như_thế_nào hợp_lý ?",
+        "response": "drug: vitamin"
+    },
+    {
+        "question": "Trẻ 13 tháng tuổi chỉ mọc 1 chiếc răng có phải đi khám không ?",
+        "response": "SYMPTOM_AND_DISEASE: chỉ mọc 1 chiếc răng"
+    },
+    {
+        "question": "Cần làm những gì khi đi khám nhiễm virus ?",
+        "response": "SYMPTOM_AND_DISEASE: nhiễm virus"
+    },
+    {
+        "question": "Nguyên_nhân tăng tiết nước_bọt , cách điều_trị",
+        "response": "SYMPTOM_AND_DISEASE: tăng tiết nước_bọt"
+    },
+    {
+        "question": "Cắt tuyến_giáp có ảnh_hưởng đến khả_năng mang thai không ?",
+        "response": "medical_procedure: Cắt tuyến_giáp, SYMPTOM_AND_DISEASE: mang thai"
+    },
+    {
+        "question": "Dương_vật trẻ teo nhỏ , phần mu to , sinh_hoạt bình_thường có làm_sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: Dương_vật trẻ teo nhỏ, SYMPTOM_AND_DISEASE: phần mu to"
+    },
+    {
+        "question": "Bé đi_ngoài phân lỏng kèm máu có phải bị lỵ không ?",
+        "response": "SYMPTOM_AND_DISEASE: đi_ngoài phân lỏng, SYMPTOM_AND_DISEASE: máu, SYMPTOM_AND_DISEASE: lỵ"
+    },
+    {
+        "question": "Viêm họng hạt uống thuốc không khỏi phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Viêm họng hạt"
+    },
+    {
+        "question": "Trẻ 3 tháng tuổi rụng tóc vành khăn có phải do thiếu canxi ?",
+        "response": "SYMPTOM_AND_DISEASE: rụng tóc vành khăn, SYMPTOM_AND_DISEASE: thiếu canxi"
+    },
+    {
+        "question": "Xuất_hiện hạt trắng trên dương_vật và bìu tinh_hoàn là dấu_hiệu của bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: hạt trắng trên dương_vật và bìu tinh_hoàn"
+    },
+    {
+        "question": "Bé 2 tuổi bị ho uống siro Prospan nhưng không khỏi có nên đi khám bác_sĩ và đổi thuốc khác không ?",
+        "response": "SYMPTOM_AND_DISEASE: ho, drug: siro Prospan"
+    },
+    {
+        "question": "Đau dạ_dày nên dùng thuốc điều_trị vi_khuẩn HP nào ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau dạ_dày, drug: thuốc điều_trị vi_khuẩn HP"
+    },
+    {
+        "question": "Huyết_áp đo tại viện và ở nhà chênh_lệch khá lớn là do đâu ?",
+        "response": "medical_procedure: Huyết_áp đo"
+    },
+    {
+        "question": "Có nên tập phục_hồi chức_năng ngay sau phẫu_thuật cột_sống không ?",
+        "response": "medical_procedure: phẫu_thuật cột_sống"
+    },
+    {
+        "question": "Trẻ 17 tháng sốt tái đi tái lại kèm khó thở , ho_khan có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: sốt tái đi tái lại, SYMPTOM_AND_DISEASE: khó thở, SYMPTOM_AND_DISEASE: ho_khan"
+    },
+    {
+        "question": "Vì sao trẻ bị viêm ruột_thừa không sốt và ít đau ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm ruột_thừa, SYMPTOM_AND_DISEASE: không sốt, SYMPTOM_AND_DISEASE: ít đau"
+    },
+    {
+        "question": "Nguyên_nhân tai phải nghe kém hơn là do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: tai phải nghe kém hơn"
+    },
+    {
+        "question": "Nổi cục lồi có mủ kèm dễ vỡ , đau khi đại_tiện sau sinh liệu có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: Nổi cục lồi có mủ, SYMPTOM_AND_DISEASE: dễ vỡ, SYMPTOM_AND_DISEASE: đau khi đại_tiện"
+    },
+    {
+        "question": "Nghén nhẹ ở tuần 6 nhưng sang tuần 7 hết có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: Nghén nhẹ"
+    },
+    {
+        "question": "Vitamin_K có bắt_buộc phải tiêm sau sinh không ?",
+        "response": "drug: Vitamin_K, medical_procedure: tiêm"
+    },
+    {
+        "question": "Bé ngủ hay giật_mình có nên dùng gối chặn không ?",
+        "response": "SYMPTOM_AND_DISEASE: ngủ hay giật_mình"
+    },
+    {
+        "question": "Trẻ 5 tháng tuổi thường chảy nước_mắt sống liệu có đáng lo ?",
+        "response": "SYMPTOM_AND_DISEASE: chảy nước_mắt sống"
+    },
+    {
+        "question": "Người tiểu_đường type 2 có ăn tỏi đen được không ?",
+        "response": "SYMPTOM_AND_DISEASE: tiểu_đường type 2"
+    },
+    {
+        "question": "Rát họng khi nói liên_tục với âm_lượng lớn là triệu_chứng của bệnh ung_thư vòm họng ?",
+        "response": "SYMPTOM_AND_DISEASE: Rát họng, SYMPTOM_AND_DISEASE: bệnh ung_thư vòm họng"
+    },
+    {
+        "question": "Cách điều_trị mụn ẩn , mụn cám tuổi dậy_thì hiệu_quả",
+        "response": "SYMPTOM_AND_DISEASE: mụn ẩn, SYMPTOM_AND_DISEASE: mụn cám"
+    },
+    {
+        "question": "Làm_sao để khỏi ngạt_mũi mà không phụ_thuộc vào thuốc co mạch ?",
+        "response": "SYMPTOM_AND_DISEASE: ngạt_mũi, drug: thuốc co mạch"
+    },
+    {
+        "question": "Ợ hơi thường_xuyên , miệng đắng kèm mùi khó_chịu , răng buốt nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: Ợ hơi thường_xuyên, SYMPTOM_AND_DISEASE: miệng đắng, SYMPTOM_AND_DISEASE: mùi khó_chịu, SYMPTOM_AND_DISEASE: răng buốt"
+    },
+    {
+        "question": "Ngừng uống thuốc tránh thai hàng ngày bao_lâu có_thể mang thai ?",
+        "response": "drug: thuốc tránh thai, SYMPTOM_AND_DISEASE: mang thai"
+    },
+    {
+        "question": "Thuốc Elthon 50mg , Gaviscon , Stadpize 50mg có ảnh_hưởng đến thai_nhi không ?",
+        "response": "drug: Thuốc Elthon, drug: Gaviscon, drug: Stadpize"
+    },
+    {
+        "question": "Trẻ sơ_sinh xuất_hiện dị_vật ở gốc bìu là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: dị_vật ở gốc bìu"
+    },
+    {
+        "question": "Hơn 3 ngày bé mới đi_ngoài , phân mềm , màu xanh đậm và tăng cân bình_thường liệu sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: đi_ngoài, SYMPTOM_AND_DISEASE: phân mềm, SYMPTOM_AND_DISEASE: tăng cân"
+    },
+    {
+        "question": "Trẻ sơ_sinh sau khi ngã xuất_hiện run đầu và tay có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: run đầu và tay"
+    },
+    {
+        "question": "Lạc nội mạc tử_cung có làm ảnh_hưởng đến đời_sống tình_dục không ?",
+        "response": "SYMPTOM_AND_DISEASE: Lạc nội mạc tử_cung"
+    },
+    {
+        "question": "Dùng thuốc kháng_sinh Penicillin xịt mũi trị viêm xoang có được không ?",
+        "response": "drug: thuốc kháng_sinh Penicillin, SYMPTOM_AND_DISEASE: viêm xoang"
+    },
+    {
+        "question": "Trẻ 3 tháng 20 ngày ít hóng chuyện , ngủ nhiều có phải chậm phát_triển không ?",
+        "response": "SYMPTOM_AND_DISEASE: ít hóng chuyện, SYMPTOM_AND_DISEASE: ngủ nhiều, SYMPTOM_AND_DISEASE: chậm phát_triển"
+    },
+    {
+        "question": "Trẻ 4 tháng có tiêm vắc-xin 6 trong 1 được không ?",
+        "response": "medical_procedure: tiêm vắc-xin 6 trong 1"
+    },
+    {
+        "question": "Ấn vào phần bụng trên rốn cảm_giác đau là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Ấn vào phần bụng trên rốn cảm_giác đau"
+    },
+    {
+        "question": "Cắt nang tuyến Bartholin dùng phương_pháp vô_cảm nào phù_hợp ?",
+        "response": "medical_procedure: Cắt nang tuyến Bartholin"
+    },
+    {
+        "question": "Co thắt đường ruột có_thể ăn thịt bò không ?",
+        "response": "SYMPTOM_AND_DISEASE: Co thắt đường ruột"
+    },
+    {
+        "question": "Miệng méo sau khi đi hàn răng và cấy tuỷ , vì sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Miệng méo, medical_procedure: hàn răng, medical_procedure: cấy tuỷ"
+    },
+    {
+        "question": "Người 83 tuổi chỉ_số huyết_áp 139/72 và nhịp tim 69 có bình_thường không ?",
+        "response": ""
+    },
+    {
+        "question": "Trẻ 8 tuổi thường_xuyên bị đau_đầu , toát mồ_hôi cảnh_báo bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: đau_đầu, SYMPTOM_AND_DISEASE: toát mồ_hôi"
+    },
+    {
+        "question": "Mẹ nhóm máu B , bố nhóm máu B sinh ra nhóm máu A + là sao ?",
+        "response": ""
+    },
+    {
+        "question": "Một bên mắt khô , khó nhìn có phải dấu_hiệu của mắt lác ?",
+        "response": "SYMPTOM_AND_DISEASE: Một bên mắt khô, SYMPTOM_AND_DISEASE: khó nhìn, SYMPTOM_AND_DISEASE: lác ?"
+    },
+    {
+        "question": "Thông liên thất quanh màng có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: Thông liên thất quanh màng"
+    },
+    {
+        "question": "Trẻ 2 tuần tuổi bị đi_ngoài phân lỏng , có bọt , bụng kêu kêu thì uống được thuốc gì không ?",
+        "response": "SYMPTOM_AND_DISEASE: đi_ngoài phân lỏng, SYMPTOM_AND_DISEASE: có bọt, SYMPTOM_AND_DISEASE: bụng kêu"
+    },
+    {
+        "question": "Người có tiền_sử huyết_áp_thấp có được hiến máu không ?",
+        "response": "SYMPTOM_AND_DISEASE: huyết_áp_thấp, medical_procedure: hiến máu"
+    },
+    {
+        "question": "Thai 27 tuần bị chẩn_đoán giãn não thất có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: giãn não thất"
+    },
+    {
+        "question": "Mí mắt hay bị viêm đỏ và có vảy như gàu là bị làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Mí mắt hay bị viêm đỏ, SYMPTOM_AND_DISEASE: có vảy như gàu"
+    },
+    {
+        "question": "Vì sao khi sốt cao , tiêu_chảy nên uống oresol ?",
+        "response": "SYMPTOM_AND_DISEASE: sốt cao, SYMPTOM_AND_DISEASE: tiêu_chảy, drug: oresol"
+    },
+    {
+        "question": "Trẻ 2 tháng nôn trớ nhiều có nên đi khám không ?",
+        "response": "SYMPTOM_AND_DISEASE: nôn trớ"
+    },
+    {
+        "question": "Trẻ ăn dặm bị táo_bón có đáng lo ?",
+        "response": "SYMPTOM_AND_DISEASE: táo_bón"
+    },
+    {
+        "question": "Thai 24 tuần bị nốt Echo dày trong gan có nhất_định phải chọc ối không ?",
+        "response": "SYMPTOM_AND_DISEASE: nốt Echo dày trong gan, medical_procedure: chọc ối"
+    },
+    {
+        "question": "Thường_xuyên mất tập_trung và hay quên là dấu_hiệu của bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: mất tập_trung, SYMPTOM_AND_DISEASE: hay quên"
+    },
+    {
+        "question": "Phải làm_sao khi trẻ sơ_sinh bị ngạt_mũi kéo_dài ?",
+        "response": "SYMPTOM_AND_DISEASE: ngạt_mũi"
+    },
+    {
+        "question": "Sau khi đặt ống catheter cho lọc màng bụng , cần lưu_ý gì khi đi ngủ hay vận_động không ?",
+        "response": "medical_procedure: đặt ống catheter"
+    },
+    {
+        "question": "Có cách nào điều_trị khỏi hoàn_toàn viêm bờ mi và khô mắt không ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm bờ mi, SYMPTOM_AND_DISEASE: khô mắt"
+    },
+    {
+        "question": "Nên tự cắt chỉ khi vết chỉ khâu tầng sinh môn chưa tự tiêu không ?",
+        "response": "medical_procedure: cắt chỉ"
+    },
+    {
+        "question": "Thường_xuyên nổi mề_đay và đau lồng_ngực do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: nổi mề_đay, SYMPTOM_AND_DISEASE: đau lồng_ngực"
+    },
+    {
+        "question": "Phương_pháp đốt sóng cao_tần áp_dụng trong điều_trị u tuyến_giáp lành_tính có hiệu_quả không ?",
+        "response": "medical_procedure: đốt sóng cao_tần, SYMPTOM_AND_DISEASE: u tuyến_giáp lành_tính"
+    },
+    {
+        "question": "Cách điều_trị mào vách ngăn tốt nhất là gì ?",
+        "response": "SYMPTOM_AND_DISEASE: mào vách ngăn"
+    },
+    {
+        "question": "Sản dịch ra máu loãng màu đỏ , bụng_dưới căng và đau lâm_râm sau sinh 1 tuần liệu có nên đi khám không ?",
+        "response": "SYMPTOM_AND_DISEASE: Sản dịch ra máu loãng màu đỏ, SYMPTOM_AND_DISEASE: bụng_dưới căng, SYMPTOM_AND_DISEASE: đau lâm_râm"
+    },
+    {
+        "question": "Vú nổi nhiều nốt thâm đen mọng nước trong tháng thai kỳ thứ 7 có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: Vú nổi nhiều nốt thâm đen mọng nước"
+    },
+    {
+        "question": "Đau thắt ngực , khó thở kèm đau_đầu , ù tai có nguy_cơ bị bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau thắt ngực, SYMPTOM_AND_DISEASE: khó thở kèm đau_đầu, SYMPTOM_AND_DISEASE: ù tai"
+    },
+    {
+        "question": "Mổ trĩ bằng phương_pháp longo , đi_đại_tiện thường đau rát hậu_môn có sao không ?",
+        "response": "medical_procedure: Mổ trĩ, medical_procedure: longo, SYMPTOM_AND_DISEASE: đi_đại_tiện thường đau rát hậu_môn"
+    },
+    {
+        "question": "Đau rát họng , nghẹt mũi một bên , ù tai có phải viêm amidan ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau rát họng, SYMPTOM_AND_DISEASE: nghẹt mũi một bên, SYMPTOM_AND_DISEASE: ù tai, SYMPTOM_AND_DISEASE: viêm amidan"
+    },
+    {
+        "question": "Trẻ sơ_sinh xì hơi , khó đi_ngoài là bị làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: xì hơi, SYMPTOM_AND_DISEASE: khó đi_ngoài"
+    },
+    {
+        "question": "Hỏi_đáp : Trẻ 3 tháng tuổi nôn sau bú là dấu_hiệu bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: nôn sau bú"
+    },
+    {
+        "question": "Sót túi thai không có phôi sau khi phá phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Sót túi thai không có phôi"
+    },
+    {
+        "question": "Thuốc gây_mê có an_toàn hay không ?",
+        "response": "drug: Thuốc gây_mê"
+    },
+    {
+        "question": "Đẻ không đau chống chỉ_định với trường_hợp nào ?",
+        "response": "medical_procedure: Đẻ không đau"
+    },
+    {
+        "question": "Không đau bụng trong chu_kỳ kinh_nguyệt đầu_tiên có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: Không đau bụng trong chu_kỳ kinh_nguyệt đầu_tiên"
+    },
+    {
+        "question": "Bé 7 tuổi vú sưng , đau có phải biểu_hiện dậy_thì sớm không ?",
+        "response": "SYMPTOM_AND_DISEASE: vú sưng, SYMPTOM_AND_DISEASE: đau, SYMPTOM_AND_DISEASE: dậy_thì sớm"
+    },
+    {
+        "question": "Chụp_X quang và CT cùng ngày có gây ảnh_hưởng gì không ?",
+        "response": "medical_procedure: Chụp_X quang, medical_procedure: CT"
+    },
+    {
+        "question": "Kết_quả xét_nghiệm thai sớm < 10 mIU / ml có_thai không ?",
+        "response": "medical_procedure: xét_nghiệm thai"
+    },
+    {
+        "question": "Cách điều_trị mất_ngủ kéo_dài",
+        "response": "SYMPTOM_AND_DISEASE: mất_ngủ kéo_dài"
+    },
+    {
+        "question": "Phương_pháp điều_trị chứng rậm lông ?",
+        "response": "SYMPTOM_AND_DISEASE: rậm lông"
+    },
+    {
+        "question": "Có_thể mang thai và cho trẻ bú cùng một lúc không ?",
+        "response": "SYMPTOM_AND_DISEASE: mang thai"
+    },
+    {
+        "question": "Siêu_âm thai 6 tuần chưa có phôi_thai , vậy có_thai không ?",
+        "response": "medical_procedure: Siêu_âm, SYMPTOM_AND_DISEASE: chưa có phôi_thai, SYMPTOM_AND_DISEASE: có_thai"
+    },
+    {
+        "question": "Thai 5 tuần có bị ảnh_hưởng bởi các các chỉ_số xét_nghiệm máu TSH , T3 , T4 , FT3 , FT4 không ?",
+        "response": ""
+    },
+    {
+        "question": "Trẻ hơn 3 tháng nặng 5kg có phải suy_dinh_dưỡng ?",
+        "response": "SYMPTOM_AND_DISEASE: suy_dinh_dưỡng"
+    },
+    {
+        "question": "Có_thể điều_trị hẹp niệu_đạo triệt_để không ?",
+        "response": "SYMPTOM_AND_DISEASE: hẹp niệu_đạo"
+    },
+    {
+        "question": "Mắt trẻ sưng đỏ là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Mắt trẻ sưng đỏ"
+    },
+    {
+        "question": "Tuyến nước_bọt có mủ nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: Tuyến nước_bọt có mủ"
+    },
+    {
+        "question": "Đường_huyết xuống sau khi tiêm insulin liệu có uống thuốc được không ?",
+        "response": "SYMPTOM_AND_DISEASE: Đường_huyết xuống, medical_procedure: tiêm insulin"
+    },
+    {
+        "question": "Xuất_hiện đốm nhỏ ở cạnh dây thắng có phải bệnh do quan_hệ tình_dục ?",
+        "response": "SYMPTOM_AND_DISEASE: Xuất_hiện đốm nhỏ ở cạnh dây thắng"
+    },
+    {
+        "question": "Tê buốt chân và xuất_hiện các vết bầm tím sau khi đi biển cảnh_báo bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Tê buốt chân, SYMPTOM_AND_DISEASE: các vết bầm tím"
+    },
+    {
+        "question": "Có cần phải uống thêm vitamin E sau khi đã bổ_sung từ nguồn thức_ăn không ?",
+        "response": "drug: vitamin E"
+    },
+    {
+        "question": "Bị bệnh đường ruột có ảnh_hưởng đến chất_lượng tinh_trùng không ?",
+        "response": "SYMPTOM_AND_DISEASE: bệnh đường ruột"
+    },
+    {
+        "question": "Xét_nghiệm vitamin B12 kết_quả cao gấp đôi bình_thường có nguy_hiểm không ?",
+        "response": "medical_procedure: Xét_nghiệm vitamin B12"
+    },
+    {
+        "question": "Đau_nhức cơ sau phẫu_thuật đám rối thần_kinh tay_phải khắc_phục thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau_nhức cơ, medical_procedure: phẫu_thuật đám rối thần_kinh tay_phải"
+    },
+    {
+        "question": "Ho có đờm , rát họng , nghẹt mũi là bị sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Ho có đờm, SYMPTOM_AND_DISEASE: rát họng, SYMPTOM_AND_DISEASE: nghẹt mũi"
+    },
+    {
+        "question": "Hỏi_đáp : Ghép tế_bào gốc điều_trị tự kỷ ở trẻ có gây tác_dụng phụ không ?",
+        "response": "medical_procedure: Ghép tế_bào gốc, SYMPTOM_AND_DISEASE: tự kỷ"
+    },
+    {
+        "question": "Sau mổ u_nang buồng_trứng bị trễ kinh là do đâu ?",
+        "response": "medical_procedure: mổ u_nang buồng_trứng, SYMPTOM_AND_DISEASE: trễ kinh"
+    },
+    {
+        "question": "Gãy xương bánh_chè bao_lâu thì lành và nên tập_luyện thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: Gãy xương bánh_chè"
+    },
+    {
+        "question": "Ra huyết trắng kèm đau bụng_dưới bên phải có đáng lo ?",
+        "response": "SYMPTOM_AND_DISEASE: Ra huyết trắng kèm đau bụng_dưới"
+    },
+    {
+        "question": "Hỏi_đáp : Làm thế_nào để không bị sẹo sau thuỷ_đậu ?",
+        "response": "SYMPTOM_AND_DISEASE: sẹo, SYMPTOM_AND_DISEASE: thuỷ_đậu"
+    },
+    {
+        "question": "Trẻ sơ_sinh 6 tháng tuổi bị lệch trán có phải dính khớp sọ không ?",
+        "response": "SYMPTOM_AND_DISEASE: lệch trán, SYMPTOM_AND_DISEASE: dính khớp sọ"
+    },
+    {
+        "question": "Bé không ngồi và đứng được có phải do mẹ dùng thuốc Amoxicillin không ?",
+        "response": "SYMPTOM_AND_DISEASE: không ngồi và đứng được, drug: thuốc Amoxicillin"
+    },
+    {
+        "question": "Trẻ 5 tuổi không tự kiểm_soát được hành_vi của mình , tự làm mình đau là bị làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: không tự kiểm_soát được hành_vi, SYMPTOM_AND_DISEASE: tự làm mình đau"
+    },
+    {
+        "question": "Trẻ sinh non sốt cao , mọc hạch tai đau cứng sau tiêm lao , nhỏ rota có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: sốt cao, SYMPTOM_AND_DISEASE: mọc hạch tai đau cứng, medical_procedure: tiêm lao, drug: rota"
+    },
+    {
+        "question": "Xét_nghiệm máu vào thời_điểm nào để kiểm_tra kết_quả sau khi chuyển phôi ?",
+        "response": "medical_procedure: Xét_nghiệm máu, medical_procedure: chuyển phôi"
+    },
+    {
+        "question": "Bé đau_đầu là do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: đau_đầu"
+    },
+    {
+        "question": "Xét_nghiệm máu có kiểm_tra được nhiễm HP không ?",
+        "response": "medical_procedure: Xét_nghiệm máu, SYMPTOM_AND_DISEASE: nhiễm HP"
+    },
+    {
+        "question": "Bị trễ kinh 2 tuần phải làm cách nào để tránh thai ?",
+        "response": "SYMPTOM_AND_DISEASE: trễ kinh"
+    },
+    {
+        "question": "Bé bị viêm phổi , sức đề_kháng kém phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm phổi, SYMPTOM_AND_DISEASE: sức đề_kháng kém"
+    },
+    {
+        "question": "Bé sổ_mũi nước trong có phải dấu_hiệu cảm lạnh không ?",
+        "response": "SYMPTOM_AND_DISEASE: sổ_mũi nước trong, SYMPTOM_AND_DISEASE: cảm lạnh"
+    },
+    {
+        "question": "Thuốc hạ sốt nên dùng cho bé thiếu men G6PD",
+        "response": "drug: Thuốc hạ sốt, SYMPTOM_AND_DISEASE: thiếu men G6PD"
+    },
+    {
+        "question": "Có_thể nhỏ vitamin D cho trẻ sơ_sinh tại nhà không ?",
+        "response": "drug: vitamin D"
+    },
+    {
+        "question": "Thời_gian hồi_phục sau khi điều_trị viêm giác_mạc là bao_lâu ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm giác_mạc"
+    },
+    {
+        "question": "Phải làm_sao khi bị chậm kinh sau khi dùng thuốc phá_thai ?",
+        "response": "SYMPTOM_AND_DISEASE: chậm kinh, drug: thuốc phá_thai"
+    },
+    {
+        "question": "Hiệu_quả của thuốc tránh thai hàng ngày như_thế_nào ?",
+        "response": "drug: thuốc tránh thai"
+    },
+    {
+        "question": "Nên uống thuốc gì khi mắc viêm đường tiết_niệu nhẹ ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm đường tiết_niệu"
+    },
+    {
+        "question": "Tình_trạng trẻ sơ_sinh 3 tháng tuổi không ngủ trưa được",
+        "response": "SYMPTOM_AND_DISEASE: không ngủ trưa"
+    },
+    {
+        "question": "Phải làm_sao khi bị viêm âm_đạo kèm theo bệnh thận ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm âm_đạo, SYMPTOM_AND_DISEASE: bệnh thận"
+    },
+    {
+        "question": "Đau bụng , ra máu sau sinh mổ 4 tháng có phải kinh_nguyệt không ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau bụng, SYMPTOM_AND_DISEASE: ra máu, medical_procedure: sinh mổ"
+    },
+    {
+        "question": "Dùng nhiều thuốc tránh thai khẩn_cấp có ảnh_hưởng đến khả_năng mang thai ?",
+        "response": "drug: thuốc tránh thai, SYMPTOM_AND_DISEASE: mang thai"
+    },
+    {
+        "question": "Trẻ 4 tháng tuổi có_thể tiêm vắc-xin phế cầu không ?",
+        "response": "medical_procedure: tiêm vắc-xin phế cầu"
+    },
+    {
+        "question": "Đã mổ sỏi thận rồi phải làm gì tiếp_theo ?",
+        "response": "SYMPTOM_AND_DISEASE: mổ sỏi thận"
+    },
+    {
+        "question": "Trẻ 7,5 tháng chưa mọc răng , ngồi không vững , biếng ăn có phải thiếu canxi ?",
+        "response": "SYMPTOM_AND_DISEASE: chưa mọc răng, SYMPTOM_AND_DISEASE: ngồi không vững, SYMPTOM_AND_DISEASE: biếng ăn, SYMPTOM_AND_DISEASE: thiếu canxi"
+    },
+    {
+        "question": "Bị dị_ứng , khó thở và nôn khi ăn trứng gà có nghiêm_trọng không ?",
+        "response": "SYMPTOM_AND_DISEASE: dị_ứng, SYMPTOM_AND_DISEASE: khó thở, SYMPTOM_AND_DISEASE: nôn"
+    },
+    {
+        "question": "Thường khó thở , đau thắt ngực , người mệt_mỏi , chóng_mặt là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: khó thở, SYMPTOM_AND_DISEASE: đau thắt ngực, SYMPTOM_AND_DISEASE: người mệt_mỏi, SYMPTOM_AND_DISEASE: chóng_mặt"
+    },
+    {
+        "question": "Trẻ đi_ngoài gần 1 tháng , uống men tiêu_hoá không khỏi là bị sao ?",
+        "response": "SYMPTOM_AND_DISEASE: đi_ngoài gần 1 tháng, drug: men tiêu_hoá"
+    },
+    {
+        "question": "Đau giữa ngực lặp_đi_lặp_lại là dấu_hiệu của bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau giữa ngực"
+    },
+    {
+        "question": "Đau_đầu mệt_mỏi sau khi bị tai_nạn giao_thông có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau_đầu, SYMPTOM_AND_DISEASE: mệt_mỏi"
+    },
+    {
+        "question": "Trẻ khó ngủ kèm theo đi_ngoài phân lỏng có phải dấu_hiệu thiếu Vitamin_D ?",
+        "response": "SYMPTOM_AND_DISEASE: khó ngủ, SYMPTOM_AND_DISEASE: đi_ngoài phân lỏng, SYMPTOM_AND_DISEASE: thiếu Vitamin_D"
+    },
+    {
+        "question": "Sau khi ăn bị đi_ngoài và đau bụng_dưới ở bệnh_nhân mổ trĩ có sao không , khi nào cần tái khám ?",
+        "response": "SYMPTOM_AND_DISEASE: đi_ngoài, SYMPTOM_AND_DISEASE: đau bụng_dưới, medical_procedure: mổ trĩ"
+    },
+    {
+        "question": "Có phác_đồ nào điều_trị dứt_điểm bệnh viêm gan virus B mạn_tính không ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm gan virus B mạn_tính"
+    },
+    {
+        "question": "Có_thể lưu_trữ tế_bào gốc_từ người_thân để điều_trị cho bệnh_nhân bạch_cầu cấp_tính không ?",
+        "response": "SYMPTOM_AND_DISEASE: bạch_cầu cấp_tính"
+    },
+    {
+        "question": "Nước_tiểu có màu nâu đục cảnh_báo bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Nước_tiểu có màu nâu đục"
+    },
+    {
+        "question": "Bé hay nghẹt mũi , ọc sữa khi no phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: nghẹt mũi, SYMPTOM_AND_DISEASE: ọc sữa"
+    },
+    {
+        "question": "Polyp buồng tử_cung có ảnh_hưởng đến khả_năng sinh_sản không ?",
+        "response": "medical_procedure: Polyp buồng tử_cung"
+    },
+    {
+        "question": "Nhịp tim 105 lần / phút có nghiêm_trọng không ?",
+        "response": ""
+    },
+    {
+        "question": "Chỉ_số beta hCG 874.74 là có_thai hay không ?",
+        "response": "SYMPTOM_AND_DISEASE: có_thai"
+    },
+    {
+        "question": "Táo_bón kèm đau bụng trên rốn là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Táo_bón, SYMPTOM_AND_DISEASE: đau bụng trên rốn"
+    },
+    {
+        "question": "Đã từng thắt ống dẫn tinh giờ muốn nối lại phải làm_sao ?",
+        "response": "medical_procedure: thắt ống dẫn tinh"
+    },
+    {
+        "question": "Ho có đờm kèm theo máu về đêm là bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Ho có đờm, SYMPTOM_AND_DISEASE: máu về đêm"
+    },
+    {
+        "question": "Sau sinh bị đái_dầm là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: đái_dầm"
+    },
+    {
+        "question": "Trẻ 7 tháng tuổi bị nổi hạch sau tai gáy có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: nổi hạch sau tai gáy"
+    },
+    {
+        "question": "Mắc tim bẩm_sinh APSO nên điều_trị như_thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: tim bẩm_sinh APSO"
+    },
+    {
+        "question": "Bé 3 tuổi bị chậm nói , thường_xuyên phá_phách có nghiêm_trọng không ?",
+        "response": "SYMPTOM_AND_DISEASE: chậm nói, SYMPTOM_AND_DISEASE: thường_xuyên phá_phách"
+    },
+    {
+        "question": "Trẻ sơ_sinh bị u máu dạng phẳng có cần điều_trị không ?",
+        "response": "SYMPTOM_AND_DISEASE: u máu dạng phẳng"
+    },
+    {
+        "question": "Cổ_họng trái đau khi gập , xoay cổ , nghiêng người là bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Cổ_họng trái đau"
+    },
+    {
+        "question": "Trẻ đã tiêm phòng đầy_đủ có nên tiêm phòng uốn_ván khi dẫm phải đinh không ?",
+        "response": "medical_procedure: tiêm phòng uốn_ván"
+    },
+    {
+        "question": "Tìm_hiểu về công_dụng thuốc Aspegic cho phụ_nữ mang thai",
+        "response": "drug: thuốc Aspegic, SYMPTOM_AND_DISEASE: mang thai"
+    },
+    {
+        "question": "Quan_hệ sau kỳ kinh 2 ngày bị ra máu có đáng lo không ?",
+        "response": "SYMPTOM_AND_DISEASE: ra máu"
+    },
+    {
+        "question": "Khoảng tham_chiếu chỉ_số xét_nghiệm 17 - OHP nào là chuẩn trong sàng_lọc sơ_sinh ?",
+        "response": ""
+    },
+    {
+        "question": "Uống thuốc tránh thai được 4 ngày , xuất_tinh ngoài âm_đạo có dính bầu không ?",
+        "response": "drug: thuốc tránh thai"
+    },
+    {
+        "question": "Ù tai kéo_dài , nhức thái_dương là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Ù tai kéo_dài, SYMPTOM_AND_DISEASE: nhức thái_dương"
+    },
+    {
+        "question": "Thời_gian mọc răng vĩnh_viễn ở trẻ nhỏ là khi nào ?",
+        "response": "SYMPTOM_AND_DISEASE: mọc răng vĩnh_viễn"
+    },
+    {
+        "question": "Đã rụng rốn 8 ngày mà rốn vẫn ướt liệu có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: rốn vẫn ướt"
+    },
+    {
+        "question": "Siêu_âm thai phát_hiện hố sau giãn nhẹ có nguy_hiểm không ?",
+        "response": "medical_procedure: Siêu_âm thai, SYMPTOM_AND_DISEASE: hố sau giãn nhẹ"
+    },
+    {
+        "question": "Chóng_mặt , đau nửa đầu , da lạnh_ngắt là triệu_chứng bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Chóng_mặt, SYMPTOM_AND_DISEASE: đau nửa đầu, SYMPTOM_AND_DISEASE: da lạnh_ngắt"
+    },
+    {
+        "question": "Trẻ 3,5 tháng tiểu ra chấm hồng cam nhám trên bỉm có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: tiểu ra chấm hồng cam nhám"
+    },
+    {
+        "question": "Trẻ đi_ngoài phân_xanh do nguyên_nhân nào ?",
+        "response": "SYMPTOM_AND_DISEASE: đi_ngoài phân_xanh"
+    },
+    {
+        "question": "Trẻ 4 tháng tuổi mới bắt_đầu tiêm phòng có được không ?",
+        "response": "medical_procedure: tiêm phòng"
+    },
+    {
+        "question": "Chi dưới nổi gân xanh gây đau là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Chi dưới nổi gân xanh, SYMPTOM_AND_DISEASE: đau"
+    },
+    {
+        "question": "Sử_dụng thuốc điều_trị cao huyết_áp nhưng không hiệu_quả , có phải do kháng thuốc ?",
+        "response": "drug: cao huyết_áp"
+    },
+    {
+        "question": "Dùng thuốc nào điều_trị vi_khuẩn HP ?",
+        "response": "SYMPTOM_AND_DISEASE: vi_khuẩn HP"
+    },
+    {
+        "question": "Bị chó dại cắn đã 10 ngày thì phải làm thế_nào ?",
+        "response": ""
+    },
+    {
+        "question": "Bé gần 3 tháng bị chảy nước ở trong tai và có mùi , phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: chảy nước ở trong tai, SYMPTOM_AND_DISEASE: có mùi"
+    },
+    {
+        "question": "Đau nửa người trái , suy_giảm thị_lực mắt trái là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau nửa người trái, SYMPTOM_AND_DISEASE: suy_giảm thị_lực mắt trái"
+    },
+    {
+        "question": "Hỏi_đáp : Trẻ sơ_sinh xuất_hiện mụn đỏ có mủ là dấu_hiệu viêm da phải không ?",
+        "response": "SYMPTOM_AND_DISEASE: mụn đỏ có mủ, SYMPTOM_AND_DISEASE: viêm da"
+    },
+    {
+        "question": "Hỏi_đáp : Trẻ sơ_sinh rụng rốn nhưng chưa khô có đáng lo ?",
+        "response": "SYMPTOM_AND_DISEASE: rụng rốn nhưng chưa khô"
+    },
+    {
+        "question": "Nguyên_nhân và cách điều_trị triệu_chứng ho kéo_dài , đau rát cổ_họng , kèm ợ chua",
+        "response": "SYMPTOM_AND_DISEASE: ho kéo_dài, SYMPTOM_AND_DISEASE: đau rát cổ_họng, SYMPTOM_AND_DISEASE: ợ chua"
+    },
+    {
+        "question": "Sử_dụng thuốc tránh thai hàng tháng bị ra máu màu nâu có nguy_hiểm không ?",
+        "response": "drug: thuốc tránh thai, SYMPTOM_AND_DISEASE: ra máu màu nâu"
+    },
+    {
+        "question": "Muốn mang thai khi bị thiếu máu phải làm_sao ?",
+        "response": "medical_procedure: mang thai, SYMPTOM_AND_DISEASE: thiếu máu"
+    },
+    {
+        "question": "Trẻ xét_nghiệm máu kết_quả HbE 1.9 , bố_mẹ có nên làm xét_nghiệm gì không ?",
+        "response": "medical_procedure: xét_nghiệm máu"
+    },
+    {
+        "question": "Đau vết khâu tầng sinh môn , đau bụng_dưới sau sinh là do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau vết khâu tầng sinh môn, SYMPTOM_AND_DISEASE: đau bụng_dưới"
+    },
+    {
+        "question": "Nhiễm giun đầu gai lâu năm nên điều_trị thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: Nhiễm giun đầu gai"
+    },
+    {
+        "question": "Trong gan xuất_hiện ổ dịch có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: gan xuất_hiện ổ dịch"
+    },
+    {
+        "question": "Bị mề_đay kéo_dài , điều_trị bằng thuốc Bernadyrl không đỡ , phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: mề_đay kéo_dài, drug: thuốc Bernadyrl"
+    },
+    {
+        "question": "Có_thể thay_thế thuốc Vicetin 10mg bằng thuốc Cavinton 10mg không ?",
+        "response": "drug: thuốc Vicetin, drug: thuốc Cavinton"
+    },
+    {
+        "question": "Trẻ sơ_sinh xuất_hiện u sát sống_lưng là dấu_hiệu lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: u sát sống_lưng"
+    },
+    {
+        "question": "Nôn kèm ra mồ_hôi nhiều , người lạnh , tim đập nhanh có phải là dấu_hiệu của ngộ_độc thực_phẩm ?",
+        "response": "SYMPTOM_AND_DISEASE: Nôn, SYMPTOM_AND_DISEASE: ra mồ_hôi nhiều, SYMPTOM_AND_DISEASE: người lạnh, SYMPTOM_AND_DISEASE: tim đập nhanh, SYMPTOM_AND_DISEASE: ngộ_độc thực_phẩm"
+    },
+    {
+        "question": "Mang thai sau sinh mổ 12 tháng có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: Mang thai, medical_procedure: sinh mổ"
+    },
+    {
+        "question": "Trẻ uống nhiều sữa bí_đỏ bị vàng da có ảnh_hưởng gì không ?",
+        "response": "SYMPTOM_AND_DISEASE: vàng da"
+    },
+    {
+        "question": "Đau_nhói vùng bên ngực trái biểu_hiện bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau_nhói vùng bên ngực trái"
+    },
+    {
+        "question": "Người bị bệnh suyễn có_thể uống sụn cá_mập không ?",
+        "response": "SYMPTOM_AND_DISEASE: suyễn, drug: sụn cá_mập"
+    },
+    {
+        "question": "Trẻ đi vệ_sinh thường đau rát kèm chảy_máu nên làm gì ?",
+        "response": "SYMPTOM_AND_DISEASE: đi vệ_sinh thường đau rát, SYMPTOM_AND_DISEASE: chảy_máu"
+    },
+    {
+        "question": "Tình_trạng ù tai , váng đầu và choáng xỉu có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: ù tai, SYMPTOM_AND_DISEASE: váng đầu, SYMPTOM_AND_DISEASE: choáng xỉu"
+    },
+    {
+        "question": "Dùng thuốc điều_trị lao màng phổi 3 tháng có bầu gây ảnh_hưởng gì không ?",
+        "response": "SYMPTOM_AND_DISEASE: lao màng phổi, SYMPTOM_AND_DISEASE: bầu"
+    },
+    {
+        "question": "Trẻ sinh_đôi thiếu tháng thường bú ít do nguyên_nhân gì ?",
+        "response": "SYMPTOM_AND_DISEASE: thiếu tháng, SYMPTOM_AND_DISEASE: bú ít"
+    },
+    {
+        "question": "Trẻ sơ_sinh nấc khi cười là dấu_hiệu của việc thiếu chất ?",
+        "response": "SYMPTOM_AND_DISEASE: nấc khi cười, SYMPTOM_AND_DISEASE: thiếu chất"
+    },
+    {
+        "question": "Thuốc tránh thai ảnh_hưởng đến lạc nội mạc tử_cung như_thế_nào ?",
+        "response": "drug: Thuốc tránh thai, SYMPTOM_AND_DISEASE: lạc nội mạc tử_cung"
+    },
+    {
+        "question": "Trẻ sơ_sinh sau dùng thuốc hạ sốt vẫn sốt trở_lại nên làm gì ?",
+        "response": "drug: thuốc hạ sốt, SYMPTOM_AND_DISEASE: sốt"
+    },
+    {
+        "question": "Nam_giới tiểu khó lâu ngày có ảnh_hưởng sức_khoẻ không ?",
+        "response": "SYMPTOM_AND_DISEASE: tiểu khó lâu ngày"
+    },
+    {
+        "question": "Sự khác nhau giữa nhiễm_trùng tiêu_hoá và rối_loạn tiêu_hoá",
+        "response": "SYMPTOM_AND_DISEASE: nhiễm_trùng tiêu_hoá, SYMPTOM_AND_DISEASE: rối_loạn tiêu_hoá"
+    },
+    {
+        "question": "Sau va_đập đầu có biểu_hiện đau nửa đầu sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: đau nửa đầu"
+    },
+    {
+        "question": "Có thuốc nào giúp người bị trào ngược dạ_dày tăng cân không ?",
+        "response": "SYMPTOM_AND_DISEASE: trào ngược dạ_dày"
+    },
+    {
+        "question": "Bệnh u_nang bartholin có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: u_nang bartholin"
+    },
+    {
+        "question": "Kinh_nguyệt không đều là do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: Kinh_nguyệt không đều"
+    },
+    {
+        "question": "Đau lưng và ngực là biểu_hiện của bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau lưng và ngực"
+    },
+    {
+        "question": "Xuất_hiện chứng tiểu buốt , tiểu rắt có nên dùng thuốc_tây điều_trị ?",
+        "response": "SYMPTOM_AND_DISEASE: tiểu buốt, SYMPTOM_AND_DISEASE: tiểu rắt"
+    },
+    {
+        "question": "Lạm_dụng thuốc Otrivin xịt mũi khi bị khó thở do viêm xoang và polyp mũi có nguy_hiểm không ?",
+        "response": "drug: thuốc Otrivin xịt mũi, SYMPTOM_AND_DISEASE: khó thở, SYMPTOM_AND_DISEASE: viêm xoang, SYMPTOM_AND_DISEASE: polyp mũi"
+    },
+    {
+        "question": "Sỏi rơi xuống bàng_quang nhưng không tiểu ra được , phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Sỏi rơi xuống bàng_quang, SYMPTOM_AND_DISEASE: không tiểu ra được"
+    },
+    {
+        "question": "Trẻ 3 tuổi nặng 12kg , biếng ăn có suy_dinh_dưỡng ?",
+        "response": "SYMPTOM_AND_DISEASE: biếng ăn, SYMPTOM_AND_DISEASE: suy_dinh_dưỡng"
+    },
+    {
+        "question": "Bé gần 2 tháng vẫn vàng da liệu có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: vàng da"
+    },
+    {
+        "question": "Liều 19 của kháng_sinh dòng 2 RHZE / 4 RHE trong điều_trị lao có nghĩa gì ?",
+        "response": "drug: Liều 19 của kháng_sinh, SYMPTOM_AND_DISEASE: lao"
+    },
+    {
+        "question": "Chấn_thương dây_chằng trước đầu_gối uống thuốc nào hiệu_quả nhất ?",
+        "response": "SYMPTOM_AND_DISEASE: Chấn_thương dây_chằng trước đầu_gối"
+    },
+    {
+        "question": "Thời_điểm đặt_vòng tránh thai sau sinh mổ thích_hợp",
+        "response": "medical_procedure: đặt_vòng tránh thai, medical_procedure: sinh mổ"
+    },
+    {
+        "question": "Điều_trị nhịp tim giảm , hoa mắt ở bệnh_nhân động_mạch_vành như_thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: nhịp tim giảm, SYMPTOM_AND_DISEASE: hoa mắt"
+    },
+    {
+        "question": "Bé 4 tháng đi_ngoài phân lúc xanh , lúc vàng có dịch_nhầy là bị làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: phân lúc xanh , lúc vàng, SYMPTOM_AND_DISEASE: dịch_nhầy"
+    },
+    {
+        "question": "Bé 6.5 tháng có_thể lấy máu gót chân xét_nghiệm sàng_lọc được không ?",
+        "response": "medical_procedure: lấy máu gót chân, medical_procedure: xét_nghiệm, medical_procedure: sàng_lọc"
+    },
+    {
+        "question": "Đau_đầu , chóng_mặt , buồn_nôn khi ngủ dậy có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau_đầu, SYMPTOM_AND_DISEASE: chóng_mặt, SYMPTOM_AND_DISEASE: buồn_nôn"
+    },
+    {
+        "question": "Ra máu ngoài chu_kỳ kinh là bị làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Ra máu ngoài chu_kỳ kinh"
+    },
+    {
+        "question": "Nguyên_nhân bị cao huyết_áp có phải do ảnh_hưởng của chấn_thương thận không ?",
+        "response": "SYMPTOM_AND_DISEASE: cao huyết_áp, SYMPTOM_AND_DISEASE: chấn_thương thận"
+    },
+    {
+        "question": "Đau bụng bất_thường kéo_dài kèm theo kinh_nguyệt thâm là dấu_hiệu của bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau bụng bất_thường kéo_dài, SYMPTOM_AND_DISEASE: kinh_nguyệt thâm"
+    },
+    {
+        "question": "Uống thuốc hạ huyết_áp như_thế_nào hiệu_quả ?",
+        "response": "drug: thuốc hạ huyết_áp"
+    },
+    {
+        "question": "Trẻ béo phì do điều_trị giảm tiểu_cầu khắc_phục thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: béo phì, SYMPTOM_AND_DISEASE: giảm tiểu_cầu"
+    },
+    {
+        "question": "Ăn trứng luộc 1 ngày 2 quả có hại gan và làm nổi mụn trên mặt hay không ?",
+        "response": "SYMPTOM_AND_DISEASE: hại gan, SYMPTOM_AND_DISEASE: nổi mụn"
+    },
+    {
+        "question": "Đau họng tăng lên khi ngủ nên làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau họng"
+    },
+    {
+        "question": "Đoạn 1 ⁄ 3 dưới giãn 3.2 mm và đoạn 1 ⁄ 3 trên giãn 4.3 mm có phải là giãn niệu_quản không ?",
+        "response": "SYMPTOM_AND_DISEASE: giãn niệu_quản"
+    },
+    {
+        "question": "Đầy hơi , tức ở vùng thượng_vị có phải triệu_chứng của bệnh viêm loét dạ_dày không ?",
+        "response": "SYMPTOM_AND_DISEASE: Đầy hơi, SYMPTOM_AND_DISEASE: tức ở vùng thượng_vị, SYMPTOM_AND_DISEASE: viêm loét dạ_dày"
+    },
+    {
+        "question": "Vì sao chuyển phôi không thành_công khi chất_lượng phôi và niêm_mạc tử_cung tốt ?",
+        "response": "medical_procedure: chuyển phôi"
+    },
+    {
+        "question": "Trẻ 8 tuổi bị cường tuyến_giáp có để lại biến_chứng gì không ?",
+        "response": "SYMPTOM_AND_DISEASE: cường tuyến_giáp"
+    },
+    {
+        "question": "Đau họng , mắc nghẹn , tức ngực , khó thở mỗi khi nằm là bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau họng, SYMPTOM_AND_DISEASE: mắc nghẹn, SYMPTOM_AND_DISEASE: tức ngực, SYMPTOM_AND_DISEASE: khó thở"
+    },
+    {
+        "question": "Suy_giảm thị_lực có phải do đau_đầu hay tác_dụng phụ của Topiramate ?",
+        "response": "SYMPTOM_AND_DISEASE: Suy_giảm thị_lực, SYMPTOM_AND_DISEASE: đau_đầu, drug: Topiramate"
+    },
+    {
+        "question": "Ra máu âm_đạo khi mang thai tuần 5 liệu có ảnh_hưởng đến thai_nhi ?",
+        "response": "SYMPTOM_AND_DISEASE: Ra máu âm_đạo, SYMPTOM_AND_DISEASE: mang thai"
+    },
+    {
+        "question": "Xuất_tinh ngoài âm_đạo , thử que 1 vạch nhưng chậm kinh là do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: chậm kinh"
+    },
+    {
+        "question": "Đã test âm_tính với SARS-CoV -2 nhưng có dấu_hiệu cảm , sốt , đau người , cổ_họng thì còn có khả_năng bị Covid-19 nữa không ?",
+        "response": "medical_procedure: test, SYMPTOM_AND_DISEASE: SARS-CoV -2, SYMPTOM_AND_DISEASE: cảm, SYMPTOM_AND_DISEASE: sốt, SYMPTOM_AND_DISEASE: đau người, SYMPTOM_AND_DISEASE: cổ_họng, SYMPTOM_AND_DISEASE: Covid-19"
+    },
+    {
+        "question": "Trẻ bị sốt kèm lạnh , nuốt nước_bọt đau họng phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: sốt, SYMPTOM_AND_DISEASE: lạnh, SYMPTOM_AND_DISEASE: nuốt nước_bọt đau họng"
+    },
+    {
+        "question": "Trẻ 5 tháng bị sốt có phải do mọc răng",
+        "response": "SYMPTOM_AND_DISEASE: sốt, SYMPTOM_AND_DISEASE: mọc răng"
+    },
+    {
+        "question": "Sau mổ thoát bị bẹn thấy cộm có sao không ?",
+        "response": "medical_procedure: mổ thoát bị bẹn, SYMPTOM_AND_DISEASE: cộm"
+    },
+    {
+        "question": "Bổ_sung sắt cho trẻ biếng ăn bị thiếu máu nhẹ như_thế_nào ?",
+        "response": "drug: sắt, SYMPTOM_AND_DISEASE: biếng ăn, SYMPTOM_AND_DISEASE: thiếu máu"
+    },
+    {
+        "question": "Nhóm máu AB + và có kháng_thể lạ có_thể mắc các loại bệnh nào ?",
+        "response": ""
+    },
+    {
+        "question": "Hỏi_đáp : Vẫn đau zona sau khi điều_trị , phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: đau zona"
+    },
+    {
+        "question": "Niệu_đạo viêm đỏ dùng thuốc vẫn còn tình_trạng tiểu rát nên làm gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Niệu_đạo viêm đỏ, SYMPTOM_AND_DISEASE: tiểu rát"
+    },
+    {
+        "question": "Mở_miệng nghe thấy tiếng kêu lục_cục là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Mở_miệng nghe thấy tiếng kêu lục_cục"
+    },
+    {
+        "question": "Trẻ đi_ngoài nhiều , phân có dịch_nhầy và hạt có cần bổ_sung men vi_sinh hay không ?",
+        "response": "SYMPTOM_AND_DISEASE: đi_ngoài nhiều, SYMPTOM_AND_DISEASE: phân có dịch_nhầy và hạt, drug: men vi_sinh"
+    },
+    {
+        "question": "Uống thuốc điều_trị đau dạ_dày , đau ruột không đỡ phải làm_sao ?",
+        "response": "drug: thuốc điều_trị đau dạ_dày , đau ruột"
+    },
+    {
+        "question": "Đau thắt 2 bên ngực khi hắt_hơi triệu_chứng bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau thắt 2 bên ngực"
+    },
+    {
+        "question": "Phương_pháp điều_trị bệnh chóng_mặt tư_thế kịch_phát",
+        "response": "SYMPTOM_AND_DISEASE: chóng_mặt tư_thế kịch_phát"
+    },
+    {
+        "question": "Có_thể đặt que tránh thai ở đâu và có tác_dụng phụ nào khi đặt hay không ?",
+        "response": "medical_procedure: đặt que tránh thai"
+    },
+    {
+        "question": "Đau má hàm là dấu_hiệu bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau má"
+    },
+    {
+        "question": "Sau sinh mổ 1 tháng , quan_hệ tình_dục ra nhiều máu do đâu ?",
+        "response": "medical_procedure: sinh mổ, SYMPTOM_AND_DISEASE: ra nhiều máu"
+    },
+    {
+        "question": "Có thuốc đặc_trị bệnh viêm mũi dị_ứng không ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm mũi dị_ứng"
+    },
+    {
+        "question": "Trẻ rụng răng_cửa sau 2 tháng chưa mọc có cần đi khám không ?",
+        "response": "SYMPTOM_AND_DISEASE: rụng răng_cửa"
+    },
+    {
+        "question": "Có nên uống thuốc an_thần khi bị căng_thẳng stress không ?",
+        "response": "drug: thuốc an_thần, SYMPTOM_AND_DISEASE: căng_thẳng stress"
+    },
+    {
+        "question": "Dừng thuốc kháng virus viêm gan B 3 tháng liệu có khả_năng tái_phát ?",
+        "response": "drug: thuốc kháng virus viêm gan B"
+    },
+    {
+        "question": "Gây_tê ngoài màng_cứng có khả_năng thất_bại không ?",
+        "response": "medical_procedure: Gây_tê ngoài màng_cứng"
+    },
+    {
+        "question": "Quên 1 liều thuốc điều_trị viêm cầu thận có gây suy tuyến_thượng_thận luôn không ?",
+        "response": "drug: thuốc điều_trị viêm cầu thận, SYMPTOM_AND_DISEASE: suy tuyến_thượng_thận"
+    },
+    {
+        "question": "Lấy hết tuỷ răng bị nhiễm_trùng liệu có hết đau không ?",
+        "response": "SYMPTOM_AND_DISEASE: tuỷ răng bị nhiễm_trùng, SYMPTOM_AND_DISEASE: đau"
+    },
+    {
+        "question": "Ngạt_mũi , đau mỏi khớp vai là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Ngạt_mũi, SYMPTOM_AND_DISEASE: đau mỏi khớp vai"
+    },
+    {
+        "question": "Dương_tính với sán_lá gan cỡ lớn , ấu_trùng giun_đũa chó có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: sán_lá gan cỡ lớn, SYMPTOM_AND_DISEASE: ấu_trùng giun_đũa chó"
+    },
+    {
+        "question": "Có_thể điều_trị dứt_điểm bệnh_lý thần_kinh_ngoại_biên không ?",
+        "response": "SYMPTOM_AND_DISEASE: thần_kinh_ngoại_biên"
+    },
+    {
+        "question": "Móng tay bé có vệt trắng là bình_thường hay bất_thường ?",
+        "response": "SYMPTOM_AND_DISEASE: Móng tay bé có vệt trắng"
+    },
+    {
+        "question": "Chạy khoảng 100m bị mệt , không thở được có phải do thiếu oxy không ?",
+        "response": "SYMPTOM_AND_DISEASE: mệt, SYMPTOM_AND_DISEASE: không thở được, SYMPTOM_AND_DISEASE: thiếu oxy"
+    },
+    {
+        "question": "Nguyên_nhân vàng da ở người_lớn là do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: vàng da"
+    },
+    {
+        "question": "Thường_xuyên đau_nhức vùng gáy là biểu_hiện của bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: đau_nhức vùng gáy"
+    },
+    {
+        "question": "Hỏi_đáp : Quy_trình kỹ_thuật nội_soi đại_tràng diễn ra như_thế_nào ?",
+        "response": "medical_procedure: nội_soi đại_tràng"
+    },
+    {
+        "question": "Đau rát vùng ngực giữa là dấu_hiệu mắc bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau rát vùng ngực giữa"
+    },
+    {
+        "question": "Điều_trị tuyến_giáp nhân thuỳ phải như_thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: tuyến_giáp nhân thuỳ"
+    },
+    {
+        "question": "Mặt vẫn sưng sau phẫu_thuật xương gò_má hơn 1 tháng là do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: sưng, medical_procedure: phẫu_thuật xương gò_má"
+    },
+    {
+        "question": "Đau_đầu vận mạch có chữa tại nhà được không ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau_đầu vận mạch"
+    },
+    {
+        "question": "Khi nào nên điều_trị mất thính_lực ở trẻ sơ_sinh ?",
+        "response": "SYMPTOM_AND_DISEASE: mất thính_lực"
+    },
+    {
+        "question": "Nóng ran vùng giữa xương ức là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Nóng ran vùng giữa xương ức"
+    },
+    {
+        "question": "Nam_giới đã hiến thận , triệt_sản có ảnh_hưởng gì không ?",
+        "response": "medical_procedure: hiến thận, medical_procedure: triệt_sản"
+    },
+    {
+        "question": "Chóng_mặt kịch_phát lành_tính phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Chóng_mặt kịch_phát lành_tính"
+    },
+    {
+        "question": "Có cần sử_dụng thuốc khi không xuất_hiện triệu_chứng lạc nội mạc tử_cung ?",
+        "response": "SYMPTOM_AND_DISEASE: lạc nội mạc tử_cung"
+    },
+    {
+        "question": "Người cao_tuổi đang uống thuốc điều_trị hở van tim có_thể bổ_sung Omega-3 được không ?",
+        "response": "SYMPTOM_AND_DISEASE: hở van tim, drug: Omega-3"
+    },
+    {
+        "question": "Nổi hạch 2 bên nách cảnh_báo bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Nổi hạch 2 bên nách"
+    },
+    {
+        "question": "Tại_sao cần truyền máu trước khi mổ ?",
+        "response": "medical_procedure: truyền máu, medical_procedure: mổ"
+    },
+    {
+        "question": "Phương_pháp điều_trị bệnh đau thượng_vị kéo_dài như_thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: đau thượng_vị"
+    },
+    {
+        "question": "Đánh_giá bệnh tiểu_đường và cao huyết_áp qua chỉ_số đo hàng ngày",
+        "response": "SYMPTOM_AND_DISEASE: tiểu_đường, SYMPTOM_AND_DISEASE: cao huyết_áp"
+    },
+    {
+        "question": "Vì sao sỏi thận hai bên gây mệt_mỏi và đau ?",
+        "response": "SYMPTOM_AND_DISEASE: sỏi thận hai bên, SYMPTOM_AND_DISEASE: mệt_mỏi, SYMPTOM_AND_DISEASE: đau"
+    },
+    {
+        "question": "Trẻ uống nhiều thuốc kháng_sinh liệu có ảnh_hưởng đến sức_khoẻ không ?",
+        "response": "drug: thuốc kháng_sinh"
+    },
+    {
+        "question": "Trẻ 2 tuổi chậm nói do tật dính thắng lưỡi ?",
+        "response": "SYMPTOM_AND_DISEASE: chậm nói, SYMPTOM_AND_DISEASE: tật dính thắng lưỡi"
+    },
+    {
+        "question": "Độ lọc cầu thận 88.8 có đáng lo không ?",
+        "response": ""
+    },
+    {
+        "question": "Trẻ đau_đầu , mệt và sốt sau khi bị ngã có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: đau_đầu, SYMPTOM_AND_DISEASE: mệt, SYMPTOM_AND_DISEASE: sốt"
+    },
+    {
+        "question": "Chóng_mặt khi thay_đổi tư_thế sau chấn_thương đầu có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: Chóng_mặt, SYMPTOM_AND_DISEASE: chấn_thương đầu"
+    },
+    {
+        "question": "Sau sinh mổ 1 tháng xuất_hiện sản dịch màu đỏ tươi có ảnh_hưởng gì không ?",
+        "response": "medical_procedure: sinh mổ, SYMPTOM_AND_DISEASE: sản dịch màu đỏ tươi"
+    },
+    {
+        "question": "Bé 4 tháng , 4 ngày đi_ngoài một lần phân mềm , bú ít là bị làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: đi_ngoài một lần phân mềm, SYMPTOM_AND_DISEASE: bú ít"
+    },
+    {
+        "question": "Chướng bụng , suy tĩnh_mạch chi dưới và thoái_hoá đốt_sống cổ nên điều_trị thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: Chướng bụng, SYMPTOM_AND_DISEASE: suy tĩnh_mạch chi dưới, SYMPTOM_AND_DISEASE: thoái_hoá đốt_sống cổ"
+    },
+    {
+        "question": "Thời_gian cắt chỉ sau sinh mổ là bao_lâu ?",
+        "response": "medical_procedure: cắt chỉ, medical_procedure: sinh mổ"
+    },
+    {
+        "question": "Mụn rộp sinh_dục uống và bôi thuốc có khỏi không ?",
+        "response": "SYMPTOM_AND_DISEASE: Mụn rộp sinh_dục"
+    },
+    {
+        "question": "Miệng tiết nước_bọt liên_tục có phải bệnh về dạ_dày không ?",
+        "response": "SYMPTOM_AND_DISEASE: Miệng tiết nước_bọt liên_tục, SYMPTOM_AND_DISEASE: dạ_dày"
+    },
+    {
+        "question": "Nấc_cụt liên_tục là biểu_hiện của bệnh_lý gì và điều_trị thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: Nấc_cụt liên_tục"
+    },
+    {
+        "question": "Trẻ 3 tháng tuổi khó đi_ngoài , hay nôn trớ liệu có đáng lo ?",
+        "response": "SYMPTOM_AND_DISEASE: khó đi_ngoài, SYMPTOM_AND_DISEASE: nôn trớ"
+    },
+    {
+        "question": "Nóng rát từ lưỡi xuống đến bụng có phải bị đau dạ_dày không ?",
+        "response": "SYMPTOM_AND_DISEASE: Nóng rát từ lưỡi xuống đến bụng, SYMPTOM_AND_DISEASE: đau dạ_dày"
+    },
+    {
+        "question": "Bị vàng da , đau bụng , đi_ngoài phân nát và đầy hơi là do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: vàng da, SYMPTOM_AND_DISEASE: đau bụng, SYMPTOM_AND_DISEASE: đi_ngoài phân nát, SYMPTOM_AND_DISEASE: đầy hơi"
+    },
+    {
+        "question": "Trẻ 5 tháng lười bú , ít đi_ngoài chậm tăng cân nên làm gì ?",
+        "response": "SYMPTOM_AND_DISEASE: lười bú, SYMPTOM_AND_DISEASE: ít đi_ngoài, SYMPTOM_AND_DISEASE: chậm tăng cân"
+    },
+    {
+        "question": "Chân bị phù kèm chảy nước là do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: Chân bị phù, SYMPTOM_AND_DISEASE: chảy nước"
+    },
+    {
+        "question": "Liệt dây_thần_kinh số 7 ngoại biên phải có khả_năng phục_hồi không ?",
+        "response": "SYMPTOM_AND_DISEASE: Liệt dây_thần_kinh số 7 ngoại biên phải"
+    },
+    {
+        "question": "Tay_chân bé có kích_thước không đều phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Tay_chân bé có kích_thước không đều"
+    },
+    {
+        "question": "Bé bú mẹ hoàn_toàn đi_ngoài nhiều có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: đi_ngoài nhiều"
+    },
+    {
+        "question": "Nhắm_mắt thấy loé sáng ở một vị_trí là dấu_hiệu bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Nhắm_mắt thấy loé sáng ở một vị_trí"
+    },
+    {
+        "question": "Thường_xuyên ngứa , chảy nước_mũi kèm đau họng và ho là bị làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: ngứa, SYMPTOM_AND_DISEASE: chảy nước_mũi, SYMPTOM_AND_DISEASE: đau họng, SYMPTOM_AND_DISEASE: ho"
+    },
+    {
+        "question": "Trẻ 17 tháng ngủ trở_mình nhiều , hay khóc có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: ngủ trở_mình nhiều, SYMPTOM_AND_DISEASE: hay khóc"
+    },
+    {
+        "question": "Dấu_hiệu của hội_chứng rối_loạn cương dương ?",
+        "response": "SYMPTOM_AND_DISEASE: rối_loạn cương dương"
+    },
+    {
+        "question": "Sâu_răng gây đau_nhức và sưng nướu có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: Sâu_răng, SYMPTOM_AND_DISEASE: đau_nhức, SYMPTOM_AND_DISEASE: sưng nướu"
+    },
+    {
+        "question": "Trẻ 2 tuổi bị sún răng_cửa có nhổ được không ?",
+        "response": "SYMPTOM_AND_DISEASE: sún răng_cửa, medical_procedure: nhổ"
+    },
+    {
+        "question": "Hở van tim 2 lá 1,5/4 và 3 lá 2/4 có áp_dụng phương_pháp thay van 2 lá được không ?",
+        "response": "SYMPTOM_AND_DISEASE: Hở van tim 2 lá, SYMPTOM_AND_DISEASE: 3 lá, medical_procedure: thay van 2 lá"
+    },
+    {
+        "question": "Sử_dụng thuốc_mê khi tiêm hoặc chích hút mủ có sao không ?",
+        "response": "drug: thuốc_mê, medical_procedure: tiêm, medical_procedure: chích hút mủ"
+    },
+    {
+        "question": "Bé 8 tuổi 8 tháng có biểu_hiện dậy_thì sớm có cần phải khám và tiêm hoocmon không ?",
+        "response": "SYMPTOM_AND_DISEASE: dậy_thì sớm, medical_procedure: khám và tiêm hoocmon"
+    },
+    {
+        "question": "Nguyên_nhân và phương_pháp điều_trị bí tiểu ở trẻ nhỏ",
+        "response": "SYMPTOM_AND_DISEASE: bí tiểu"
+    },
+    {
+        "question": "Mẹ nên ăn_uống như_thế_nào khi bé bị nhiễm_trùng đường ruột ?",
+        "response": "SYMPTOM_AND_DISEASE: nhiễm_trùng đường ruột"
+    },
+    {
+        "question": "Khó thở , mất_ngủ , thi_thoảng sốt và tức ngực có phải viêm amidan không ?",
+        "response": "SYMPTOM_AND_DISEASE: Khó thở, SYMPTOM_AND_DISEASE: mất_ngủ, SYMPTOM_AND_DISEASE: sốt, SYMPTOM_AND_DISEASE: tức ngực, SYMPTOM_AND_DISEASE: viêm amidan"
+    },
+    {
+        "question": "Mang thai 39 tuần 2 ngày siêu_âm bị dư ối có ảnh_hưởng gì không ?",
+        "response": "SYMPTOM_AND_DISEASE: Mang thai, medical_procedure: siêu_âm, SYMPTOM_AND_DISEASE: dư ối"
+    },
+    {
+        "question": "Sau mãn_kinh ra nhiều huyết đặc , đông có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: mãn_kinh, SYMPTOM_AND_DISEASE: ra nhiều huyết đặc , đông"
+    },
+    {
+        "question": "Trẻ 4 tháng tuổi sốt và đi_ngoài khắc_phục thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: sốt, SYMPTOM_AND_DISEASE: đi_ngoài"
+    },
+    {
+        "question": "Bé gái 7 tuổi đau 2 vú có phải dậy_thì ?",
+        "response": "SYMPTOM_AND_DISEASE: đau 2 vú"
+    },
+    {
+        "question": "Nguyên_nhân gây đau hàm , méo miệng ?",
+        "response": "SYMPTOM_AND_DISEASE: đau hàm, SYMPTOM_AND_DISEASE: méo miệng"
+    },
+    {
+        "question": "Chướng bụng , buồn_nôn kèm theo ợ hơi là dấu_hiệu bệnh_lý nào ?",
+        "response": "SYMPTOM_AND_DISEASE: Chướng bụng, SYMPTOM_AND_DISEASE: buồn_nôn, SYMPTOM_AND_DISEASE: ợ hơi"
+    },
+    {
+        "question": "Trẻ nghịch_ngợm , chậm nói có phải biểu_hiện của tăng động giảm chú_ý ?",
+        "response": "SYMPTOM_AND_DISEASE: nghịch_ngợm, SYMPTOM_AND_DISEASE: chậm nói, SYMPTOM_AND_DISEASE: tăng động giảm chú_ý"
+    },
+    {
+        "question": "Bé bị hăm mông , mẩn đỏ có_thể dùng Skinbibi để cải_thiện không ?",
+        "response": "SYMPTOM_AND_DISEASE: hăm mông, SYMPTOM_AND_DISEASE: mẩn đỏ, drug: Skinbibi"
+    },
+    {
+        "question": "Uống sữa hay đau bụng toát mồ_hôi , đi_ngoài phân không bình_thường nguyên_nhân do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: đau bụng, SYMPTOM_AND_DISEASE: toát mồ_hôi, SYMPTOM_AND_DISEASE: đi_ngoài phân không bình_thường"
+    },
+    {
+        "question": "Mệt_mỏi , đau bụng_dưới , xuất_huyết âm_đạo có phải dấu_hiệu mang thai ?",
+        "response": "SYMPTOM_AND_DISEASE: Mệt_mỏi, SYMPTOM_AND_DISEASE: đau bụng_dưới, SYMPTOM_AND_DISEASE: xuất_huyết âm_đạo, SYMPTOM_AND_DISEASE: mang thai"
+    },
+    {
+        "question": "Người tái cận có mổ lại được không ?",
+        "response": "SYMPTOM_AND_DISEASE: tái cận, medical_procedure: mổ"
+    },
+    {
+        "question": "Người nóng lạnh bất_thường , mệt_mỏi có phải do bệnh viêm gan B tiến_triển ?",
+        "response": "SYMPTOM_AND_DISEASE: nóng lạnh bất_thường, SYMPTOM_AND_DISEASE: mệt_mỏi, SYMPTOM_AND_DISEASE: viêm gan B"
+    },
+    {
+        "question": "Con gái lần đầu có kinh nên làm gì ?",
+        "response": "SYMPTOM_AND_DISEASE: lần đầu có kinh"
+    },
+    {
+        "question": "Vết mổ ở bìu sau phẫu_thuật tinh_hoàn ngứa nên dùng thuốc gì ?",
+        "response": "medical_procedure: mổ ở bìu, medical_procedure: phẫu_thuật tinh_hoàn, SYMPTOM_AND_DISEASE: ngứa"
+    },
+    {
+        "question": "Buồn_nôn khi ăn có phải do bệnh_lý nguy_hiểm gây nên ?",
+        "response": "SYMPTOM_AND_DISEASE: Buồn_nôn"
+    },
+    {
+        "question": "Bệnh sa sinh_dục có thuốc điều_trị không ?",
+        "response": "SYMPTOM_AND_DISEASE: sa sinh_dục"
+    },
+    {
+        "question": "Bé bị viêm phế_quản và tiêu_chảy cấp : Nên ăn gì và không nên ăn gì ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm phế_quản, SYMPTOM_AND_DISEASE: tiêu_chảy cấp"
+    },
+    {
+        "question": "Chảy_máu chân răng kèm đau sườn trước phải là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Chảy_máu chân răng, SYMPTOM_AND_DISEASE: đau sườn trước phải"
+    },
+    {
+        "question": "Thời_gian thực_hiện ghép tế_bào gốc thường kéo_dài bao_lâu ?",
+        "response": "medical_procedure: ghép tế_bào gốc"
+    },
+    {
+        "question": "Tụ dịch màng nuôi kích_thước 5x10mm có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: Tụ dịch màng nuôi"
+    },
+    {
+        "question": "Trễ kinh 8 ngày siêu_âm không thấy túi thai có bầu chưa ?",
+        "response": "SYMPTOM_AND_DISEASE: Trễ kinh, medical_procedure: siêu_âm"
+    },
+    {
+        "question": "Mắc bệnh trĩ hỗn_hợp có dùng thuốc giảm đau đặt hậu_môn được không ?",
+        "response": "SYMPTOM_AND_DISEASE: trĩ hỗn_hợp, drug: thuốc giảm đau đặt hậu_môn"
+    },
+    {
+        "question": "Phụ_nữ mang thai bị thuỷ_đậu phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: mang thai, SYMPTOM_AND_DISEASE: thuỷ_đậu"
+    },
+    {
+        "question": "Nên làm gì khi trẻ sơ_sinh bị chảy_máu mũi ?",
+        "response": "SYMPTOM_AND_DISEASE: chảy_máu mũi"
+    },
+    {
+        "question": "Hết sản dịch xuất_hiện máu tươi , kèm theo đau bụng là dấu_hiệu kinh non ?",
+        "response": "SYMPTOM_AND_DISEASE: Hết sản dịch xuất_hiện máu tươi, SYMPTOM_AND_DISEASE: đau bụng, SYMPTOM_AND_DISEASE: kinh non"
+    },
+    {
+        "question": "Trẻ 3,5 tuổi bị nôn vào buổi sáng sau khi ngủ dậy cảnh_báo bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: nôn"
+    },
+    {
+        "question": "Trẻ 4 tháng 21 ngày tuổi ăn sữa công_thức đi phân màu xanh hơi đậm và lợn_cợn có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: phân màu xanh hơi đậm, SYMPTOM_AND_DISEASE: lợn_cợn"
+    },
+    {
+        "question": "Có nên tiêm hormone tăng_trưởng cho trẻ chậm phát_triển chiều cao không ?",
+        "response": "medical_procedure: tiêm hormone tăng_trưởng, SYMPTOM_AND_DISEASE: chậm phát_triển chiều cao"
+    },
+    {
+        "question": "Trẻ sau rụng rốn xuất_hiện cục thịt hồng có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: rụng rốn xuất_hiện cục thịt hồng"
+    },
+    {
+        "question": "Truyền tĩnh_mạch thuốc Moxifloxacin khi mang thai liệu có nguy_hiểm ?",
+        "response": "medical_procedure: Truyền tĩnh_mạch, drug: thuốc Moxifloxacin, SYMPTOM_AND_DISEASE: mang thai"
+    },
+    {
+        "question": "Giãn tĩnh_mạch chân nên tiêm thuốc hay Laser ?",
+        "response": "SYMPTOM_AND_DISEASE: Giãn tĩnh_mạch chân nên, medical_procedure: tiêm thuốc, medical_procedure: Laser"
+    },
+    {
+        "question": "Mất hứng_thú , có suy_nghĩ tự_sát có phải dấu_hiệu trầm_cảm ?",
+        "response": "SYMPTOM_AND_DISEASE: Mất hứng_thú, SYMPTOM_AND_DISEASE: suy_nghĩ tự_sát, SYMPTOM_AND_DISEASE: trầm_cảm"
+    },
+    {
+        "question": "Trẻ 9 tháng tuổi mắc bệnh não chất trắng có nguy_hiểm",
+        "response": "SYMPTOM_AND_DISEASE: não chất trắng"
+    },
+    {
+        "question": "Bệnh rỗng xương viêm tuỷ_sống có_thể điều_trị khỏi hay không ?",
+        "response": "SYMPTOM_AND_DISEASE: rỗng xương viêm tuỷ_sống"
+    },
+    {
+        "question": "Bé 5 tháng tuổi bị giời leo điều_trị như_thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: giời leo"
+    },
+    {
+        "question": "Trẻ sơ_sinh uống sữa công_thức bị nôn trớ , mẩn đỏ có phải bị dị_ứng không ?",
+        "response": "SYMPTOM_AND_DISEASE: nôn trớ, SYMPTOM_AND_DISEASE: mẩn đỏ, SYMPTOM_AND_DISEASE: dị_ứng"
+    },
+    {
+        "question": "Chụp x-quang dạ_dày đại_tràng bị đau bụng , buồn_nôn kèm đi_ngoài có sao không ?",
+        "response": "medical_procedure: Chụp x-quang dạ_dày đại_tràng, SYMPTOM_AND_DISEASE: đau bụng, SYMPTOM_AND_DISEASE: buồn_nôn, SYMPTOM_AND_DISEASE: đi_ngoài"
+    },
+    {
+        "question": "Estradiol cao điều_trị như_thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: Estradiol cao"
+    },
+    {
+        "question": "Thai 18 tuần 5 ngày nặng 250 gram liệu có bé không ?",
+        "response": ""
+    },
+    {
+        "question": "Làm thế_nào để tăng cân cho người đau bụng , chán ăn , mệt_mỏi ?",
+        "response": "SYMPTOM_AND_DISEASE: đau bụng, SYMPTOM_AND_DISEASE: chán ăn, SYMPTOM_AND_DISEASE: mệt_mỏi"
+    },
+    {
+        "question": "Bệnh viêm đường tiết_niệu có nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm đường tiết_niệu"
+    },
+    {
+        "question": "Hỏi_đáp : Phổi có vết đen sau điều_trị lao màng phổi có đáng lo ?",
+        "response": "SYMPTOM_AND_DISEASE: Phổi có vết đen, SYMPTOM_AND_DISEASE: lao màng phổi"
+    },
+    {
+        "question": "Mắt một bên cận 1 độ , một bên loạn 0.5 độ có nên đeo kính không ?",
+        "response": "SYMPTOM_AND_DISEASE: Mắt một bên cận 1 độ, SYMPTOM_AND_DISEASE: một bên loạn 0.5 độ, medical_procedure: đeo kính"
+    },
+    {
+        "question": "Vận_động sau khi chuyển phôi như_thế_nào là tốt nhất ?",
+        "response": "medical_procedure: chuyển phôi"
+    },
+    {
+        "question": "Tại_sao uống thuốc chống động_thai vẫn đau bụng , ra máu âm_đạo ?",
+        "response": "drug: thuốc chống động_thai, SYMPTOM_AND_DISEASE: đau bụng, SYMPTOM_AND_DISEASE: ra máu âm_đạo"
+    },
+    {
+        "question": "Đánh_giá tình_trạng men gan cao qua chỉ_số xét_nghiệm máu ?",
+        "response": "SYMPTOM_AND_DISEASE: men gan cao, medical_procedure: xét_nghiệm máu"
+    },
+    {
+        "question": "Biểu_hiện của ngộ_độc thực_phẩm là gì ?",
+        "response": "SYMPTOM_AND_DISEASE: ngộ_độc thực_phẩm"
+    },
+    {
+        "question": "Phương_pháp điều_trị ghép tế_bào gốc tự_thân tỷ_lệ thành_công bao_nhiêu ?",
+        "response": "medical_procedure: ghép tế_bào gốc tự_thân"
+    },
+    {
+        "question": "Xuất_hiện cục nhỏ ở hậu_môn có phải dấu_hiệu bệnh trĩ ?",
+        "response": "SYMPTOM_AND_DISEASE: Xuất_hiện cục nhỏ ở hậu_môn, SYMPTOM_AND_DISEASE: bệnh trĩ"
+    },
+    {
+        "question": "Hỏi_đáp : Nốt mẩn đỏ trên da lan rộng có phải dấu_hiệu bệnh vảy_nến ?",
+        "response": "SYMPTOM_AND_DISEASE: Nốt mẩn đỏ trên da, SYMPTOM_AND_DISEASE: vảy_nến"
+    },
+    {
+        "question": "Bé đi_ngoài phân có váng mỡ là sao ?",
+        "response": "SYMPTOM_AND_DISEASE: đi_ngoài phân có váng mỡ"
+    },
+    {
+        "question": "Vết bỏng do điện giật phồng lên và rỉ nước liệu có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: Vết bỏng do điện giật phồng lên, SYMPTOM_AND_DISEASE: rỉ nước"
+    },
+    {
+        "question": "Trẻ bị sốt kèm nổi mẩn hạt trắng là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: sốt, SYMPTOM_AND_DISEASE: nổi mẩn hạt trắng"
+    },
+    {
+        "question": "Trẻ sơ_sinh hay giật_mình , ngủ không sâu giấc là do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: giật_mình, SYMPTOM_AND_DISEASE: ngủ không sâu giấc"
+    },
+    {
+        "question": "Thai 11 tuần siêu_âm phình da thai_nhi , dày vai gáy là gì ?",
+        "response": "medical_procedure: siêu_âm, SYMPTOM_AND_DISEASE: phình da thai_nhi, SYMPTOM_AND_DISEASE: dày vai gáy"
+    },
+    {
+        "question": "Trẻ đi_ngoài ra sán thì cần điều_trị như_thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: đi_ngoài ra sán"
+    },
+    {
+        "question": "Kết_quả CEA 4,48 ng / ml có nguy_cơ ung_thư đại_tràng không ?",
+        "response": "SYMPTOM_AND_DISEASE: ung_thư đại_tràng"
+    },
+    {
+        "question": "Hỏi_đáp : Bé 2 tuổi bị gãy răng có uống thuốc giảm đau được không ?",
+        "response": "SYMPTOM_AND_DISEASE: gãy răng, drug: thuốc giảm đau"
+    },
+    {
+        "question": "Làm thế_nào để khắc_phục tình_trạng hôi miệng ?",
+        "response": "SYMPTOM_AND_DISEASE: hôi miệng"
+    },
+    {
+        "question": "Điều_trị đau họng ở trẻ sơ_sinh như_thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: đau họng"
+    },
+    {
+        "question": "Nguyên_nhân khiến máu kinh_nguyệt có màu nâu",
+        "response": "SYMPTOM_AND_DISEASE: máu kinh_nguyệt có màu nâu"
+    },
+    {
+        "question": "Đầy bụng , khó tiêu có phải triệu_chứng của bệnh_lý về đường tiêu_hoá ?",
+        "response": "SYMPTOM_AND_DISEASE: Đầy bụng, SYMPTOM_AND_DISEASE: khó tiêu, SYMPTOM_AND_DISEASE: bệnh_lý về đường tiêu_hoá"
+    },
+    {
+        "question": "Có mang thai không khi kết_quả xét_nghiệm máu có nồng_độ beta hCG là 2293,48 ?",
+        "response": "SYMPTOM_AND_DISEASE: mang thai, medical_procedure: xét_nghiệm máu"
+    },
+    {
+        "question": "Bé 6 tuổi khó thở cảnh_báo bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: khó thở"
+    },
+    {
+        "question": "Điều_trị rối_loạn nội_tiết_tố như_thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: rối_loạn nội_tiết_tố"
+    },
+    {
+        "question": "Làm thế_nào để con không bị lây viêm gan B từ bố ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm gan B"
+    },
+    {
+        "question": "Thắt ống dẫn trứng có_thể làm thụ_tinh_nhân_tạo được không ?",
+        "response": "medical_procedure: Thắt ống dẫn trứng, medical_procedure: thụ_tinh_nhân_tạo"
+    },
+    {
+        "question": "Hỏi_đáp : Điều_trị thoát_vị bẹn ở trẻ sơ_sinh như_thế_nào là tốt nhất ?",
+        "response": "SYMPTOM_AND_DISEASE: thoát_vị bẹn"
+    },
+    {
+        "question": "Mất_ngủ , chóng_mặt , đau vùng thắt_lưng là biểu_hiện của bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Mất_ngủ, SYMPTOM_AND_DISEASE: chóng_mặt, SYMPTOM_AND_DISEASE: đau vùng thắt_lưng"
+    },
+    {
+        "question": "Choáng đầu có phải dấu_hiệu của bệnh tiền_đình không ?",
+        "response": "SYMPTOM_AND_DISEASE: Choáng đầu, SYMPTOM_AND_DISEASE: tiền_đình"
+    },
+    {
+        "question": "Mắc hen_suyễn khi mang thai có_thể dùng thuốc gì an_toàn cho mẹ và bé ?",
+        "response": "SYMPTOM_AND_DISEASE: hen_suyễn, SYMPTOM_AND_DISEASE: mang thai"
+    },
+    {
+        "question": "Hỏi_đáp : Ăn măng bị dị_ứng phải làm thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: dị_ứng"
+    },
+    {
+        "question": "Bị tiểu_đường thai kỳ có cần tiêm insulin để an_toàn cho mẹ và bé không ?",
+        "response": "SYMPTOM_AND_DISEASE: tiểu_đường, medical_procedure: tiêm insulin"
+    },
+    {
+        "question": "Thường_xuyên đau tức ngực là dấu_hiệu của bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: đau tức ngực"
+    },
+    {
+        "question": "Trễ kinh sau quan_hệ không an_toàn , thử que lên 1 vạch có phải đã mang thai ?",
+        "response": "SYMPTOM_AND_DISEASE: Trễ kinh, medical_procedure: thử que, SYMPTOM_AND_DISEASE: mang thai"
+    },
+    {
+        "question": "Chân nổi các nốt đỏ gây sưng , căng cứng chân là triệu_chứng của giãn tĩnh_mạch ?",
+        "response": "SYMPTOM_AND_DISEASE: Chân nổi các nốt đỏ, SYMPTOM_AND_DISEASE: sưng, SYMPTOM_AND_DISEASE: căng cứng chân, SYMPTOM_AND_DISEASE: giãn tĩnh_mạch"
+    },
+    {
+        "question": "Bé bị loạn_thị nhưng đeo kính_cận nhìn rõ hơn là do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: loạn_thị"
+    },
+    {
+        "question": "Hỏi_đáp : Nguyên_nhân gây triệu_chứng tự kỷ ở trẻ là do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: tự kỷ"
+    },
+    {
+        "question": "Cảm_giác thức_ăn ngăn ở ngực lan ra sau lưng khi bị viêm dạ_dày mãn_tính , nhiễm HP có nghiêm_trọng không ?",
+        "response": "SYMPTOM_AND_DISEASE: Cảm_giác thức_ăn ngăn ở ngực lan ra sau lưng, SYMPTOM_AND_DISEASE: viêm dạ_dày mãn_tính, SYMPTOM_AND_DISEASE: nhiễm HP"
+    },
+    {
+        "question": "Trẻ đau khi đi_tiểu là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: đau khi đi_tiểu"
+    },
+    {
+        "question": "Sút_cân nhanh không rõ nguyên_nhân , đau bụng là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Sút_cân nhanh, SYMPTOM_AND_DISEASE: đau bụng"
+    },
+    {
+        "question": "Trẻ bị ẩn tinh_hoàn : Khi nào có_thể phẫu_thuật ?",
+        "response": "SYMPTOM_AND_DISEASE: ẩn tinh_hoàn, medical_procedure: phẫu_thuật"
+    },
+    {
+        "question": "Bị viêm gan B thể ngủ có tiêm phòng được không ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm gan B, medical_procedure: tiêm phòng"
+    },
+    {
+        "question": "Đánh_giá kết_quả kiểm_tra tuyến_tiền_liệt",
+        "response": "medical_procedure: kiểm_tra tuyến_tiền_liệt"
+    },
+    {
+        "question": "Bị vôi_hoá tinh_hoàn 1mm có_điều trị dứt_điểm được không ?",
+        "response": "SYMPTOM_AND_DISEASE: vôi_hoá tinh_hoàn"
+    },
+    {
+        "question": "Khắc_phục tình_trạng đau rát khi quan_hệ như_thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: đau rát"
+    },
+    {
+        "question": "Tiểu nhiều hơn mọi_khi kèm đau có phải bị viêm đường tiết_niệu không ?",
+        "response": "SYMPTOM_AND_DISEASE: Tiểu nhiều hơn mọi_khi, SYMPTOM_AND_DISEASE: đau, SYMPTOM_AND_DISEASE: viêm đường tiết_niệu"
+    },
+    {
+        "question": "Hỏi_đáp : Trẻ tiêu_chảy , sốt , đau bụng kéo_dài có cần đi khám không ?",
+        "response": "SYMPTOM_AND_DISEASE: tiêu_chảy, SYMPTOM_AND_DISEASE: sốt, SYMPTOM_AND_DISEASE: đau bụng kéo_dài"
+    },
+    {
+        "question": "Lột keo cố_định hàm giả ra vệ_sinh da bé bị chảy_máu phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: chảy_máu"
+    },
+    {
+        "question": "Trẻ 5 tháng tuổi cao 71cm , nặng 6kg có phải bị suy_dinh_dưỡng ?",
+        "response": "SYMPTOM_AND_DISEASE: suy_dinh_dưỡng"
+    },
+    {
+        "question": "Viêm xoang mạn_tính lâu ngày gây viêm họng mạn_tính ?",
+        "response": "SYMPTOM_AND_DISEASE: Viêm xoang mạn_tính, SYMPTOM_AND_DISEASE: viêm họng mạn_tính"
+    },
+    {
+        "question": "Người cao_tuổi tê bì tay_chân , căng_thẳng , sút_cân cảnh_báo bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: tê bì tay_chân, SYMPTOM_AND_DISEASE: căng_thẳng, SYMPTOM_AND_DISEASE: sút_cân"
+    },
+    {
+        "question": "Trẻ được 3 tháng 20 ngày tuổi bị đi_ngoài phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: đi_ngoài"
+    },
+    {
+        "question": "Hỏi_đáp : Đau xương sườn trái âm_ỉ là bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau xương sườn trái âm_ỉ"
+    },
+    {
+        "question": "Chỉ_số đường_huyết 14,6 có phải bị tiểu_đường không ?",
+        "response": "SYMPTOM_AND_DISEASE: tiểu_đường"
+    },
+    {
+        "question": "Trẻ mới sinh có dùng được Vitamin_A , D , E , K , Mk7 không và liều_lượng thế_nào ?",
+        "response": "drug: Vitamin_A , D , E , K , Mk7"
+    },
+    {
+        "question": "Từng cắt một bên tuyến_giáp có sử_dụng sản_phẩm từ mầm đậu_nành được không ?",
+        "response": "medical_procedure: cắt một bên tuyến_giáp"
+    },
+    {
+        "question": "Gần 1 năm không xuất_hiện kinh có phải mãn_kinh và cần làm gì để kéo_dài thời_kỳ kinh_nguyệt ?",
+        "response": "SYMPTOM_AND_DISEASE: không xuất_hiện kinh, SYMPTOM_AND_DISEASE: mãn_kinh"
+    },
+    {
+        "question": "Tức ngực , khó thở là biểu_hiện của bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Tức ngực, SYMPTOM_AND_DISEASE: khó thở"
+    },
+    {
+        "question": "Trẻ 5 tháng ti bình bị nôn , đi_ngoài phân lỏng như nước kèm sốt có phải bị tiêu_chảy cấp không ?",
+        "response": "SYMPTOM_AND_DISEASE: nôn, SYMPTOM_AND_DISEASE: đi_ngoài phân lỏng, SYMPTOM_AND_DISEASE: sốt, SYMPTOM_AND_DISEASE: tiêu_chảy cấp"
+    },
+    {
+        "question": "Mắt bị đau , nhìn song thị nguyên_nhân do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: Mắt bị đau, SYMPTOM_AND_DISEASE: nhìn song thị"
+    },
+    {
+        "question": "Đau mỏi vai gáy kèm hôi miệng có phải triệu_chứng nhiễm nhiễm ký_sinh_trùng ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau mỏi vai gáy, SYMPTOM_AND_DISEASE: hôi miệng, SYMPTOM_AND_DISEASE: nhiễm ký_sinh_trùng"
+    },
+    {
+        "question": "Xem kết_quả giới_tính thai_nhi qua xét_nghiệm máu ở tuần 12 thế_nào ?",
+        "response": "medical_procedure: xét_nghiệm máu"
+    },
+    {
+        "question": "Nguyên_nhân tràn dịch màng ngoài tim do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: tràn dịch màng ngoài tim"
+    },
+    {
+        "question": "Phương_pháp nào dùng để hỗ_trợ trẻ nói_khó , nói_lắp ?",
+        "response": "SYMPTOM_AND_DISEASE: nói_khó, SYMPTOM_AND_DISEASE: nói_lắp"
+    },
+    {
+        "question": "Hỏi_đáp : Cách phát_hiện và điều_trị bệnh tăng huyết_áp ?",
+        "response": "SYMPTOM_AND_DISEASE: tăng huyết_áp"
+    },
+    {
+        "question": "Thường_xuyên bị nghẹn cổ là dấu_hiệu bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: nghẹn cổ"
+    },
+    {
+        "question": "Có_thể mua gói sinh mổ khi đăng_ký chương_trình thai_sản trọn_gói Vinmec không ?",
+        "response": "medical_procedure: gói sinh mổ"
+    },
+    {
+        "question": "Bị lõm nửa ngực bên phải là dấu_hiệu của bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: lõm nửa ngực bên phải"
+    },
+    {
+        "question": "Đau_đầu sau mổ tai nguyên_nhân do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau_đầu, medical_procedure: mổ tai"
+    },
+    {
+        "question": "Vì sao phải uống thuốc huyết_áp lâu_dài ?",
+        "response": "drug: thuốc huyết_áp"
+    },
+    {
+        "question": "Sau 3 tháng nghi nhiễm HIV liệu xét_nghiệm có chính_xác không ?",
+        "response": "SYMPTOM_AND_DISEASE: nhiễm HIV, medical_procedure: xét_nghiệm"
+    },
+    {
+        "question": "Đau_đầu , suy_nghĩ nhiều , lo_âu là dấu_hiệu của bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau_đầu, SYMPTOM_AND_DISEASE: suy_nghĩ nhiều, SYMPTOM_AND_DISEASE: lo_âu"
+    },
+    {
+        "question": "Hỏi_đáp : Muốn mang thai mà chu_kỳ kinh không đều phải làm_sao ?",
+        "response": "medical_procedure: mang thai, SYMPTOM_AND_DISEASE: chu_kỳ kinh không"
+    },
+    {
+        "question": "Dấu_hiệu của bệnh bạch sản sau sinh là gì ?",
+        "response": "SYMPTOM_AND_DISEASE: bạch sản"
+    },
+    {
+        "question": "Mang thai 35 tuần bị suy giáp sử_dụng thuốc PTU 2 viên / ngày có được không ?",
+        "response": "SYMPTOM_AND_DISEASE: Mang thai, SYMPTOM_AND_DISEASE: suy giáp, drug: thuốc PTU"
+    },
+    {
+        "question": "Đau nửa đầu kéo_dài vùng bên trái là triệu_chứng của bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau nửa đầu kéo_dài vùng bên trái"
+    },
+    {
+        "question": "Xét_nghiệm glucose 5.6 ở tuần thứ 11 có nguy_cơ mắc tiểu_đường thai kỳ không ?",
+        "response": "medical_procedure: Xét_nghiệm glucose 5.6, SYMPTOM_AND_DISEASE: tiểu_đường"
+    },
+    {
+        "question": "Bạch_cầu Mono 2.3 ảnh_hưởng gì không ?",
+        "response": "SYMPTOM_AND_DISEASE: Bạch_cầu Mono 2.3"
+    },
+    {
+        "question": "Điều_trị nhiễm_trùng đường tiểu nhẹ không khỏi phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: nhiễm_trùng đường tiểu nhẹ"
+    },
+    {
+        "question": "Kinh_nguyệt ra ít , kéo_dài có sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: Kinh_nguyệt ra ít"
+    },
+    {
+        "question": "Bại_liệt có_thể điều_trị bằng ghép tế_bào gốc không ?",
+        "response": "SYMPTOM_AND_DISEASE: Bại_liệt, medical_procedure: ghép tế_bào gốc"
+    },
+    {
+        "question": "Hỏi_đáp : Có_thể gây_tê khi chọc hút trứng không ?",
+        "response": "medical_procedure: gây_tê, medical_procedure: chọc hút trứng"
+    },
+    {
+        "question": "Khoang tai nổi mụn lạ chứa dịch_nhầy phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: Khoang tai nổi mụn lạ chứa dịch_nhầy"
+    },
+    {
+        "question": "Vết thâm ban sởi có hết được không ?",
+        "response": "SYMPTOM_AND_DISEASE: Vết thâm ban sởi"
+    },
+    {
+        "question": "Hỏi_đáp : Làm thế_nào để phòng_tránh lây bệnh viêm gan B cho chồng và con ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm gan B"
+    },
+    {
+        "question": "Nội_soi dạ_dày không đau có những ưu_điểm nào ?",
+        "response": "medical_procedure: Nội_soi dạ_dày"
+    },
+    {
+        "question": "Đau họng 1 bên kèm sưng mặt là bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau họng 1 bên, SYMPTOM_AND_DISEASE: sưng mặt"
+    },
+    {
+        "question": "Hỏi_đáp : Làm thế_nào khi trẻ 15 tháng bị viêm nướu ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm nướu"
+    },
+    {
+        "question": "HbsAg dương_tính là dấu_hiệu của viêm gan B ?",
+        "response": "SYMPTOM_AND_DISEASE: HbsAg, SYMPTOM_AND_DISEASE: viêm gan B"
+    },
+    {
+        "question": "Mắt nhìn mờ ở người bị tiểu_đường có_thể chữa khỏi không ?",
+        "response": "SYMPTOM_AND_DISEASE: Mắt nhìn mờ, SYMPTOM_AND_DISEASE: tiểu_đường"
+    },
+    {
+        "question": "Đau_đầu , tức ngực , đau rát cổ cảnh_báo bệnh gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau_đầu, SYMPTOM_AND_DISEASE: tức ngực, SYMPTOM_AND_DISEASE: đau rát cổ"
+    },
+    {
+        "question": "Trẻ 4 tháng đã mọc răng có ảnh_hưởng gì không ?",
+        "response": "SYMPTOM_AND_DISEASE: mọc răng"
+    },
+    {
+        "question": "Mắc trào ngược và viêm họng mãn_tính nên điều_trị thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: trào ngược, SYMPTOM_AND_DISEASE: viêm họng mãn_tính"
+    },
+    {
+        "question": "Lãnh_cảm tình_dục nên điều_trị thế_nào ?",
+        "response": "SYMPTOM_AND_DISEASE: Lãnh_cảm tình_dục"
+    },
+    {
+        "question": "Bị sưng phù và đau_nhức 2 bàn_tay có phải do bị tắc tĩnh_mạch ?",
+        "response": "SYMPTOM_AND_DISEASE: sưng phù, SYMPTOM_AND_DISEASE: đau_nhức 2 bàn_tay, SYMPTOM_AND_DISEASE: tắc tĩnh_mạch"
+    },
+    {
+        "question": "Triệu_chứng vàng da ở trẻ sơ_sinh khi nào hết ?",
+        "response": "SYMPTOM_AND_DISEASE: vàng da"
+    },
+    {
+        "question": "Chỉ_số lọc cầu thận lên đến 600 có nên lọc thận không ?",
+        "response": "medical_procedure: lọc cầu thận, medical_procedure: lọc thận"
+    },
+    {
+        "question": "Nồng_độ AMH cao 9,5 ml có khả_năng mang thai được không ?",
+        "response": "SYMPTOM_AND_DISEASE: mang thai"
+    },
+    {
+        "question": "Bé 2 tháng tuổi đi_ngoài phân lấm_tấm đỏ như máu có bất_thường ?",
+        "response": "SYMPTOM_AND_DISEASE: đi_ngoài phân lấm_tấm đỏ như máu"
+    },
+    {
+        "question": "Bổ_sung kali có_điều trị khỏi chứng chuột_rút chân_tay không ?",
+        "response": "drug: kali, SYMPTOM_AND_DISEASE: chuột_rút chân_tay"
+    },
+    {
+        "question": "Bà bầu có sử_dụng thuốc đặt âm_đạo defungo được không ?",
+        "response": "drug: thuốc đặt âm_đạo defungo"
+    },
+    {
+        "question": "Dấu_hiệu nhận_biết viêm amidan là gì ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm amidan"
+    },
+    {
+        "question": "Viêm đường tiết_niệu nguy_hiểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: Viêm đường tiết_niệu"
+    },
+    {
+        "question": "Bị viêm tai giữa lâu ngày có_thể chữa khỏi được không ?",
+        "response": "SYMPTOM_AND_DISEASE: viêm tai giữa"
+    },
+    {
+        "question": "Đau , nóng rát ngực kèm theo ngứa họng là dấu_hiệu bệnh_lý gì ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau, SYMPTOM_AND_DISEASE: nóng rát ngực, SYMPTOM_AND_DISEASE: ngứa họng"
+    },
+    {
+        "question": "Hỏi_đáp : Nổi cục cứng ở má phải , hàm phải có phải dấu_hiệu ung_thư ?",
+        "response": "SYMPTOM_AND_DISEASE: Nổi cục cứng ở má phải , hàm phải, SYMPTOM_AND_DISEASE: ung_thư"
+    },
+    {
+        "question": "Rát họng , đau_nhức toàn_thân và tê bì chân là do đâu ?",
+        "response": "SYMPTOM_AND_DISEASE: Rát họng, SYMPTOM_AND_DISEASE: đau_nhức toàn_thân, SYMPTOM_AND_DISEASE: tê bì chân"
+    },
+    {
+        "question": "Trẻ 2 tháng nôn trớ sau bú mẹ có phải bị trào ngược dạ_dày ?",
+        "response": "SYMPTOM_AND_DISEASE: nôn trớ, SYMPTOM_AND_DISEASE: trào ngược dạ_dày"
+    },
+    {
+        "question": "Thuốc tránh thai khẩn_cấp ảnh_hưởng thế_nào đến cơ_thể ?",
+        "response": "drug: Thuốc tránh thai"
+    },
+    {
+        "question": "Viêm thanh_quản cấp có_thể điều_trị dứt_điểm không ?",
+        "response": "SYMPTOM_AND_DISEASE: Viêm thanh_quản cấp"
+    },
+    {
+        "question": "Bé 2 tháng rưỡi nặng 6kg có bị suy_dinh_dưỡng không ?",
+        "response": "SYMPTOM_AND_DISEASE: suy_dinh_dưỡng"
+    },
+    {
+        "question": "Sau gáy nổi mụn mềm , sờ không đau nguyên_nhân là gì ?",
+        "response": "SYMPTOM_AND_DISEASE: nổi mụn mềm, SYMPTOM_AND_DISEASE: sờ không đau"
+    },
+    {
+        "question": "Đi_đại_tiện trong phân có hạt màu trắng đục sao không ?",
+        "response": "SYMPTOM_AND_DISEASE: Đi_đại_tiện trong phân có hạt màu trắng đục"
+    },
+    {
+        "question": "Bị giãn phế_quản xơ thuỳ phổi tái đi tái lại sau mỗi lần điều_trị phải làm_sao ?",
+        "response": "SYMPTOM_AND_DISEASE: giãn phế_quản xơ thuỳ phổi tái đi tái lại"
+    },
+    {
+        "question": "Tiểu rắt , nhức lỗ tiểu có phải bị viêm niệu_đạo không ?",
+        "response": "SYMPTOM_AND_DISEASE: Tiểu rắt, SYMPTOM_AND_DISEASE: nhức lỗ tiểu, SYMPTOM_AND_DISEASE: viêm niệu_đạo"
+    },
+    {
+        "question": "Nguyên_nhân thiếu nước trong cơ_thể là gì ?",
+        "response": "SYMPTOM_AND_DISEASE: thiếu nước trong cơ_thể"
+    },
+    {
+        "question": "Đau một bên họng lan lên tai có phải ung_thư vòm họng không ?",
+        "response": "SYMPTOM_AND_DISEASE: Đau một bên họng, SYMPTOM_AND_DISEASE: ung_thư vòm họng"
+    }
+]
